@@ -1,0 +1,155 @@
+<!doctype html>
+<html lang="en" class="no-js">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Using AI for Resumes | Career Resources</title>
+<meta name="description" content="Tips for using AI safely on your resume, plus copy-and-paste prompts for job duties and skills lists.">
+<link rel="canonical" href="https://career-resources.com/resume-ai">
+<link rel="icon" href="favicon.ico" sizes="any">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<link rel="preload" href="assets/fonts/inter-latin-400-normal.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="assets/css/styles.css">
+<script src="assets/js/site.js" defer></script>
+</head>
+<body>
+<a class="skip-link" href="#main">Skip to main content</a>
+<header class="site-header">
+  <div class="wrap">
+    <a class="wordmark" href="index.html">CAREER RESOURCES</a>
+    <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="site-nav">Menu</button>
+    <nav id="site-nav" class="site-nav" aria-label="Main">
+      <ul>
+        <li class="has-sub is-current-parent">
+          <div class="has-sub__row">
+            <a href="index.html">Resumes</a>
+            <button type="button" class="sub-toggle" aria-expanded="false" aria-controls="sub-resumes"><span class="visually-hidden">Show Resumes pages</span><span class="sub-toggle__icon" aria-hidden="true"></span></button>
+          </div>
+          <ul class="sub-menu" id="sub-resumes">
+            <li><a href="resume-types.html">Choosing a Resume Type</a></li>
+            <li><a href="resume-ai.html" aria-current="page">Using AI for Resumes</a></li>
+          </ul>
+        </li>
+        <li class="has-sub">
+          <div class="has-sub__row">
+            <a href="/explore/">Career Exploration</a>
+            <button type="button" class="sub-toggle" aria-expanded="false" aria-controls="sub-explore"><span class="visually-hidden">Show Career Exploration pages</span><span class="sub-toggle__icon" aria-hidden="true"></span></button>
+          </div>
+          <ul class="sub-menu" id="sub-explore">
+            <li><a href="/explore/#lookup">Area Projections</a></li>
+            <li><a href="/explore/#skills">General Skills</a></li>
+            <li><a href="/explore/#overview">Area Summary</a></li>
+          </ul>
+        </li>
+      </ul>
+    </nav>
+  </div>
+</header>
+<main id="main" tabindex="-1">
+<div class="wrap">
+  <nav class="breadcrumb" aria-label="Breadcrumb">
+    <ol>
+      <li><a href="index.html">Resumes</a></li>
+      <li><span aria-current="page">Using AI for Resumes</span></li>
+    </ol>
+  </nav>
+
+<section class="hero on-dark" aria-labelledby="page-title">
+  <h1 id="page-title">Using AI for Resumes</h1>
+  <p class="subhead">AI can be a useful tool when you use it carefully.</p>
+</section>
+
+<section aria-labelledby="guidelines">
+  <h2 id="guidelines">General Guidelines</h2>
+  <ol class="stages">
+    <li>Always check what the AI writes. Is anything untrue? Is anything missing?</li>
+    <li>AI can be wordy and repeat itself. Make sure each line is short and adds something to your resume.</li>
+    <li>Start with a master resume. List all your experience, duties, and skills first. Then cut things for each job you apply to. It's easier to trim a long list than to come up with more later.</li>
+    <li>Sign in to the AI tool so your chat is saved. You can come back to it later without typing everything again.</li>
+    <li>Protect your personal information. Don't paste your Social Security number, date of birth, full street address, or account numbers into an AI chat. Use placeholders like [Phone] and [Address], and fill them in yourself later.</li>
+  </ol>
+</section>
+
+<section aria-labelledby="prompts" class="prompt-tabs">
+  <h2 id="prompts">AI Prompts for Resume Writing</h2>
+  <p>Want all the guidelines and prompts on one page to print? <a href="assets/pdf/ai-resume-guide-and-prompts.pdf">AI Resume Guide and Prompts (PDF)</a></p>
+  <p>Choose a task to see the prompt. Copy it, paste it into an AI chat like ChatGPT, Gemini, or Copilot, and fill in the parts in [brackets].</p>
+  <div role="tablist" aria-label="Choose a prompt">
+    <button type="button" role="tab" id="tab-1" aria-controls="tabpanel-1" aria-selected="true">Add Job Duties</button>
+    <button type="button" role="tab" id="tab-2" aria-controls="tabpanel-2" aria-selected="false" tabindex="-1">Master Skills List</button>
+    <button type="button" role="tab" id="tab-3" aria-controls="tabpanel-3" aria-selected="false" tabindex="-1">Both (Combined)</button>
+  </div>
+  <div class="panel" role="tabpanel" id="tabpanel-1" aria-labelledby="tab-1">
+    <h3>Prompt 1: Add Job Duties</h3>
+    <p>Use this to write job duties for one job at a time.</p>
+    <pre class="prompt" id="prompt-1">You&#x27;re going to help me come up with job duties for my resume. I&#x27;ll give you the job title, employer, and location, and you&#x27;ll use that context to write the job duties. Keep the duties concise. Use past tense for past jobs and present tense for my current job. Format all lists using simple hyphen bullets (-) only. Some jobs will already include a few duties; use those for context.
+
+[Paste one job title, employer, and employer location]</pre>
+    <div class="copy-row">
+      <button class="btn" type="button" data-copy="prompt-1" data-status="status-1" hidden>Copy Prompt 1</button>
+      <span class="copy-status" id="status-1" role="status" aria-live="polite"></span>
+    </div>
+  </div>
+
+  <div class="panel" role="tabpanel" id="tabpanel-2" aria-labelledby="tab-2" hidden>
+    <h3>Prompt 2: Get a Master List of Skills</h3>
+    <p>Use this after you've listed all your jobs and education.</p>
+    <pre class="prompt" id="prompt-2">Here is my current resume (below). From it, give me a master list of skills. Be concise: each skill should be no more than 3 words. Put it in a format that&#x27;s easy to copy and paste. Split the skills into two categories: &quot;Transferable&quot; and &quot;Technical.&quot;
+
+[Paste your full list of experience, education, and certifications]</pre>
+    <div class="copy-row">
+      <button class="btn" type="button" data-copy="prompt-2" data-status="status-2" hidden>Copy Prompt 2</button>
+      <span class="copy-status" id="status-2" role="status" aria-live="polite"></span>
+    </div>
+  </div>
+
+  <div class="panel" role="tabpanel" id="tabpanel-3" aria-labelledby="tab-3" hidden>
+    <h3>Prompt 3: Combined Prompt</h3>
+    <p>Use this to set up one chat that does both tasks.</p>
+    <pre class="prompt" id="prompt-3">You&#x27;re going to help me with two things for my resume.
+
+1. Job duties: I&#x27;ll give you a job title, employer, location, and dates. Use that context to write concise job duties. Use past tense for past jobs and present tense for my current job. Some jobs will already include a few duties; use those for context.
+
+2. Master skills list: When I say &quot;my resume is below,&quot; I&#x27;ll paste all my experience, education, and certifications. Give me a master list of skills, no more than 3 words each, split into &quot;Transferable&quot; and &quot;Technical.&quot;
+
+Format all lists using simple hyphen bullets (-) only, so they&#x27;re easy to copy and paste.</pre>
+    <div class="copy-row">
+      <button class="btn" type="button" data-copy="prompt-3" data-status="status-3" hidden>Copy Prompt 3</button>
+      <span class="copy-status" id="status-3" role="status" aria-live="polite"></span>
+    </div>
+    <h4>How to Use the Combined Prompt</h4>
+    <ol>
+      <li>Start a new AI chat.</li>
+      <li>Copy the combined prompt, paste it into the chat, and send it.</li>
+      <li>Paste one job title, employer, location, dates, and any duties you already have. Send it. Repeat for each job.</li>
+      <li>When you're ready, type <strong>my resume is below. Give me the master skills list</strong>. Then paste ALL of your experience and education, including job duties and details. Send it.</li>
+    </ol>
+  </div>
+
+</section>
+
+</div>
+</main>
+<div class="help-strip">
+  <div class="wrap">
+    <p>Stuck? Stop by the Grass Valley resource room or call <a href="tel:+15303281953">(530) 328-1953</a>.</p>
+  </div>
+</div>
+<footer class="site-footer on-dark">
+  <div class="wrap">
+    <h2>Get Help in Person</h2>
+    <p>Our staff can help you pick a template, write your resume, and apply for jobs. It's free.</p>
+    <p class="label">Alliance for Workforce Development (AFWD), Grass Valley Office</p>
+    <address>988 McCourtney Rd, Grass Valley, CA 95949</address>
+    <p>Phone: <a href="tel:+15303281953">(530) 328-1953</a></p>
+    <p>Monday to Friday, 8:00 AM to 5:00 PM (closed for lunch 12:30 PM to 1:30 PM)</p>
+    <p class="footer-email"><a class="btn btn--light" href="mailto:bgelbart@ncen.org">Email Us</a> <span>bgelbart@ncen.org</span></p>
+    <p><a href="https://afwd.org/">afwd.org</a> &middot; AFWD is part of <a href="https://www.ncen.org/">NoRTEC</a></p>
+    <div class="eo small">
+      <p>AFWD is an Equal Opportunity Employer/Program. Auxiliary aids and services are available upon request to individuals with disabilities. TTY: California Relay Service 7-1-1.</p>
+      <p>Last updated October 13, 2026</p>
+    </div>
+  </div>
+</footer>
+</body>
+</html>
