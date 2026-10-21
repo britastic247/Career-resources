@@ -162,6 +162,17 @@
    "address": "1262 Sutton Way, Grass Valley",
    "hours": ""
   },
+  "301": {
+   "name": "PRIDE Industries",
+   "slug": "pride-industries",
+   "count": 1,
+   "description": "",
+   "website": "",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": ""
+  },
   "201": {
    "name": "Nevada County Social Services",
    "slug": "nevada-county-social-services",
@@ -462,7 +473,7 @@
   "218": {
    "name": "California Career Resource Network",
    "slug": "california-career-resource-network",
-   "count": 1,
+   "count": 2,
    "description": "",
    "website": "",
    "phone": "",
@@ -522,7 +533,7 @@
    "website": "www.freed.org",
    "phone": "**Grass Valley:**\n\n- 530-477-3333 Voice\n- 530-477-8194 TTY\n- 530-477-8184 Fax\n- 800-655-7732 Toll Free\n\n**Yuba City**\n\n- 530-742-4474 Voice\n- 530-742-2379 TTY\n- 530-742-4476 Fax",
    "email": "",
-   "address": "Grass Valley: 435 Sutton Way\nYuba City: 1100 Butte House Rd Suite 120",
+   "address": "**Grass Valley:** 435 Sutton Way\n**Yuba City:** 1100 Butte House Rd Suite 120",
    "hours": "Grass Valley & Yuba City: M - F, 8:30 AM - 4 PM"
   },
   "202": {
@@ -572,7 +583,18 @@
   "217": {
    "name": "Alliance for Workforce Development",
    "slug": "alliance-for-workforce-development",
-   "count": 1,
+   "count": 7,
+   "description": "",
+   "website": "",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": ""
+  },
+  "314": {
+   "name": "GCFGlobal LearnFree",
+   "slug": "gcfglobal-learnfree",
+   "count": 5,
    "description": "",
    "website": "",
    "phone": "",
@@ -583,7 +605,7 @@
   "234": {
    "name": "Facebook",
    "slug": "facebook",
-   "count": 5,
+   "count": 7,
    "description": "",
    "website": "",
    "phone": "",
@@ -627,7 +649,7 @@
   "238": {
    "name": "Department of Rehabilitation",
    "slug": "department-of-rehabilitation",
-   "count": 1,
+   "count": 3,
    "description": "",
    "website": "www.dor.ca.gov",
    "phone": "",
@@ -693,7 +715,7 @@
   "291": {
    "name": "U.S. Department of Labor",
    "slug": "u-s-department-of-labor",
-   "count": 2,
+   "count": 6,
    "description": "",
    "website": "www.apprenticeship.gov",
    "phone": "",
@@ -751,7 +773,7 @@
    "count": 3,
    "description": "",
    "website": "www.ged.com",
-   "phone": "GED Customer Service: 877-392-6433",
+   "phone": "**GED Customer Service:** 877-392-6433",
    "email": "",
    "address": "",
    "hours": ""
@@ -773,7 +795,7 @@
    "count": 3,
    "description": "Works to end mass incarceration in California. Offers free support to people coming home from incarceration. Offices in Sacramento and Los Angeles.",
    "website": "antirecidivism.org",
-   "phone": "Sacramento office: 916-850-3158",
+   "phone": "**Sacramento office:** 916-850-3158",
    "email": "",
    "address": "2830 G St., Suite 210, Sacramento, CA 95816",
    "hours": ""
@@ -788,6 +810,611 @@
    "email": "",
    "address": "",
    "hours": ""
+  },
+  "297": {
+   "name": "Lime Connect",
+   "slug": "lime-connect",
+   "count": 2,
+   "description": "",
+   "website": "",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": ""
+  },
+  "298": {
+   "name": "CareerCircle",
+   "slug": "careercircle",
+   "count": 2,
+   "description": "",
+   "website": "",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": ""
+  },
+  "299": {
+   "name": "disABLEDperson, Inc.",
+   "slug": "disabledperson-inc",
+   "count": 3,
+   "description": "",
+   "website": "",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": ""
+  },
+  "300": {
+   "name": "Mitratech",
+   "slug": "mitratech",
+   "count": 1,
+   "description": "",
+   "website": "",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": ""
+  },
+  "303": {
+   "name": "ABLE National Resource Center",
+   "slug": "able-national-resource-center",
+   "count": 1,
+   "description": "",
+   "website": "",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": ""
+  },
+  "304": {
+   "name": "Verizon",
+   "slug": "verizon",
+   "count": 1,
+   "description": "",
+   "website": "",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": ""
+  },
+  "305": {
+   "name": "California Infrastructure and Economic Development Bank (IBank)",
+   "slug": "california-infrastructure-and-economic-development-bank-ibank",
+   "count": 1,
+   "description": "",
+   "website": "",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": ""
+  },
+  "306": {
+   "name": "SCORE",
+   "slug": "score",
+   "count": 1,
+   "description": "",
+   "website": "",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": ""
+  },
+  "307": {
+   "name": "Synergies Work",
+   "slug": "synergies-work",
+   "count": 1,
+   "description": "",
+   "website": "",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": ""
+  },
+  "308": {
+   "name": "Salesforce",
+   "slug": "salesforce",
+   "count": 2,
+   "description": "",
+   "website": "",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": ""
+  },
+  "309": {
+   "name": "Blind Institute of Technology",
+   "slug": "blind-institute-of-technology",
+   "count": 1,
+   "description": "",
+   "website": "",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": ""
+  },
+  "310": {
+   "name": "California Volunteers",
+   "slug": "california-volunteers",
+   "count": 4,
+   "description": "",
+   "website": "",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": ""
+  },
+  "311": {
+   "name": "AmeriCorps",
+   "slug": "americorps",
+   "count": 4,
+   "description": "",
+   "website": "",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": ""
+  },
+  "312": {
+   "name": "California Conservation Corps",
+   "slug": "california-conservation-corps",
+   "count": 1,
+   "description": "",
+   "website": "",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": ""
+  },
+  "313": {
+   "name": "The Corps Network",
+   "slug": "the-corps-network",
+   "count": 1,
+   "description": "",
+   "website": "",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": ""
+  },
+  "315": {
+   "name": "Leila Gharani",
+   "slug": "leila-gharani",
+   "count": 1,
+   "description": "",
+   "website": "",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": ""
+  },
+  "316": {
+   "name": "Typing.com",
+   "slug": "typing-com",
+   "count": 3,
+   "description": "",
+   "website": "",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": ""
+  },
+  "318": {
+   "name": "The Practice Test",
+   "slug": "the-practice-test",
+   "count": 1,
+   "description": "",
+   "website": "",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": ""
+  },
+  "319": {
+   "name": "Google",
+   "slug": "google",
+   "count": 5,
+   "description": "",
+   "website": "",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": ""
+  },
+  "320": {
+   "name": "Alison",
+   "slug": "alison",
+   "count": 3,
+   "description": "",
+   "website": "",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": ""
+  },
+  "321": {
+   "name": "Calbright College",
+   "slug": "calbright-college",
+   "count": 1,
+   "description": "",
+   "website": "",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": ""
+  },
+  "322": {
+   "name": "HubSpot",
+   "slug": "hubspot",
+   "count": 1,
+   "description": "",
+   "website": "",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": ""
+  },
+  "323": {
+   "name": "NextGenU",
+   "slug": "nextgenu",
+   "count": 1,
+   "description": "",
+   "website": "",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": ""
+  },
+  "324": {
+   "name": "Cursa",
+   "slug": "cursa",
+   "count": 1,
+   "description": "",
+   "website": "",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": ""
+  },
+  "325": {
+   "name": "Coursera",
+   "slug": "coursera",
+   "count": 1,
+   "description": "",
+   "website": "",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": ""
+  },
+  "326": {
+   "name": "edX",
+   "slug": "edx",
+   "count": 1,
+   "description": "",
+   "website": "",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": ""
+  },
+  "327": {
+   "name": "Udacity",
+   "slug": "udacity",
+   "count": 1,
+   "description": "",
+   "website": "",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": ""
+  },
+  "328": {
+   "name": "Class Central",
+   "slug": "class-central",
+   "count": 1,
+   "description": "",
+   "website": "",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": ""
+  },
+  "329": {
+   "name": "Free Certifications",
+   "slug": "free-certifications",
+   "count": 1,
+   "description": "",
+   "website": "",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": ""
+  },
+  "330": {
+   "name": "Per Scholas",
+   "slug": "per-scholas",
+   "count": 1,
+   "description": "",
+   "website": "",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": ""
+  },
+  "331": {
+   "name": "California Community Colleges Centers of Excellence",
+   "slug": "california-community-colleges-centers-of-excellence",
+   "count": 1,
+   "description": "",
+   "website": "",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": ""
+  },
+  "332": {
+   "name": "Calculator.net",
+   "slug": "calculator-net",
+   "count": 1,
+   "description": "",
+   "website": "",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": ""
+  },
+  "333": {
+   "name": "FreeBudget",
+   "slug": "freebudget",
+   "count": 1,
+   "description": "",
+   "website": "",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": ""
+  },
+  "334": {
+   "name": "Apprenticeships.me",
+   "slug": "apprenticeships-me",
+   "count": 1,
+   "description": "",
+   "website": "",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": ""
+  },
+  "336": {
+   "name": "IBM",
+   "slug": "ibm",
+   "count": 1,
+   "description": "",
+   "website": "",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": ""
+  },
+  "337": {
+   "name": "Outreachy",
+   "slug": "outreachy",
+   "count": 1,
+   "description": "",
+   "website": "",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": ""
+  },
+  "338": {
+   "name": "Cloud for Good",
+   "slug": "cloud-for-good",
+   "count": 1,
+   "description": "",
+   "website": "",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": ""
+  },
+  "340": {
+   "name": "California Intern Network",
+   "slug": "california-intern-network",
+   "count": 1,
+   "description": "",
+   "website": "",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": ""
+  },
+  "341": {
+   "name": "Handshake",
+   "slug": "handshake",
+   "count": 1,
+   "description": "",
+   "website": "",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": ""
+  },
+  "342": {
+   "name": "Chegg",
+   "slug": "chegg",
+   "count": 1,
+   "description": "",
+   "website": "",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": ""
+  },
+  "344": {
+   "name": "Sacramento Valley Manufacturing Alliance",
+   "slug": "sacramento-valley-manufacturing-alliance",
+   "count": 1,
+   "description": "",
+   "website": "",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": ""
+  },
+  "345": {
+   "name": "Associated Builders and Contractors – Northern California",
+   "slug": "associated-builders-and-contractors-northern-california",
+   "count": 1,
+   "description": "",
+   "website": "",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": ""
+  },
+  "346": {
+   "name": "Sacramento Municipal Utility District (SMUD)",
+   "slug": "sacramento-municipal-utility-district-smud",
+   "count": 1,
+   "description": "",
+   "website": "",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": ""
+  },
+  "348": {
+   "name": "Chabot-Las Positas Community College District",
+   "slug": "chabot-las-positas-community-college-district",
+   "count": 1,
+   "description": "",
+   "website": "",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": ""
+  },
+  "349": {
+   "name": "Carpenters Training Committee for Northern California",
+   "slug": "carpenters-training-committee-for-northern-california",
+   "count": 1,
+   "description": "",
+   "website": "",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": ""
+  },
+  "350": {
+   "name": "International Brotherhood of Electrical Workers (IBEW)",
+   "slug": "international-brotherhood-of-electrical-workers-ibew",
+   "count": 1,
+   "description": "",
+   "website": "",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": ""
+  },
+  "351": {
+   "name": "United Association (UA)",
+   "slug": "united-association-ua",
+   "count": 1,
+   "description": "",
+   "website": "",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": ""
+  },
+  "352": {
+   "name": "Laborers' International Union of North America (LIUNA)",
+   "slug": "laborers-international-union-of-north-america-liuna",
+   "count": 1,
+   "description": "",
+   "website": "",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": ""
+  },
+  "353": {
+   "name": "International Association of Sheet Metal, Air, Rail and Transportation Workers (SMART)",
+   "slug": "international-association-of-sheet-metal-air-rail-and-transportation-workers-smart",
+   "count": 1,
+   "description": "",
+   "website": "",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": ""
+  },
+  "354": {
+   "name": "International Union of Elevator Constructors (IUEC)",
+   "slug": "international-union-of-elevator-constructors-iuec",
+   "count": 1,
+   "description": "",
+   "website": "",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": ""
+  },
+  "356": {
+   "name": "Nextdoor",
+   "slug": "nextdoor",
+   "count": 1,
+   "description": "",
+   "website": "",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": ""
+  },
+  "357": {
+   "name": "Canva",
+   "slug": "canva",
+   "count": 1,
+   "description": "",
+   "website": "",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": ""
+  },
+  "358": {
+   "name": "Thumbtack",
+   "slug": "thumbtack",
+   "count": 1,
+   "description": "",
+   "website": "",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": ""
+  },
+  "359": {
+   "name": "FlexJobs",
+   "slug": "flexjobs",
+   "count": 1,
+   "description": "",
+   "website": "",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": ""
+  },
+  "360": {
+   "name": "Instawork",
+   "slug": "instawork",
+   "count": 1,
+   "description": "",
+   "website": "",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": ""
   }
  },
  "resources": [
@@ -799,7 +1426,7 @@
    "orgUrl": "",
    "description": "Call for safety related emergencies.",
    "website": "www.grassvalleyca.gov/police-department",
-   "phone": "Dispatch: (530)265-7880\nBusiness: (530)477-4600",
+   "phone": "**Dispatch:** (530)265-7880\n**Business:** (530)477-4600",
    "email": "",
    "address": "",
    "hours": "24/7",
@@ -1084,7 +1711,7 @@
    "orgUrl": "www.tpcp.org",
    "description": "Psychosocial rehab, case management, medication management, therapy, housing support, justice system support. Must be referred through NC Behavioral Health.",
    "website": "www.tpcp.org",
-   "phone": "Call: (530)273-5440\nFax: (916)504-4328",
+   "phone": "**Call:** (530)273-5440\n**Fax:** (916)504-4328",
    "email": "",
    "address": "500 Crown Point Circle \n#100, Grass Valley",
    "hours": "",
@@ -1753,7 +2380,7 @@
    "orgUrl": "",
    "description": "Serves seniors with firewood, food access, programs, activities, and community.",
    "website": "www.goldcountryservices.org",
-   "phone": "(530)273-4961\nAdmin: (530)615-4541",
+   "phone": "(530)273-4961\n**Admin:** (530)615-4541",
    "email": "",
    "address": "231 Colfax Ave\nGrass Valley",
    "hours": "M - F, 9 AM - 4 PM",
@@ -1783,12 +2410,12 @@
   {
    "id": 31,
    "name": "PRIDE Industries",
-   "orgId": "",
-   "org": "",
+   "orgId": "301",
+   "org": "PRIDE Industries",
    "orgUrl": "",
-   "description": "Serves people with disabilities, veterans, former foster youth, and trafficking survivors.",
+   "description": "Serves people with disabilities, veterans, former foster youth, and trafficking survivors. Offers employment coaching, job preparation, and job placement in English and Spanish.\n\nApply online through the Employment Helpline: www.prideindustries.com/work-with-pride/employment-helpline",
    "website": "www.prideindustries.com",
-   "phone": "(530)477-1832\nEmployment Helpline: (844)426-2253",
+   "phone": "(530)477-1832\n**Employment Helpline:** (844)426-2253 (M - F, 8 AM - 6 PM; English and Spanish)",
    "email": "",
    "address": "944 McCourtney Rd\nSte J, Grass Valley",
    "hours": "M - F, 7 - 5 PM",
@@ -1972,7 +2599,7 @@
    "orgUrl": "www.nevco.org",
    "description": "Core services include playgroups, play space, computer access, clothes closet and lending libraries. Additional services vary by site. All resources are free and not restricted by income.",
    "website": "www.partnersfamilyresourcecenters.org/",
-   "phone": "Primary line: (530)478-6400 ext. 2060\nGrass Valley: (530)273-4059\nPenn Valley: (530)432-7300 ext. 3234\nSan Juan Ridge: (530)292-3174",
+   "phone": "**Primary line:** (530)478-6400 ext. 2060\n**Grass Valley:** (530)273-4059\n**Penn Valley:** (530)432-7300 ext. 3234\n**San Juan Ridge:** (530)292-3174",
    "email": "reneerenoir@nevco.org",
    "address": "235 S. Auburn St Grass Valley\n10862 Spenceville Rd Penn Valley\n18847 Oak Tree Rd Nevada City",
    "hours": "M - F, 8 AM - 5 PM",
@@ -2264,7 +2891,7 @@
    "orgId": "224",
    "org": "Hospitality House",
    "orgUrl": "www.hhshelter.org",
-   "description": "'- **Peer mentorship** that fosters accountability and encouragement\n- **Group meetings and special events** that reinforce connection and healing\n- **Community service** that builds dignity and responsibility\n- **Team-based support** to walk with individuals as they rebuild their lives",
+   "description": "- **Peer mentorship** that fosters accountability and encouragement\n- **Group meetings and special events** that reinforce connection and healing\n- **Community service** that builds dignity and responsibility\n- **Team-based support** to walk with individuals as they rebuild their lives",
    "website": "projectheart.net/programs/peer-mentorship",
    "phone": "(530)446-6025",
    "email": "",
@@ -2406,7 +3033,7 @@
    "orgUrl": "",
    "description": "Crisis response, legal advocacy, and shelter services for victims and survivors of DV/SA/HT.",
    "website": "www.cbv.org",
-   "phone": "Crisis Line: (530)272-3467",
+   "phone": "**Crisis Line:** (530)272-3467",
    "email": "",
    "address": "1020 McCourtney Road\nSuite C, Grass Valley",
    "hours": "Office: M - F, 9 AM - 5 PM\nCrisis Line: 24/7",
@@ -2443,7 +3070,7 @@
    "orgUrl": "",
    "description": "Municipal law enforcement agency serving Nevada City.",
    "website": "www.nevadacityca.gov/231/Police",
-   "phone": "Dispatch: (530)265-7880\nOffice: (530)265-4700",
+   "phone": "**Dispatch:** (530)265-7880\n**Office:** (530)265-4700",
    "email": "",
    "address": "317 Broad St\nNevada City",
    "hours": "24/7",
@@ -2479,7 +3106,7 @@
    "orgUrl": "",
    "description": "Law enforcement agency serving Nevada County - crime prevention, response, and investigation in the unincorporated areas of the county. Also maintains the county jail and provides court security, as well as animal control.",
    "website": "www.nevadacountyca.gov/4144/Sheriff",
-   "phone": "Dispatch: (530)265-7880\nOffice: (530)265-1471",
+   "phone": "**Dispatch:** (530)265-7880\n**Office:** (530)265-1471",
    "email": "",
    "address": "950 Maidu Ave\nNevada City",
    "hours": "24/7",
@@ -2620,7 +3247,7 @@
    "orgUrl": "",
    "description": "Support system for elderly and dependent adults subject to neglect or abuse.",
    "website": "www.nevadacountyca.gov/1269/Adult-Services",
-   "phone": "Office: (530)265-1639\n24/7 Emergency Line: (530)265-1217",
+   "phone": "**Office:** (530)265-1639\n**24/7 Emergency Line:** (530)265-1217",
    "email": "",
    "address": "950 Maidu Ave\nNevada City",
    "hours": "M-F, 8-5P",
@@ -2692,7 +3319,7 @@
    "orgUrl": "",
    "description": "Temporary financial assistance for low- or no-income families with children.",
    "website": "www.nevadacountyca.gov/888/CalWORKs---Cash-Assistance-for-Families",
-   "phone": "Call: (530)265-1340\nFax: (530)265-9859",
+   "phone": "**Call:** (530)265-1340\n**Fax:** (530)265-9859",
    "email": "",
    "address": "988 McCourtney Rd, Grass Valley\n950 Maidu Ave Ste 120, Nevada City",
    "hours": "M - F, 8 AM - 5 PM",
@@ -3050,7 +3677,7 @@
    "orgUrl": "",
    "description": "24/7 confidential support for youth.",
    "website": "www.calyouth.org/cycl",
-   "phone": "Call or Text: (800)843-5200",
+   "phone": "**Call or Text:** (800)843-5200",
    "email": "",
    "address": "",
    "hours": "24/7",
@@ -3202,7 +3829,7 @@
    "orgUrl": "",
    "description": "24/7 confidential referral service and tip reporting.",
    "website": "www.humantraffickinghotline.org",
-   "phone": "Call: (888)373-7888\nText:  233733",
+   "phone": "**Call:** (888)373-7888\n**Text:** 233733",
    "email": "",
    "address": "",
    "hours": "24/7",
@@ -3391,7 +4018,7 @@
    "orgUrl": "",
    "description": "Free food distribution: sandwiches, non-perishables MF at Spirit Center, FREED, and Rock Crusher in NC.",
    "website": "www.yubaharmreduction.com",
-   "phone": "Call or text: (530)362-8163",
+   "phone": "**Call or text:** (530)362-8163",
    "email": "",
    "address": "",
    "hours": "MF ~1130A",
@@ -3426,7 +4053,7 @@
    "orgUrl": "",
    "description": "Centralized list of people needing housing assistance; allows access to participating housing providers.",
    "website": "www.211ca.org",
-   "phone": "Dial 211 \nTTY: (844)521-6697",
+   "phone": "Dial 211\n**TTY:** (844)521-6697",
    "email": "",
    "address": "",
    "hours": "24/7",
@@ -3566,7 +4193,7 @@
    "orgUrl": "",
    "description": "Assists underserved women and children impacted by DV, SA, HT. Provides culturally appropriate responsive SH, job training, and community services",
    "website": "www.my-sisters-house.org",
-   "phone": "Office: (916)930-0626\n24/7 Helpline: (916)428-3271",
+   "phone": "**Office:** (916)930-0626\n**24/7 Helpline:** (916)428-3271",
    "email": "info@my-sisters-house.org",
    "address": "",
    "hours": "M - Sun, 9 AM - 5 PM (office line)\n24/7 helpline",
@@ -3885,7 +4512,7 @@
    "orgUrl": "www.hicapservices.net",
    "description": "Volunteer HICAP Medicare counselors provide free, unbiased, and individualized counseling on all aspects of Medicare. Counseling sessions are confidential and by appointment only.",
    "website": "www.hicapservices.net/counseling",
-   "phone": "Nevada & Sierra Counties: (530)258-6827",
+   "phone": "**Nevada & Sierra Counties:** (530)258-6827",
    "email": "nevadahicap@hicapservices.net",
    "address": "",
    "hours": "",
@@ -4244,7 +4871,7 @@
    "orgUrl": "",
    "description": "Drug testing, detoxification, men's and women's residential care, MAT, adolescent and adult outpatient care, DUI court-ordered classes, Naloxone and fentanyl test strips for the public. Serves youth (12-24 y/o) and adults.",
    "website": "www.granitewellness.org",
-   "phone": "Grass Valley: (530)273-9541\nAuburn: (530)885-1961\nLincoln: (916)434-8927\nRoseville: (916)782-3737",
+   "phone": "**Grass Valley:** (530)273-9541\n**Auburn:** (530)885-1961\n**Lincoln:** (916)434-8927\n**Roseville:** (916)782-3737",
    "email": "",
    "address": "180 Sierra College Dr, Grass Valley\n12183 Locksley Ln Ste 100, Auburn\n1530 3rd St Ste 106, Lincoln\n406 Sunrise Ave Ste 100, Roseville",
    "hours": "M - F, 9 AM - 5:30 PM",
@@ -4900,7 +5527,7 @@
    "orgUrl": "https://www.voa-ncnn.org/northern-california/",
    "description": "Provides housing emergency shelter, transitional housing, senior services, employment services, and veteran services.",
    "website": "www.voa-ncnn.org",
-   "phone": "Northern CA: (916)265-3400\nNorthern Nevada: (775)324-2622",
+   "phone": "**Northern CA:** (916)265-3400\n**Northern Nevada:** (775)324-2622",
    "email": "",
    "address": "",
    "hours": "",
@@ -5961,7 +6588,7 @@
    "orgId": "",
    "org": "",
    "orgUrl": "",
-   "description": "Paid experience over a fixed term in conservation. 18+. Visit [www.caclimateactioncorps.org/overview](https://www.caclimateactioncorps.org/overview) for more program information.",
+   "description": "Paid, full-time experience in conservation and climate work for 11 months. You might work on urban greening, food recovery, or wildfire resilience.\n\n- Apply each year from May through July. Positions start in September.\n- Age 18+ with a high school diploma or equivalent\n- U.S. citizen, U.S. national, or lawful U.S. resident\n- Benefits include health insurance, paid time off, paid career development, childcare help if eligible, and up to $10,000 in education awards when you finish\n\nVisit www.caclimateactioncorps.org/overview for more program information.",
    "website": "www.caclimateactioncorps.org/apply-now",
    "phone": "",
    "email": "",
@@ -6119,7 +6746,7 @@
    "website": "www.wsmcmed.org/",
    "phone": "(530)274-9762",
    "email": "",
-   "address": "",
+   "address": "844 Old Tunnel Road\nGrass Valley, CA",
    "hours": "",
    "needs": [
     "Health & Dental"
@@ -6423,8 +7050,8 @@
   {
    "id": 272,
    "name": "LearnFree",
-   "orgId": "",
-   "org": "",
+   "orgId": "314",
+   "org": "GCFGlobal LearnFree",
    "orgUrl": "",
    "description": "Free online courses, mainly in digital literacy and basic software, but also job search and AI skills.",
    "website": "www.learnfree.org",
@@ -7063,7 +7690,7 @@
    "orgUrl": "",
    "description": "Provides confidential free reproductive health services: pregnancy testing, ultrasounds, parenting support, STI/STD testing, abortion information, and adoption information.",
    "website": "www.livingwellmedicalclinic.com",
-   "phone": "Call: (530)272-6800\nText: (530)203-8200",
+   "phone": "**Call:** (530)272-6800\n**Text:** (530)203-8200",
    "email": "",
    "address": "105 Catherine Lane\nGrass Valley",
    "hours": "M - Th, 9 AM - 5 PM; appt recommended, walk-ins OK",
@@ -7577,11 +8204,11 @@
    "orgId": "235",
    "org": "AARP",
    "orgUrl": "www.aarp.org",
-   "description": "This program helps qualifying seniors learn new skills and demonstrate valuable work experience to prospective employers. Availability is dependent upon local placements and program funding. Call to apply.\n\n- Work experience that can be put on a resume\n- On-the-job training in new computer or vocational skills\n- Professional job placement assistance\n- An average of 20 hours per week of paid experience\n\n**Who Qualifies?**\n- Age 55+\n- Unemployed\n- Living on a low income",
+   "description": "This program helps qualifying seniors learn new skills and demonstrate valuable work experience to prospective employers. Availability is dependent upon local placements and program funding. Call to apply.\n\n- Work experience that can be put on a resume\n- On-the-job training at nonprofit and public sites, like senior centers, schools, hospitals, and libraries\n- Training in new computer or vocational skills\n- Professional job placement assistance\n- An average of 20 hours per week of paid experience, at the highest federal, state, or local minimum wage\n- Annual physicals\n\n**Who Qualifies?**\n- Age 55+\n- Unemployed\n- Living on a low income",
    "website": "www.aarp.org/aarp-foundation/our-work/income/scsep",
    "phone": "(855)434-3873; Spanish operators available.",
    "email": "",
-   "address": "",
+   "address": "**Local office (serves Northern California, including Nevada County):** 2400 Washington Ave, Suite 231, Redding, CA 96001",
    "hours": "M - F, 6 AM - 3 PM",
    "needs": [
     "Jobs & Education"
@@ -7596,10 +8223,12 @@
     "Internships & Work Experience"
    ],
    "locations": [
+    "Northern CA",
     "United States"
    ],
    "areas": [
-    "Nationwide"
+    "Nationwide",
+    "Northern California"
    ],
    "online": false,
    "incomeBased": true,
@@ -7965,7 +8594,7 @@
    "orgUrl": "",
    "description": "Supports career development for people ages 18 through 64 who receive Social Security disability benefits and want to work. The Ticket Program is free and voluntary. It helps people with disabilities move toward financial independence and connects them with the services and support they need to succeed in the workforce.",
    "website": "choosework.ssa.gov",
-   "phone": "1-866-968-7842\nTTY: 1-866-833-2967",
+   "phone": "1-866-968-7842\n**TTY:** 1-866-833-2967",
    "email": "TicketToWork@ssa.gov",
    "address": "",
    "hours": "M - F, 8 AM - 8 PM ET",
@@ -8121,7 +8750,7 @@
    "orgUrl": "",
    "description": "A list of landline and wireless phone numbers that legitimate telemarketers agree not to call. You can register your numbers for free online, or by calling. You must call from the phone number you wish to register. Telemarketers have 31 days maximum to remove the number from their call lists.  Other types of organizations may still call - such as charities, political groups, debt collectors, and surveys.",
    "website": "www.donotcall.gov",
-   "phone": "(888)382-1222\nTTY: 1-866-290-4236",
+   "phone": "(888)382-1222\n**TTY:** 1-866-290-4236",
    "email": "",
    "address": "",
    "hours": "",
@@ -8452,7 +9081,7 @@
    "orgUrl": "www.va.gov",
    "description": "For Veterans, service members, National Guard, and Reserve members, family, and those who support them. Don't have to be enrolled in VA benefits or health care. Access 24/7 support; connect with a real person who will help find resources and support. Call, text, or online chat.",
    "website": "www.veteranscrisisline.net",
-   "phone": "Dial: 988 then press 1\nText: 838255",
+   "phone": "**Dial:** 988 then press 1\n**Text:** 838255",
    "email": "",
    "address": "",
    "hours": "24/7",
@@ -8987,7 +9616,7 @@
    "orgUrl": "",
    "description": "Provides all types of assistance for veterans - housing, case management, health services, employment support, and more.",
    "website": "nationsfinest.org/locations/sacramento",
-   "phone": "Phone: (916)393-8387\nFax: (916)393-8389",
+   "phone": "**Phone:** (916)393-8387\n**Fax:** (916)393-8389",
    "email": "",
    "address": "7270 East Southgate Dr.\nSacramento, CA",
    "hours": "M - F, 8 AM - 5 PM",
@@ -10055,7 +10684,7 @@
    "orgUrl": "www.foothills-cares.org",
    "description": "The Community Partner Voucher Program: We provide vouchers to other community nonprofits to help individuals and families restart their lives with essential clothing, household items, or furniture.\nTransitional return-to-work program: Companies choose us to help employees return to work safely and quickly after an injury or illness.\nOn-the-job training: We help youth and young adults gain valuable resume-building work experience.\nPromote sustainability: Secondhand shopping is a way to reduce waste in landfills and neighborhoods.",
    "website": "www.foothills-cares.org/thrift-stores",
-   "phone": "Grass Valley: 530-265-6500\nPenn Valley: 530-432-7600",
+   "phone": "**Grass Valley:** 530-265-6500\n**Penn Valley:** 530-432-7600",
    "email": "Retail Operations Manager: Jon Pool",
    "address": "Foothills Gift & Thrift of Grass Valley\n840 East Main Street\nGrass Valley, CA 95945\n\nFoothills Gift & Thrift of Penn Valley\n17440 Penn Valley Dr.\nPenn Valley, CA 95946",
    "hours": "Grass Valley:\nMonday – Saturday, 10 am to 6 pm, Sunday 10 am to 5 pm\n50% off store: 1st Saturday of each month\nWednesdays: Seniors & Veterans 20%\n\nPenn Valley:\nTuesday – Saturday, 10 am to 6 pm\n50% off: 1st Friday and Saturday of each month\nTuesdays 50% off most clothing\nWednesdays 20% off for seniors and veterans",
@@ -10090,7 +10719,7 @@
    "orgUrl": "",
    "description": "Provides animal control services, animal shelter, dog licensing, animal rescue support, and enforcement of animal control regulations. If within Grass Valley or Nevada City town limits, use Grass Valley Animal Control instead.",
    "website": "www.nevadacountyca.gov/208/Animal-Control",
-   "phone": "Phone: (530)265-1471\nFax: (530)470-0439",
+   "phone": "**Phone:** (530)265-1471\n**Fax:** (530)470-0439",
    "email": "",
    "address": "950 Maidu Avenue\nNevada City, CA",
    "hours": "M - F, 8 AM - 5 PM",
@@ -10161,7 +10790,7 @@
    "orgUrl": "",
    "description": "Medi-Cal is a health insurance program that can pay for a variety of medical services for children and adults with limited income and resources.",
    "website": "www.nevadacountyca.gov/1589/Healthcare",
-   "phone": "Call: 530-265-1340\nFax: Fax 530-265-9860\nVisit www.benefitscal.com to apply online",
+   "phone": "**Call:** 530-265-1340\n**Fax:** 530-265-9860\nVisit https://www.benefitscal.com to apply online",
    "email": "dss@nevadacountyca.gov",
    "address": "",
    "hours": "",
@@ -10231,7 +10860,7 @@
    "orgUrl": "www.legalaidatwork.org",
    "description": "Helps workers understand and assert their workplace rights and advocate for employment laws and systems that empower low-paid workers and marginalized communities. The website has a lot of self-help information which is available to anyone.\n\nAdditional services are available for CA residents that are **any** of the following:\n- Low income\n- 60+ years of age (regardless of income)\n- Have a developmental disability (regardless of income); such as (but not limited to autism, epilepsy, cerebral palsy, TBI, spina bifida, muscular dystrophy, intellectual disabilities.\n\n**Has the following programs for low-income, CA workers:**\n\n- Community legal clinics\n- Disability & Health Justice Program\n- Gender Equity and LGBTQ Rights\n- National Origin and Immigrants' Rights\n- Racial Economic Justice\n- Unemployment Insurance\n- Wage Protection\n- Project SURVIVE (for survivors of domestic violence, sexual assault, and stalking)\n- Family Paid Leave",
    "website": "www.legalaidatwork.org",
-   "phone": "Leave voicemail if possible!\nGeneral Line: 415-864-8848\nLanguage Rights Helpline: 1-800-864-1664 (English, Spanish, Mandarin, Cantonese)\nWorkers' Rights Clinic (Northern CA): (916) 905-5857\nWork and Family Helpline: 800-880-8047\nProject SURVIVE (DVSA) Helpline: 888-864-8335\nRacial Economic Justice Helpline: 415-864-8848",
+   "phone": "Leave voicemail if possible!\n**General Line:** 415-864-8848\n**Language Rights Helpline:** 1-800-864-1664 (English, Spanish, Mandarin, Cantonese)\n**Workers' Rights Clinic (Northern CA):** (916) 905-5857\n**Work and Family Helpline:** 800-880-8047\n**Project SURVIVE (DVSA) Helpline:** 888-864-8335\n**Racial Economic Justice Helpline:** 415-864-8848",
    "email": "",
    "address": "",
    "hours": "",
@@ -10305,7 +10934,7 @@
    "orgUrl": "",
    "description": "Serves residents who reside in the city limits of Grass Valley and Nevada City. Provides animal control services, including lost/found animals, dangerous/loud animals, and the animal shelter.",
    "website": "https://www.grassvalleyca.gov/police-department-animal-services",
-   "phone": "Non-emergency: (530) 477-4630\n24/7 emergency (needs an Animal Control Officer): (530) 265-7880",
+   "phone": "**Non-emergency:** (530) 477-4630\n**24/7 emergency (needs an Animal Control Officer):** (530) 265-7880",
    "email": "",
    "address": "556 Freeman Ln, Suite B, Grass Valley, CA 95949",
    "hours": "",
@@ -10340,7 +10969,7 @@
    "orgUrl": "www.dhcs.ca.gov",
    "description": "View a list of Dental Providers who may be accepting new Medi-Cal patients.\n\n**Call the service center for:**\n- Help in locating a Medi-Cal dental provider in your area.\n- Clinical screening appointment information.\n- General Medi-Cal Dental program questions.\n- How to file a grievance/complaint.",
    "website": "dental.dhcs.ca.gov/Members/Medi_Cal_Dental/Find_A_Dentist/DentalProviderDirectorySearch",
-   "phone": "Medi-Cal Dental Service Center: (800) 322-6384\nHearing impaired: Call TTY at (800)735-2922 then have the operator call (800) 322-6384",
+   "phone": "**Medi-Cal Dental Service Center:** (800) 322-6384\n**Hearing impaired:** Call TTY at (800)735-2922 then have the operator call (800) 322-6384",
    "email": "",
    "address": "",
    "hours": "",
@@ -10558,7 +11187,7 @@
    "orgUrl": "www.ged.com",
    "description": "Free information about getting your GED in California: what is required, the steps, and what it costs. In California the GED test is $41 per subject, online or at a test center. You can test in English or Spanish. You must be a California resident and bring proof, such as a lease or utility bill. Most people should plan on 2–3 months to prepare.\n\nAlready passed? Log in to your GED.com account to order copies of your transcript or your California High School Equivalency Certificate. A fee may apply. Tested before 1990? Contact the test center where you tested.",
    "website": "www.ged.com/policies/california.html?tab=other",
-   "phone": "GED Customer Service: 877-392-6433",
+   "phone": "**GED Customer Service:** 877-392-6433",
    "email": "",
    "address": "",
    "hours": "",
@@ -10672,7 +11301,7 @@
    "orgUrl": "www.cafoodbanks.org",
    "description": "SUN Bucks gives families $120 per eligible child to buy food during the summer when school is out. The money comes on a card in the mail that works like a debit card at grocery stores and farmers markets.\n\nMost kids get it automatically, including kids whose families got CalFresh, CalWORKs, or Medi-Cal (and meet the income guidelines), kids approved for free or reduced-price school meals, and kids who are homeless, in foster care, or in a migrant family.\n\nNot automatic? Fill out the school meal application (Universal Benefits Application) at your child's school. The 2026 deadline was August 31, 2026. Check with your school or the California Department of Social Services for next summer's dates.\n\nSet up a PIN before you use the card. Use the money within 122 days, or it expires. Getting SUN Bucks does not affect immigration status.",
    "website": "www.cafoodbanks.org/sun-bucks/",
-   "phone": "SUN Bucks Helpline: 1-877-328-9677 (automated 24/7; live agents Monday to Friday, 6 AM to 8 PM)",
+   "phone": "**SUN Bucks Helpline:** 1-877-328-9677 (automated 24/7; live agents Monday to Friday, 6 AM to 8 PM)",
    "email": "sunbucks@dss.ca.gov",
    "address": "",
    "hours": "",
@@ -10746,7 +11375,7 @@
    "website": "antirecidivism.org/our-programs/become-an-arc-member/",
    "phone": "916-850-3158",
    "email": "",
-   "address": "Sacramento office: 2830 G St., Suite 210, Sacramento, CA 95816",
+   "address": "**Sacramento office:** 2830 G St., Suite 210, Sacramento, CA 95816",
    "hours": "Orientation: Monday to Friday, 11:00 AM to 12:00 PM (arrive 15 minutes early)",
    "needs": [
     "Housing & Shelter",
@@ -10785,7 +11414,7 @@
    "website": "antirecidivism.org/our-programs/supportive-services/",
    "phone": "916-850-3158",
    "email": "",
-   "address": "Sacramento office: 2830 G St., Suite 210, Sacramento, CA 95816",
+   "address": "**Sacramento office:** 2830 G St., Suite 210, Sacramento, CA 95816",
    "hours": "",
    "needs": [
     "Mental Health",
@@ -10822,7 +11451,7 @@
    "website": "antirecidivism.org/career-readiness-credential-programs/",
    "phone": "916-850-3158",
    "email": "",
-   "address": "Sacramento office: 2830 G St., Suite 210, Sacramento, CA 95816",
+   "address": "**Sacramento office:** 2830 G St., Suite 210, Sacramento, CA 95816",
    "hours": "",
    "needs": [
     "Jobs & Education"
@@ -10860,12 +11489,16 @@
    "orgUrl": "pichospice.com",
    "description": "Based out of Auburn. Provides non-medical in-home care in Northern CA, as well as individual and community education about senior care services.",
    "website": "",
-   "phone": "24/7 Hotline: (530) 885-9948",
+   "phone": "**24/7 Hotline:** (530) 885-9948",
    "email": "",
    "address": "",
    "hours": "",
-   "needs": [],
-   "services": [],
+   "needs": [
+    "Health & Dental"
+   ],
+   "services": [
+    "Physical Health & Dental"
+   ],
    "populations": [
     "Aging & Disabilities"
    ],
@@ -10886,6 +11519,3575 @@
    "faithBased": false,
    "checked": "10/21/2026",
    "files": []
+  },
+  {
+   "id": 444,
+   "name": "Lime Connect Network",
+   "orgId": "297",
+   "org": "Lime Connect",
+   "orgUrl": "",
+   "description": "Lime Connect is a free network for students and professionals with disabilities, including veterans. Your disability can be visible or not. When you join, you get a private community of peers and access to:\n\n- Career and professional development opportunities\n- Coaching\n- Scholarships\n- Connections with Lime Connect's corporate partners\n\nTo sign up, choose \"Join The Lime Network for PWD\" on the page. Friends, family and allies can join for free as a \"Friend of Lime.\"",
+   "website": "limeconnect.com/join-us",
+   "phone": "",
+   "email": "recruiting@limeconnect.com",
+   "address": "",
+   "hours": "",
+   "needs": [
+    "Jobs & Education"
+   ],
+   "services": [
+    "Jobs & Education"
+   ],
+   "populations": [
+    "Aging & Disabilities"
+   ],
+   "careerTopics": [
+    "Employment & Disabilities",
+    "Find Jobs"
+   ],
+   "locations": [
+    "Anywhere"
+   ],
+   "areas": [
+    "Nationwide"
+   ],
+   "online": true,
+   "incomeBased": false,
+   "referralNeeded": false,
+   "faithBased": false,
+   "checked": "10/21/2026",
+   "files": []
+  },
+  {
+   "id": 445,
+   "name": "CareerCircle",
+   "orgId": "298",
+   "org": "CareerCircle",
+   "orgUrl": "",
+   "description": "CareerCircle is a free career site for job seekers, with extra support for people with disabilities, veterans and military spouses. Create a free account to:\n\n- Search for jobs\n- Build your resume\n- Practice for interviews\n- Join virtual workshops, live Q&As and career fairs\n- Get 1:1 coaching and advice from recruiters",
+   "website": "www.careercircle.com",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": "",
+   "needs": [
+    "Jobs & Education"
+   ],
+   "services": [
+    "Jobs & Education"
+   ],
+   "populations": [
+    "Aging & Disabilities",
+    "Veterans",
+    "Military Spouses"
+   ],
+   "careerTopics": [
+    "Employment & Disabilities",
+    "Find Jobs",
+    "Applying to Jobs"
+   ],
+   "locations": [
+    "Anywhere"
+   ],
+   "areas": [
+    "Nationwide"
+   ],
+   "online": true,
+   "incomeBased": false,
+   "referralNeeded": false,
+   "faithBased": false,
+   "checked": "10/21/2026",
+   "files": []
+  },
+  {
+   "id": 446,
+   "name": "disABLEDperson Job Board",
+   "orgId": "299",
+   "org": "disABLEDperson, Inc.",
+   "orgUrl": "",
+   "description": "Find disability-friendly jobs across the country, both in person and remote. You can search by job title, company or location. The site is run by a nonprofit that works to lower unemployment for people with disabilities. It is free for job seekers.",
+   "website": "www.disabledperson.com/jobs",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": "",
+   "needs": [
+    "Jobs & Education"
+   ],
+   "services": [
+    "Jobs & Education"
+   ],
+   "populations": [
+    "Aging & Disabilities"
+   ],
+   "careerTopics": [
+    "Employment & Disabilities",
+    "Find Jobs",
+    "Find Remote Jobs"
+   ],
+   "locations": [
+    "United States"
+   ],
+   "areas": [
+    "Nationwide"
+   ],
+   "online": true,
+   "incomeBased": false,
+   "referralNeeded": false,
+   "faithBased": false,
+   "checked": "10/21/2026",
+   "files": []
+  },
+  {
+   "id": 447,
+   "name": "DiversityJobs",
+   "orgId": "300",
+   "org": "Mitratech",
+   "orgUrl": "",
+   "description": "DiversityJobs is a job board with openings from employers that focus on diversity. It welcomes people with disabilities, veterans, older workers and many other groups. Create a free login to:\n\n- Upload your resume\n- Save jobs and searches\n- Set up job alerts\n- Find career advice, webinars and job fairs",
+   "website": "diversityjobs.com/candidates",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": "",
+   "needs": [
+    "Jobs & Education"
+   ],
+   "services": [
+    "Jobs & Education"
+   ],
+   "populations": [
+    "Everyone"
+   ],
+   "careerTopics": [
+    "Employment & Disabilities",
+    "Find Jobs"
+   ],
+   "locations": [
+    "United States"
+   ],
+   "areas": [
+    "Nationwide"
+   ],
+   "online": true,
+   "incomeBased": false,
+   "referralNeeded": false,
+   "faithBased": false,
+   "checked": "10/21/2026",
+   "files": []
+  },
+  {
+   "id": 448,
+   "name": "DOR Hot Jobs",
+   "orgId": "238",
+   "org": "Department of Rehabilitation",
+   "orgUrl": "www.dor.ca.gov",
+   "description": "Hot Jobs is a list of job openings from businesses that partner with the California Department of Rehabilitation. These employers want to hire people with disabilities. Anyone can apply. You'll find in-person and remote jobs.\n\nIf you are a DOR client, work with your employment team to get ready to apply. Use the filters on the page to sort the jobs. It works best in Edge, Chrome or Firefox.",
+   "website": "www.dor.ca.gov/home/hotjobs",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": "",
+   "needs": [
+    "Jobs & Education"
+   ],
+   "services": [
+    "Jobs & Education"
+   ],
+   "populations": [
+    "Aging & Disabilities"
+   ],
+   "careerTopics": [
+    "Employment & Disabilities",
+    "Find Jobs"
+   ],
+   "locations": [
+    "Anywhere"
+   ],
+   "areas": [
+    "Nationwide"
+   ],
+   "online": true,
+   "incomeBased": false,
+   "referralNeeded": false,
+   "faithBased": false,
+   "checked": "10/21/2026",
+   "files": []
+  },
+  {
+   "id": 451,
+   "name": "ABLE National Resource Center",
+   "orgId": "303",
+   "org": "ABLE National Resource Center",
+   "orgUrl": "",
+   "description": "An ABLE account is a savings or investment account for people with disabilities who qualify. You can save money in it without losing most need-based federal benefits. You can use the money for qualified disability expenses, such as:\n\n- Education and job costs\n- Transportation\n- Assistive technology\n- Housing\n\nThis site explains how ABLE accounts work and helps you choose a plan.",
+   "website": "www.ablenrc.org",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": "",
+   "needs": [
+    "Money & Benefits"
+   ],
+   "services": [
+    "Financial Support",
+    "Financial Literacy"
+   ],
+   "populations": [
+    "Aging & Disabilities"
+   ],
+   "careerTopics": [],
+   "locations": [
+    "United States"
+   ],
+   "areas": [
+    "Nationwide"
+   ],
+   "online": true,
+   "incomeBased": false,
+   "referralNeeded": false,
+   "faithBased": false,
+   "checked": "10/21/2026",
+   "files": []
+  },
+  {
+   "id": 452,
+   "name": "disABLEDperson Scholarship",
+   "orgId": "299",
+   "org": "disABLEDperson, Inc.",
+   "orgUrl": "",
+   "description": "disABLEDperson offers a national scholarship for college students with disabilities. You must be enrolled in school and show proof. The scholarship is offered in rounds. Check the page for the current round and deadline.",
+   "website": "www.disabledperson.com/scholarships/info",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": "",
+   "needs": [
+    "Jobs & Education",
+    "Money & Benefits"
+   ],
+   "services": [
+    "Jobs & Education",
+    "Financial Support"
+   ],
+   "populations": [
+    "Aging & Disabilities"
+   ],
+   "careerTopics": [
+    "Help Paying for Training & Education",
+    "Employment & Disabilities"
+   ],
+   "locations": [
+    "United States"
+   ],
+   "areas": [
+    "Nationwide"
+   ],
+   "online": true,
+   "incomeBased": false,
+   "referralNeeded": false,
+   "faithBased": false,
+   "checked": "10/21/2026",
+   "files": []
+  },
+  {
+   "id": 453,
+   "name": "Verizon Small Business Digital Ready",
+   "orgId": "304",
+   "org": "Verizon",
+   "orgUrl": "",
+   "description": "Verizon Small Business Digital Ready gives small business owners free online courses, mentoring and networking. You don't need to be a Verizon customer. After you finish courses, you can apply for grant funding. Grants are $10,000 each. Spanish content is also available.",
+   "website": "digitalready.verizonwireless.com",
+   "phone": "855-890-0013",
+   "email": "",
+   "address": "",
+   "hours": "Mon-Sat, 10 AM-7 PM Eastern",
+   "needs": [
+    "Jobs & Education",
+    "Money & Benefits"
+   ],
+   "services": [
+    "Jobs & Education",
+    "Financial Support"
+   ],
+   "populations": [
+    "Adults"
+   ],
+   "careerTopics": [
+    "School & Training"
+   ],
+   "locations": [
+    "United States"
+   ],
+   "areas": [
+    "Nationwide"
+   ],
+   "online": true,
+   "incomeBased": false,
+   "referralNeeded": false,
+   "faithBased": false,
+   "checked": "10/21/2026",
+   "files": []
+  },
+  {
+   "id": 454,
+   "name": "California Small Business Loan Match",
+   "orgId": "305",
+   "org": "California Infrastructure and Economic Development Bank (IBank)",
+   "orgUrl": "",
+   "description": "This free tool helps you find a lender for your small business. It is run by IBank, a California state agency. Your business must be in California and have 1 to 750 employees.\n\n- Fill out a short questionnaire.\n- See the lenders that match you and compare their terms.\n- Pick one. The lender will contact you within 3 business days.\n\nThere is no credit check to get matched. Each lender sets its own rates, and approval is not guaranteed.",
+   "website": "caloanmatch.org",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": "",
+   "needs": [
+    "Money & Benefits"
+   ],
+   "services": [
+    "Financial Support"
+   ],
+   "populations": [
+    "Adults"
+   ],
+   "careerTopics": [],
+   "locations": [
+    "California"
+   ],
+   "areas": [
+    "California (statewide)"
+   ],
+   "online": true,
+   "incomeBased": false,
+   "referralNeeded": false,
+   "faithBased": false,
+   "checked": "10/21/2026",
+   "files": []
+  },
+  {
+   "id": 455,
+   "name": "Lime Connect Scholarships",
+   "orgId": "297",
+   "org": "Lime Connect",
+   "orgUrl": "",
+   "description": "Lime Connect offers scholarships for students with disabilities. Some are for high school seniors going to a 4-year college. Others are for current college students, including those in health care, STEM or tech. Some awards include an internship. Check the page each year for open applications.",
+   "website": "limeconnect.com/opportunities/scholarships-awards",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": "",
+   "needs": [
+    "Jobs & Education",
+    "Money & Benefits"
+   ],
+   "services": [
+    "Jobs & Education",
+    "Financial Support"
+   ],
+   "populations": [
+    "Aging & Disabilities",
+    "Youth"
+   ],
+   "careerTopics": [
+    "Help Paying for Training & Education",
+    "Internships & Work Experience",
+    "Employment & Disabilities"
+   ],
+   "locations": [
+    "United States"
+   ],
+   "areas": [
+    "Nationwide"
+   ],
+   "online": true,
+   "incomeBased": false,
+   "referralNeeded": false,
+   "faithBased": false,
+   "checked": "10/21/2026",
+   "files": []
+  },
+  {
+   "id": 456,
+   "name": "SCORE Small Business Mentoring",
+   "orgId": "306",
+   "org": "SCORE",
+   "orgUrl": "",
+   "description": "SCORE helps you start or grow a business. Mentoring is always free. You can also find:\n\n- Workshops, webinars and online classes\n- Business plan templates and how-to guides\n- Live chat with a mentor\n\nTo find a local mentor, enter your ZIP code on the website.",
+   "website": "www.score.org",
+   "phone": "800-634-0245",
+   "email": "",
+   "address": "",
+   "hours": "",
+   "needs": [
+    "Jobs & Education",
+    "Money & Benefits"
+   ],
+   "services": [
+    "Jobs & Education",
+    "Financial Literacy"
+   ],
+   "populations": [
+    "Adults"
+   ],
+   "careerTopics": [
+    "School & Training"
+   ],
+   "locations": [
+    "United States"
+   ],
+   "areas": [
+    "Nationwide"
+   ],
+   "online": true,
+   "incomeBased": false,
+   "referralNeeded": false,
+   "faithBased": false,
+   "checked": "10/21/2026",
+   "files": []
+  },
+  {
+   "id": 457,
+   "name": "Synergies Work",
+   "orgId": "307",
+   "org": "Synergies Work",
+   "orgUrl": "",
+   "description": "Synergies Work is a nonprofit that helps entrepreneurs with disabilities launch, grow and scale their businesses. It offers:\n\n- Business training and an accelerator program\n- Small business loans through its Seed Fund\n- Office hours\n- An online community to connect with other founders\n- Financial planning help",
+   "website": "synergieswork.org",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": "",
+   "needs": [
+    "Jobs & Education",
+    "Money & Benefits"
+   ],
+   "services": [
+    "Jobs & Education",
+    "Financial Support"
+   ],
+   "populations": [
+    "Aging & Disabilities"
+   ],
+   "careerTopics": [
+    "Employment & Disabilities",
+    "School & Training"
+   ],
+   "locations": [
+    "United States"
+   ],
+   "areas": [
+    "Nationwide"
+   ],
+   "online": true,
+   "incomeBased": false,
+   "referralNeeded": false,
+   "faithBased": false,
+   "checked": "10/21/2026",
+   "files": []
+  },
+  {
+   "id": 458,
+   "name": "disABLEDperson Learning Academy",
+   "orgId": "299",
+   "org": "disABLEDperson, Inc.",
+   "orgUrl": "",
+   "description": "An online learning platform for people with disabilities. It offers a video course to prepare for the CompTIA A+ Core 1 IT exam. You learn about hardware, operating systems, networking and security.\n\n- **Cost:** $500. Your vocational rehabilitation agency may pay for it.\n- **Referral needed:** You need a referral from your state vocational rehabilitation agency. In California, that is the Department of Rehabilitation (DOR).",
+   "website": "www.disabledperson.com/marketable-skills",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": "",
+   "needs": [
+    "Jobs & Education",
+    "Technology"
+   ],
+   "services": [
+    "Jobs & Education",
+    "Technology"
+   ],
+   "populations": [
+    "Aging & Disabilities"
+   ],
+   "careerTopics": [
+    "School & Training",
+    "Computer Skills",
+    "Employment & Disabilities"
+   ],
+   "locations": [
+    "United States"
+   ],
+   "areas": [
+    "Nationwide"
+   ],
+   "online": true,
+   "incomeBased": false,
+   "referralNeeded": true,
+   "faithBased": false,
+   "checked": "10/21/2026",
+   "files": []
+  },
+  {
+   "id": 459,
+   "name": "CareerCircle Courses",
+   "orgId": "298",
+   "org": "CareerCircle",
+   "orgUrl": "",
+   "description": "CareerCircle members can take online courses to build job skills. Some are free, some are covered by scholarships, and some are discounted. Topics include:\n\n- Basic and advanced computer skills, IT and cybersecurity\n- AI and data\n- Communication, customer service and leadership\n- Project management\n- Google Career Certificates and Microsoft programs\n- Job search\n\nCreate a free account to enroll.",
+   "website": "www.careercircle.com/courses",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": "",
+   "needs": [
+    "Jobs & Education",
+    "Technology"
+   ],
+   "services": [
+    "Jobs & Education",
+    "Technology"
+   ],
+   "populations": [
+    "Aging & Disabilities",
+    "Veterans"
+   ],
+   "careerTopics": [
+    "School & Training",
+    "Computer Skills",
+    "Employment & Disabilities"
+   ],
+   "locations": [
+    "Anywhere"
+   ],
+   "areas": [
+    "Nationwide"
+   ],
+   "online": true,
+   "incomeBased": false,
+   "referralNeeded": false,
+   "faithBased": false,
+   "checked": "10/21/2026",
+   "files": []
+  },
+  {
+   "id": 460,
+   "name": "Salesforce Workforce Navigators Scholarships",
+   "orgId": "308",
+   "org": "Salesforce",
+   "orgUrl": "",
+   "description": "This scholarship pays for a 13-week online training program and the exam to earn Salesforce Administrator and Associate certifications. It is for people with disabilities, including ADHD, autism and learning differences. You must:\n\n- Need financial help\n- Be referred by a disability-serving group or a Salesforce employee\n- Commit to earning both certifications\n\nAfter you apply, you'll be invited to an interview. Spots are limited.",
+   "website": "workforcenavigators.salesforce.com/scholarships",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": "",
+   "needs": [
+    "Jobs & Education",
+    "Technology"
+   ],
+   "services": [
+    "Jobs & Education",
+    "Technology"
+   ],
+   "populations": [
+    "Aging & Disabilities"
+   ],
+   "careerTopics": [
+    "Help Paying for Training & Education",
+    "Computer Skills",
+    "Employment & Disabilities"
+   ],
+   "locations": [
+    "United States"
+   ],
+   "areas": [
+    "Nationwide"
+   ],
+   "online": true,
+   "incomeBased": true,
+   "referralNeeded": true,
+   "faithBased": false,
+   "checked": "10/21/2026",
+   "files": []
+  },
+  {
+   "id": 461,
+   "name": "BIT Academy",
+   "orgId": "309",
+   "org": "Blind Institute of Technology",
+   "orgUrl": "",
+   "description": "BIT Academy offers free online training for people with disabilities who want a tech career. Tuition is fully covered. Programs include:\n\n- Salesforce Administrator (17 weeks)\n- Digital Accessibility (10 weeks)\n- Other Salesforce and business tracks\n\nWhen you finish and get certified, you may qualify for a Registered Apprenticeship. Spots are limited.",
+   "website": "blindinstituteoftechnology.org/bit-academy",
+   "phone": "",
+   "email": "academy@blindit.org",
+   "address": "",
+   "hours": "",
+   "needs": [
+    "Jobs & Education",
+    "Technology"
+   ],
+   "services": [
+    "Jobs & Education",
+    "Technology"
+   ],
+   "populations": [
+    "Aging & Disabilities"
+   ],
+   "careerTopics": [
+    "School & Training",
+    "Computer Skills",
+    "Employment & Disabilities"
+   ],
+   "locations": [
+    "Anywhere"
+   ],
+   "areas": [
+    "Nationwide"
+   ],
+   "online": true,
+   "incomeBased": false,
+   "referralNeeded": false,
+   "faithBased": false,
+   "checked": "10/21/2026",
+   "files": []
+  },
+  {
+   "id": 462,
+   "name": "California Service Corps",
+   "orgId": "310",
+   "org": "California Volunteers",
+   "orgUrl": "",
+   "description": "Get paid to serve your community in California. Programs last from 2 months to 1 year. You gain work experience and skills, and some programs give you money for school. The stipend usually does not count as income for public benefits, so you may still be able to get CalFresh and Medi-Cal.\n\n- **AmeriCorps California:** Ages 18+. Serve 2 to 12 months with nonprofits, public agencies or schools.\n- **California Climate Action Corps:** Ages 18+. Serve up to 11 months on climate projects. Apply May through July. Positions start in September.\n- **College Corps:** For full-time college students at participating campuses.\n- **Youth Service Corps:** Ages 16 to 30. Serve in your own city or county.\n\nEach program has its own rules for who can join and when to apply. You can fill out an interest form to hear when applications open.",
+   "website": "www.californiavolunteers.ca.gov/california-service-corps",
+   "phone": "(916) 323-7646",
+   "email": "info@californiavolunteers.ca.gov",
+   "address": "",
+   "hours": "",
+   "needs": [
+    "Jobs & Education"
+   ],
+   "services": [
+    "Jobs & Education"
+   ],
+   "populations": [
+    "Everyone"
+   ],
+   "careerTopics": [
+    "Internships & Work Experience",
+    "Explore Careers"
+   ],
+   "locations": [
+    "California"
+   ],
+   "areas": [
+    "California (statewide)"
+   ],
+   "online": true,
+   "incomeBased": false,
+   "referralNeeded": false,
+   "faithBased": false,
+   "checked": "10/21/2026",
+   "files": []
+  },
+  {
+   "id": 463,
+   "name": "AmeriCorps California Programs",
+   "orgId": "310",
+   "org": "California Volunteers",
+   "orgUrl": "",
+   "description": "Find paid AmeriCorps service jobs in California. Use the list to search by county or by type of work, like education, health, disaster help or the environment. You apply on each program's own website. Some take applications any time. Others have set dates.\n\n- You must be 18 or older, or 17 and working on your high school diploma.\n- You must be a U.S. citizen, U.S. national or lawful permanent resident.\n- You must pass a background check.\n- Benefits include health insurance, paid time off, career training and childcare help if you qualify.\n- When you finish, you can get up to $10,000 for school.\n- The stipend usually does not count as income for CalFresh and Medi-Cal.\n\nPrograms that serve Nevada County include the Sierra Nevada AmeriCorps Partnership (SNAP), GRID Alternatives SolarCorps, CivicSpark, California Emergency Response Corps and California Climate Action Corps.",
+   "website": "www.californiavolunteers.ca.gov/california-americorps-programs",
+   "phone": "(916) 323-7646",
+   "email": "info@californiavolunteers.ca.gov",
+   "address": "",
+   "hours": "",
+   "needs": [
+    "Jobs & Education"
+   ],
+   "services": [
+    "Jobs & Education"
+   ],
+   "populations": [
+    "Everyone"
+   ],
+   "careerTopics": [
+    "Internships & Work Experience"
+   ],
+   "locations": [
+    "California"
+   ],
+   "areas": [
+    "California (statewide)"
+   ],
+   "online": true,
+   "incomeBased": false,
+   "referralNeeded": false,
+   "faithBased": false,
+   "checked": "10/21/2026",
+   "files": []
+  },
+  {
+   "id": 464,
+   "name": "College Corps",
+   "orgId": "310",
+   "org": "California Volunteers",
+   "orgUrl": "",
+   "description": "Earn money for college while you serve your community. College Corps fellows tutor and mentor kids, fight hunger and work on climate projects during the school year. You can earn up to $10,000 before taxes. After 450 hours of service, you can get education awards. The stipend usually does not count as income for CalFresh and Medi-Cal.\n\n- You must be a full-time undergraduate at a participating college.\n- You must be a U.S. citizen, U.S. national, legal permanent resident or AB 540 eligible.\n- You must work to pay for school or show financial need, like qualifying for a Pell Grant or Cal Grant.\n- You must commit to the full school year.\n\nYou apply through your own college. Sierra College is not on the list of participating campuses right now.",
+   "website": "www.californiavolunteers.ca.gov/college-corps",
+   "phone": "(916) 323-7646",
+   "email": "info@californiavolunteers.ca.gov",
+   "address": "",
+   "hours": "",
+   "needs": [
+    "Jobs & Education"
+   ],
+   "services": [
+    "Jobs & Education"
+   ],
+   "populations": [
+    "Youth"
+   ],
+   "careerTopics": [
+    "Internships & Work Experience",
+    "Help Paying for Training & Education"
+   ],
+   "locations": [
+    "California"
+   ],
+   "areas": [
+    "California (statewide)"
+   ],
+   "online": false,
+   "incomeBased": false,
+   "referralNeeded": false,
+   "faithBased": false,
+   "checked": "10/21/2026",
+   "files": []
+  },
+  {
+   "id": 465,
+   "name": "Youth Service Corps",
+   "orgId": "310",
+   "org": "California Volunteers",
+   "orgUrl": "",
+   "description": "Get a paid job serving your community if you are 16 to 30. You work with local agencies and nonprofits on public services, hunger and climate projects. You earn at least minimum wage. The pay usually does not count as income for CalFresh and Medi-Cal.\n\nYou must also be one of these:\n\n- In foster care or leaving foster care\n- Involved with the justice system now or in the past\n- Getting mental health or substance use services\n- Low-income\n- Having a hard time finding a job\n- Unemployed or out of school\n\nYou may also get counseling, career advice, resume help, job training, certifications, and help with emergency housing or transportation. Programs are run by cities and counties. Find one near you on the website.",
+   "website": "www.californiavolunteers.ca.gov/youth-service-corps",
+   "phone": "(916) 323-7646",
+   "email": "info@californiavolunteers.ca.gov",
+   "address": "",
+   "hours": "",
+   "needs": [
+    "Jobs & Education"
+   ],
+   "services": [
+    "Jobs & Education"
+   ],
+   "populations": [
+    "Youth"
+   ],
+   "careerTopics": [
+    "Internships & Work Experience"
+   ],
+   "locations": [
+    "California"
+   ],
+   "areas": [
+    "California (statewide)"
+   ],
+   "online": false,
+   "incomeBased": false,
+   "referralNeeded": false,
+   "faithBased": false,
+   "checked": "10/21/2026",
+   "files": []
+  },
+  {
+   "id": 466,
+   "name": "AmeriCorps: Ways to Serve",
+   "orgId": "311",
+   "org": "AmeriCorps",
+   "orgUrl": "",
+   "description": "AmeriCorps has many paid service programs across the country. You serve your community and build job skills. Most programs pay a stipend, not an hourly wage. Benefits depend on the program and may include money for school, health insurance, childcare and a pause on student loan payments.\n\n- **AmeriCorps State and National:** Local service programs. Ages 17 and up.\n- **AmeriCorps VISTA:** One year of full-time work fighting poverty.\n- **AmeriCorps NCCC:** Full-time team service where you live with your team. For young adults.\n- **AmeriCorps Seniors:** Volunteer programs for ages 55 and up.\n\nYou search and apply for programs on the MyAmeriCorps website.",
+   "website": "www.americorps.gov/serve",
+   "phone": "1-800-942-2677",
+   "email": "",
+   "address": "",
+   "hours": "",
+   "needs": [
+    "Jobs & Education"
+   ],
+   "services": [
+    "Jobs & Education"
+   ],
+   "populations": [
+    "Everyone"
+   ],
+   "careerTopics": [
+    "Internships & Work Experience",
+    "Explore Careers"
+   ],
+   "locations": [
+    "United States"
+   ],
+   "areas": [
+    "Nationwide"
+   ],
+   "online": true,
+   "incomeBased": false,
+   "referralNeeded": false,
+   "faithBased": false,
+   "checked": "10/21/2026",
+   "files": []
+  },
+  {
+   "id": 467,
+   "name": "AmeriCorps State and National",
+   "orgId": "311",
+   "org": "AmeriCorps",
+   "orgUrl": "",
+   "description": "Serve with a local program that meets needs in your community. Programs last 2 to 12 months, part-time or full-time. Most members get a living allowance. California Volunteers runs the largest program in California, but there are others.\n\n- You must be 17 or older. There is no upper age limit.\n- You must be a U.S. citizen, U.S. national or lawful permanent resident.\n- Some members get health insurance or childcare help.\n- Federal student loan payments can be paused while you serve.\n- When you finish, you get a Segal Education Award for school or student loans. Members 55 and older can give it to a family member.\n\nTo apply, make a profile on MyAmeriCorps, search for openings and send your application. You need two professional references.",
+   "website": "www.americorps.gov/serve/fit-finder/americorps-state-national",
+   "phone": "1-800-942-2677",
+   "email": "",
+   "address": "",
+   "hours": "",
+   "needs": [
+    "Jobs & Education"
+   ],
+   "services": [
+    "Jobs & Education"
+   ],
+   "populations": [
+    "Everyone"
+   ],
+   "careerTopics": [
+    "Internships & Work Experience"
+   ],
+   "locations": [
+    "United States"
+   ],
+   "areas": [
+    "Nationwide"
+   ],
+   "online": false,
+   "incomeBased": false,
+   "referralNeeded": false,
+   "faithBased": false,
+   "checked": "10/21/2026",
+   "files": []
+  },
+  {
+   "id": 468,
+   "name": "AmeriCorps Seniors",
+   "orgId": "311",
+   "org": "AmeriCorps",
+   "orgUrl": "",
+   "description": "Volunteer programs for adults 55 and older. You use your life experience to help others in your community. Use the Pathfinder tool to find programs near you.\n\n- **RSVP:** Volunteer with local groups.\n- **Foster Grandparent:** Mentor and tutor children and teens, or care for babies and children with disabilities.\n- **Senior Companion**\n\nSome programs pay a small stipend to volunteers with low income.",
+   "website": "www.americorps.gov/serve/americorps-seniors/americorps-seniors-pathfinder",
+   "phone": "1-800-942-2677",
+   "email": "",
+   "address": "",
+   "hours": "",
+   "needs": [
+    "Jobs & Education"
+   ],
+   "services": [
+    "Jobs & Education"
+   ],
+   "populations": [
+    "Aging & Disabilities"
+   ],
+   "careerTopics": [
+    "Internships & Work Experience"
+   ],
+   "locations": [
+    "United States"
+   ],
+   "areas": [
+    "Nationwide"
+   ],
+   "online": false,
+   "incomeBased": false,
+   "referralNeeded": false,
+   "faithBased": false,
+   "checked": "10/21/2026",
+   "files": []
+  },
+  {
+   "id": 469,
+   "name": "AmeriCorps VISTA",
+   "orgId": "311",
+   "org": "AmeriCorps",
+   "orgUrl": "",
+   "description": "Serve full-time for one year helping groups fight poverty. VISTA members build and grow programs at nonprofits and public agencies. You get a small living allowance every two weeks and training.\n\n- You must be 18 or older. There is no upper age limit.\n- You must be a U.S. citizen, U.S. national, lawful permanent resident or legally living in the U.S. (for example, refugees, asylees, TPS or DACA).\n- A summer option lasts 8 to 10 weeks.\n- When you finish, choose an education award (about $7,395) or $1,800 in cash.\n- You also get one year of special hiring status for federal jobs.\n\nTo apply, make a profile on MyAmeriCorps and search for openings. You need two professional references.",
+   "website": "www.americorps.gov/serve/fit-finder/americorps-vista",
+   "phone": "1-800-942-2677",
+   "email": "",
+   "address": "",
+   "hours": "",
+   "needs": [
+    "Jobs & Education"
+   ],
+   "services": [
+    "Jobs & Education"
+   ],
+   "populations": [
+    "Everyone"
+   ],
+   "careerTopics": [
+    "Internships & Work Experience"
+   ],
+   "locations": [
+    "United States"
+   ],
+   "areas": [
+    "Nationwide"
+   ],
+   "online": false,
+   "incomeBased": false,
+   "referralNeeded": false,
+   "faithBased": false,
+   "checked": "10/21/2026",
+   "files": []
+  },
+  {
+   "id": 471,
+   "name": "California Conservation Corps",
+   "orgId": "312",
+   "org": "California Conservation Corps",
+   "orgUrl": "",
+   "description": "Get paid to work outdoors on projects that protect California's land and help in emergencies. It is the largest and oldest conservation corps in the U.S. You earn a monthly stipend starting at $2,814 and get free health insurance, paid leave, training, certifications and scholarships. You can live at a center or live at home and commute.\n\n- You must be 18 to 25, or a military veteran up to age 29.\n- You must live in California for year-round programs.\n- You must pass a background check, drug test and physical.\n- You must be willing to work outside in all weather and travel for emergencies.\n- If you live at a center, $500 a month comes out of your stipend.\n\nThe closest center to Nevada County is the Placer Center in Auburn (530-240-3180). Apply online, then go to an online info session and talk with a recruiter. Expect a wait.",
+   "website": "ccc.ca.gov",
+   "phone": "800-952-5627",
+   "email": "",
+   "address": "**Placer Center:** 3710 Christian Valley Road, Auburn, CA 95602",
+   "hours": "",
+   "needs": [
+    "Jobs & Education"
+   ],
+   "services": [
+    "Jobs & Education"
+   ],
+   "populations": [
+    "Everyone"
+   ],
+   "careerTopics": [
+    "Internships & Work Experience"
+   ],
+   "locations": [
+    "Auburn",
+    "California"
+   ],
+   "areas": [
+    "California (statewide)",
+    "Placer County"
+   ],
+   "online": false,
+   "incomeBased": false,
+   "referralNeeded": false,
+   "faithBased": false,
+   "checked": "10/21/2026",
+   "files": []
+  },
+  {
+   "id": 472,
+   "name": "The Corps Network",
+   "orgId": "313",
+   "org": "The Corps Network",
+   "orgUrl": "",
+   "description": "The Corps Network is a national group of service and conservation corps. Its members include the California Conservation Corps. Corps hire young adults and veterans to do conservation and community service. You get paid work experience and job skills. Use the Find a Corps tool to look for programs near you: corpsnetwork.org/find-a-corps",
+   "website": "www.corpsnetwork.org",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": "",
+   "needs": [
+    "Jobs & Education",
+    "Resource Directories"
+   ],
+   "services": [
+    "Jobs & Education",
+    "Resource Directory"
+   ],
+   "populations": [
+    "Everyone"
+   ],
+   "careerTopics": [
+    "Internships & Work Experience",
+    "Job Resource Lists"
+   ],
+   "locations": [
+    "United States"
+   ],
+   "areas": [
+    "Nationwide"
+   ],
+   "online": true,
+   "incomeBased": false,
+   "referralNeeded": false,
+   "faithBased": false,
+   "checked": "10/21/2026",
+   "files": []
+  },
+  {
+   "id": 473,
+   "name": "LearnFree: Basic Computer Skills",
+   "orgId": "314",
+   "org": "GCFGlobal LearnFree",
+   "orgUrl": "",
+   "description": "Learn basic computer skills, or brush up on the skills you already have. You can work through the whole series or pick single lessons. Most lessons take 6 minutes or less.",
+   "website": "www.learnfree.org/series/basic-computer-skills",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": "",
+   "needs": [
+    "Jobs & Education"
+   ],
+   "services": [
+    "Jobs & Education"
+   ],
+   "populations": [
+    "Everyone"
+   ],
+   "careerTopics": [
+    "Computer Skills"
+   ],
+   "locations": [
+    "Anywhere"
+   ],
+   "areas": [
+    "Nationwide"
+   ],
+   "online": true,
+   "incomeBased": false,
+   "referralNeeded": false,
+   "faithBased": false,
+   "checked": "10/21/2026",
+   "files": []
+  },
+  {
+   "id": 474,
+   "name": "LearnFree: Internet Courses",
+   "orgId": "314",
+   "org": "GCFGlobal LearnFree",
+   "orgUrl": "",
+   "description": "Free short lessons on using the internet. Topics include:\n\n- Internet tips\n- How to search better\n- Staying safe online",
+   "website": "www.learnfree.org/explore/the-internet",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": "",
+   "needs": [
+    "Jobs & Education"
+   ],
+   "services": [
+    "Jobs & Education"
+   ],
+   "populations": [
+    "Everyone"
+   ],
+   "careerTopics": [
+    "Computer Skills"
+   ],
+   "locations": [
+    "Anywhere"
+   ],
+   "areas": [
+    "Nationwide"
+   ],
+   "online": true,
+   "incomeBased": false,
+   "referralNeeded": false,
+   "faithBased": false,
+   "checked": "10/21/2026",
+   "files": []
+  },
+  {
+   "id": 475,
+   "name": "How to Add a Digital Signature Using Free Tools (Video)",
+   "orgId": "315",
+   "org": "Leila Gharani",
+   "orgUrl": "",
+   "description": "A free YouTube video that shows you how to sign a document or PDF without printing it. It is about 8 minutes long. It covers:\n\n- Signing a PDF on your phone with the free Microsoft 365 Copilot app\n- Signing on a computer with Adobe Acrobat Reader's Fill & Sign\n- Adding your signature to a Word document",
+   "website": "www.youtube.com/watch?v=3tqb1htxz1k",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": "",
+   "needs": [
+    "Jobs & Education"
+   ],
+   "services": [
+    "Jobs & Education"
+   ],
+   "populations": [
+    "Everyone"
+   ],
+   "careerTopics": [
+    "Computer Skills"
+   ],
+   "locations": [
+    "Anywhere"
+   ],
+   "areas": [
+    "Nationwide"
+   ],
+   "online": true,
+   "incomeBased": false,
+   "referralNeeded": false,
+   "faithBased": false,
+   "checked": "10/21/2026",
+   "files": []
+  },
+  {
+   "id": 476,
+   "name": "Typing.com",
+   "orgId": "316",
+   "org": "Typing.com",
+   "orgUrl": "",
+   "description": "A free typing program with lessons, timed tests and games. It is built for students, but anyone can use it to learn to type or get faster. You can sign up without an email address.",
+   "website": "www.typing.com",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": "",
+   "needs": [
+    "Jobs & Education"
+   ],
+   "services": [
+    "Jobs & Education"
+   ],
+   "populations": [
+    "Everyone"
+   ],
+   "careerTopics": [
+    "Computer Skills",
+    "School & Training"
+   ],
+   "locations": [
+    "Anywhere"
+   ],
+   "areas": [
+    "Nationwide"
+   ],
+   "online": true,
+   "incomeBased": false,
+   "referralNeeded": false,
+   "faithBased": false,
+   "checked": "10/21/2026",
+   "files": []
+  },
+  {
+   "id": 477,
+   "name": "Typing.com: 10-Key Lessons",
+   "orgId": "316",
+   "org": "Typing.com",
+   "orgUrl": "",
+   "description": "Free practice for the number pad on your keyboard (10-key). Fast 10-key typing is a skill for many office, data entry and bookkeeping jobs.",
+   "website": "www.typing.com/student/lesson/351/numeric-keypad-10-key",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": "",
+   "needs": [
+    "Jobs & Education"
+   ],
+   "services": [
+    "Jobs & Education"
+   ],
+   "populations": [
+    "Everyone"
+   ],
+   "careerTopics": [
+    "Computer Skills"
+   ],
+   "locations": [
+    "Anywhere"
+   ],
+   "areas": [
+    "Nationwide"
+   ],
+   "online": true,
+   "incomeBased": false,
+   "referralNeeded": false,
+   "faithBased": false,
+   "checked": "10/21/2026",
+   "files": []
+  },
+  {
+   "id": 479,
+   "name": "Typing.com: Medical Terms Typing",
+   "orgId": "316",
+   "org": "Typing.com",
+   "orgUrl": "",
+   "description": "Free typing practice using common medical words. Good if you are training for a medical office, billing or health care job.",
+   "website": "www.typing.com/student/lesson/348/common-medical-terms",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": "",
+   "needs": [
+    "Jobs & Education"
+   ],
+   "services": [
+    "Jobs & Education"
+   ],
+   "populations": [
+    "Everyone"
+   ],
+   "careerTopics": [
+    "Computer Skills"
+   ],
+   "locations": [
+    "Anywhere"
+   ],
+   "areas": [
+    "Nationwide"
+   ],
+   "online": true,
+   "incomeBased": false,
+   "referralNeeded": false,
+   "faithBased": false,
+   "checked": "10/21/2026",
+   "files": []
+  },
+  {
+   "id": 480,
+   "name": "The Practice Test: Medical Typing Tests",
+   "orgId": "318",
+   "org": "The Practice Test",
+   "orgUrl": "",
+   "description": "Typing tests on more than 50 medical topics, like nursing, cardiology and dermatology. Pick a topic and a level from beginner to advanced. You must type with 100% accuracy to finish a test and save your score.",
+   "website": "www.thepracticetest.com/typing/tests/medical-topics",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": "",
+   "needs": [
+    "Jobs & Education"
+   ],
+   "services": [
+    "Jobs & Education"
+   ],
+   "populations": [
+    "Everyone"
+   ],
+   "careerTopics": [
+    "Computer Skills"
+   ],
+   "locations": [
+    "Anywhere"
+   ],
+   "areas": [
+    "Nationwide"
+   ],
+   "online": true,
+   "incomeBased": false,
+   "referralNeeded": false,
+   "faithBased": false,
+   "checked": "10/21/2026",
+   "files": []
+  },
+  {
+   "id": 481,
+   "name": "Google Skills: Google Workspace Course",
+   "orgId": "319",
+   "org": "Google",
+   "orgUrl": "",
+   "description": "A free beginner course from Google on its work tools. It takes about 30 minutes. You get guided lessons and activities for:\n\n- Gmail\n- Calendar\n- Meet\n- Drive\n- Sheets\n\nFinish it to earn a skill badge.",
+   "website": "www.skills.google/course_templates/676",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": "",
+   "needs": [
+    "Jobs & Education"
+   ],
+   "services": [
+    "Jobs & Education"
+   ],
+   "populations": [
+    "Everyone"
+   ],
+   "careerTopics": [
+    "Computer Skills",
+    "School & Training"
+   ],
+   "locations": [
+    "Anywhere"
+   ],
+   "areas": [
+    "Nationwide"
+   ],
+   "online": true,
+   "incomeBased": false,
+   "referralNeeded": false,
+   "faithBased": false,
+   "checked": "10/21/2026",
+   "files": []
+  },
+  {
+   "id": 482,
+   "name": "Google Docs Training and Help",
+   "orgId": "319",
+   "org": "Google",
+   "orgUrl": "",
+   "description": "Google's official help for Google Docs. Start with the quick start guide, then use the cheat sheet and how-to guides for formatting, editing, and sharing documents. You need a free Google account to use Docs.",
+   "website": "support.google.com/a/users/answer/9282664",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": "",
+   "needs": [
+    "Jobs & Education"
+   ],
+   "services": [
+    "Jobs & Education"
+   ],
+   "populations": [
+    "Everyone"
+   ],
+   "careerTopics": [
+    "Computer Skills",
+    "School & Training"
+   ],
+   "locations": [
+    "Anywhere"
+   ],
+   "areas": [
+    "Nationwide"
+   ],
+   "online": true,
+   "incomeBased": false,
+   "referralNeeded": false,
+   "faithBased": false,
+   "checked": "10/21/2026",
+   "files": []
+  },
+  {
+   "id": 483,
+   "name": "LearnFree: Google Courses",
+   "orgId": "314",
+   "org": "GCFGlobal LearnFree",
+   "orgUrl": "",
+   "description": "Free lessons on Google's tools, including:\n\n- Chrome\n- Gmail\n- Drive\n- Docs\n- Slides",
+   "website": "www.learnfree.org/explore/google",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": "",
+   "needs": [
+    "Jobs & Education"
+   ],
+   "services": [
+    "Jobs & Education"
+   ],
+   "populations": [
+    "Everyone"
+   ],
+   "careerTopics": [
+    "Computer Skills"
+   ],
+   "locations": [
+    "Anywhere"
+   ],
+   "areas": [
+    "Nationwide"
+   ],
+   "online": true,
+   "incomeBased": false,
+   "referralNeeded": false,
+   "faithBased": false,
+   "checked": "10/21/2026",
+   "files": []
+  },
+  {
+   "id": 484,
+   "name": "LearnFree: Word Foundations",
+   "orgId": "314",
+   "org": "GCFGlobal LearnFree",
+   "orgUrl": "",
+   "description": "A free series on Microsoft Word. Learn to format text, save and share documents, change line and paragraph spacing, and use tables and columns.",
+   "website": "www.learnfree.org/series/word-foundations",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": "",
+   "needs": [
+    "Jobs & Education"
+   ],
+   "services": [
+    "Jobs & Education"
+   ],
+   "populations": [
+    "Everyone"
+   ],
+   "careerTopics": [
+    "Computer Skills"
+   ],
+   "locations": [
+    "Anywhere"
+   ],
+   "areas": [
+    "Nationwide"
+   ],
+   "online": true,
+   "incomeBased": false,
+   "referralNeeded": false,
+   "faithBased": false,
+   "checked": "10/21/2026",
+   "files": []
+  },
+  {
+   "id": 485,
+   "name": "Alison: Microsoft 365 Essentials (Word, Excel, PowerPoint)",
+   "orgId": "320",
+   "org": "Alison",
+   "orgUrl": "",
+   "description": "A free beginner course on Word, Excel and PowerPoint. It takes about 1.5 to 3 hours. You learn to:\n\n- Make and format Word documents\n- Use basic Excel formulas to work with numbers\n- Build a PowerPoint slideshow\n\nThe course is free, but a certificate may cost money.",
+   "website": "www.alison.com/course/microsoft-365-training-word-excel-and-powerpoint-essentials",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": "",
+   "needs": [
+    "Jobs & Education"
+   ],
+   "services": [
+    "Jobs & Education"
+   ],
+   "populations": [
+    "Everyone"
+   ],
+   "careerTopics": [
+    "Computer Skills",
+    "School & Training"
+   ],
+   "locations": [
+    "Anywhere"
+   ],
+   "areas": [
+    "Nationwide"
+   ],
+   "online": true,
+   "incomeBased": false,
+   "referralNeeded": false,
+   "faithBased": false,
+   "checked": "10/21/2026",
+   "files": []
+  },
+  {
+   "id": 486,
+   "name": "Alison: Microsoft Word for Beginners",
+   "orgId": "320",
+   "org": "Alison",
+   "orgUrl": "",
+   "description": "A free, in-depth beginner course on Microsoft Word. It takes about 1.5 to 3 hours. You learn to create, edit, lay out, proofread, print and share documents. The course is free, but a certificate may cost money.",
+   "website": "www.alison.com/course/microsoft-word-training-for-beginners",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": "",
+   "needs": [
+    "Jobs & Education"
+   ],
+   "services": [
+    "Jobs & Education"
+   ],
+   "populations": [
+    "Everyone"
+   ],
+   "careerTopics": [
+    "Computer Skills",
+    "School & Training"
+   ],
+   "locations": [
+    "Anywhere"
+   ],
+   "areas": [
+    "Nationwide"
+   ],
+   "online": true,
+   "incomeBased": false,
+   "referralNeeded": false,
+   "faithBased": false,
+   "checked": "10/21/2026",
+   "files": []
+  },
+  {
+   "id": 487,
+   "name": "Alison",
+   "orgId": "320",
+   "org": "Alison",
+   "orgUrl": "",
+   "description": "A website with more than 6,000 free online courses in many subjects, like computers, business and health. You can earn certificates and diplomas. The courses are free, but you may have to pay for a certificate. The free version shows ads.",
+   "website": "www.alison.com",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": "",
+   "needs": [
+    "Jobs & Education"
+   ],
+   "services": [
+    "Jobs & Education"
+   ],
+   "populations": [
+    "Everyone"
+   ],
+   "careerTopics": [
+    "Computer Skills",
+    "School & Training"
+   ],
+   "locations": [
+    "Anywhere"
+   ],
+   "areas": [
+    "Nationwide"
+   ],
+   "online": true,
+   "incomeBased": false,
+   "referralNeeded": false,
+   "faithBased": false,
+   "checked": "10/21/2026",
+   "files": []
+  },
+  {
+   "id": 488,
+   "name": "Calbright College",
+   "orgId": "321",
+   "org": "Calbright College",
+   "orgUrl": "",
+   "description": "Calbright is a free, online community college for California residents. You learn at your own pace and earn job-ready certificates.\n\n- **Who can join:** California residents age 18+ with a high school diploma or GED.\n- **Cost:** Free. Tuition, certification exam fees, and laptop or Wi-Fi hotspot loans are covered.\n- **Programs include:** IT Support, Cybersecurity, Data Analysis, Project Management, HR, and Community Health Worker.\n- **How to start:** Apply online. It takes under 15 minutes.",
+   "website": "www.calbright.edu",
+   "phone": "1-833-956-0225",
+   "email": "success@calbright.org",
+   "address": "",
+   "hours": "",
+   "needs": [
+    "Jobs & Education"
+   ],
+   "services": [
+    "Jobs & Education"
+   ],
+   "populations": [
+    "Adults"
+   ],
+   "careerTopics": [
+    "School & Training",
+    "Computer Skills"
+   ],
+   "locations": [
+    "California"
+   ],
+   "areas": [
+    "California (statewide)"
+   ],
+   "online": true,
+   "incomeBased": false,
+   "referralNeeded": false,
+   "faithBased": false,
+   "checked": "10/21/2026",
+   "files": []
+  },
+  {
+   "id": 489,
+   "name": "HubSpot Academy",
+   "orgId": "322",
+   "org": "HubSpot",
+   "orgUrl": "",
+   "description": "HubSpot Academy has free online classes and certifications in marketing, sales, and customer service. Topics include social media, email marketing, and SEO.\n\n- Classes and certifications are free.\n- You can add your certificates to your LinkedIn profile.\n- You need a free HubSpot account to sign up.",
+   "website": "academy.hubspot.com",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": "",
+   "needs": [
+    "Jobs & Education"
+   ],
+   "services": [
+    "Jobs & Education"
+   ],
+   "populations": [
+    "Everyone"
+   ],
+   "careerTopics": [
+    "School & Training",
+    "Computer Skills"
+   ],
+   "locations": [
+    "Anywhere"
+   ],
+   "areas": [
+    "Nationwide"
+   ],
+   "online": true,
+   "incomeBased": false,
+   "referralNeeded": false,
+   "faithBased": false,
+   "checked": "10/21/2026",
+   "files": []
+  },
+  {
+   "id": 490,
+   "name": "NextGenU",
+   "orgId": "323",
+   "org": "NextGenU",
+   "orgUrl": "",
+   "description": "NextGenU offers free online courses for people in health sciences. Topics include public health, medicine, nursing, and professional skills.\n\n- Courses and certificates are free. No tuition or hidden fees.\n- You get a free certificate when you finish a course.\n- Sign up for a free account to start.",
+   "website": "nextgenu.org",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": "",
+   "needs": [
+    "Jobs & Education"
+   ],
+   "services": [
+    "Jobs & Education"
+   ],
+   "populations": [
+    "Everyone"
+   ],
+   "careerTopics": [
+    "School & Training"
+   ],
+   "locations": [
+    "Anywhere"
+   ],
+   "areas": [
+    "Nationwide"
+   ],
+   "online": true,
+   "incomeBased": false,
+   "referralNeeded": false,
+   "faithBased": false,
+   "checked": "10/21/2026",
+   "files": []
+  },
+  {
+   "id": 491,
+   "name": "Cursa",
+   "orgId": "324",
+   "org": "Cursa",
+   "orgUrl": "",
+   "description": "Cursa is a free website and phone app with thousands of online video courses. Subjects include technology, business, languages, health, and design.\n\n- Courses and certificates are free.\n- You can take courses on the website or in the app.\n- **Note:** You must use the phone app to get your certificate.",
+   "website": "cursa.app",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": "",
+   "needs": [
+    "Jobs & Education"
+   ],
+   "services": [
+    "Jobs & Education"
+   ],
+   "populations": [
+    "Everyone"
+   ],
+   "careerTopics": [
+    "School & Training",
+    "Computer Skills"
+   ],
+   "locations": [
+    "Anywhere"
+   ],
+   "areas": [
+    "Nationwide"
+   ],
+   "online": true,
+   "incomeBased": false,
+   "referralNeeded": false,
+   "faithBased": false,
+   "checked": "10/21/2026",
+   "files": []
+  },
+  {
+   "id": 492,
+   "name": "Coursera: Free Courses",
+   "orgId": "325",
+   "org": "Coursera",
+   "orgUrl": "",
+   "description": "Coursera has classes from colleges and companies in many subjects. This page lists courses you can start for free.\n\n- Many courses let you preview the first part for free.\n- Most certificates cost money. You can apply for financial aid.\n- Some short projects are fully free.",
+   "website": "www.coursera.org/courses?query=free",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": "",
+   "needs": [
+    "Jobs & Education"
+   ],
+   "services": [
+    "Jobs & Education"
+   ],
+   "populations": [
+    "Everyone"
+   ],
+   "careerTopics": [
+    "School & Training",
+    "Computer Skills"
+   ],
+   "locations": [
+    "Anywhere"
+   ],
+   "areas": [
+    "Nationwide"
+   ],
+   "online": true,
+   "incomeBased": false,
+   "referralNeeded": false,
+   "faithBased": false,
+   "checked": "10/21/2026",
+   "files": []
+  },
+  {
+   "id": 493,
+   "name": "edX: Free Courses",
+   "orgId": "326",
+   "org": "edX",
+   "orgUrl": "",
+   "description": "edX has online courses from colleges and companies in almost any subject. This page lists courses you can take for free.\n\n- You can \"audit\" most courses for free. That means you can use the course materials while the course runs.\n- A certificate costs money, starting around $50.",
+   "website": "www.edx.org/courses?q=free+online+courses",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": "",
+   "needs": [
+    "Jobs & Education"
+   ],
+   "services": [
+    "Jobs & Education"
+   ],
+   "populations": [
+    "Everyone"
+   ],
+   "careerTopics": [
+    "School & Training",
+    "Computer Skills"
+   ],
+   "locations": [
+    "Anywhere"
+   ],
+   "areas": [
+    "Nationwide"
+   ],
+   "online": true,
+   "incomeBased": false,
+   "referralNeeded": false,
+   "faithBased": false,
+   "checked": "10/21/2026",
+   "files": []
+  },
+  {
+   "id": 494,
+   "name": "Udacity: Free Courses",
+   "orgId": "327",
+   "org": "Udacity",
+   "orgUrl": "",
+   "description": "Udacity has a large catalog of online technology courses, like programming, data, and AI. This page lists the free ones.\n\n- About 200 courses are free.\n- Free courses do not come with a certificate.\n- Most of Udacity's longer programs cost money.",
+   "website": "www.udacity.com/catalog?price=free",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": "",
+   "needs": [
+    "Jobs & Education"
+   ],
+   "services": [
+    "Jobs & Education"
+   ],
+   "populations": [
+    "Everyone"
+   ],
+   "careerTopics": [
+    "School & Training",
+    "Computer Skills"
+   ],
+   "locations": [
+    "Anywhere"
+   ],
+   "areas": [
+    "Nationwide"
+   ],
+   "online": true,
+   "incomeBased": false,
+   "referralNeeded": false,
+   "faithBased": false,
+   "checked": "10/21/2026",
+   "files": []
+  },
+  {
+   "id": 495,
+   "name": "Salesforce Trailhead",
+   "orgId": "308",
+   "org": "Salesforce",
+   "orgUrl": "",
+   "description": "Trailhead is Salesforce's free online training. You learn Salesforce, a popular business software, with hands-on practice. Skills like this can help you get office, sales, and admin jobs.\n\n- All training is free.\n- Most certification exams cost money.\n- Sign up for a free account to start.",
+   "website": "trailhead.salesforce.com",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": "",
+   "needs": [
+    "Jobs & Education"
+   ],
+   "services": [
+    "Jobs & Education"
+   ],
+   "populations": [
+    "Everyone"
+   ],
+   "careerTopics": [
+    "School & Training",
+    "Computer Skills"
+   ],
+   "locations": [
+    "Anywhere"
+   ],
+   "areas": [
+    "Nationwide"
+   ],
+   "online": true,
+   "incomeBased": false,
+   "referralNeeded": false,
+   "faithBased": false,
+   "checked": "10/21/2026",
+   "files": []
+  },
+  {
+   "id": 496,
+   "name": "Class Central: Free Certificates List",
+   "orgId": "328",
+   "org": "Class Central",
+   "orgUrl": "",
+   "description": "Class Central keeps a big list of free online courses that give a free certificate or badge. Providers include Google, Microsoft, LinkedIn Learning, and HubSpot.\n\n- Subjects include technology, business, marketing, and more.\n- Some offers may have ended. Check each course before you sign up.",
+   "website": "www.classcentral.com/report/free-certificates",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": "",
+   "needs": [
+    "Jobs & Education"
+   ],
+   "services": [
+    "Jobs & Education"
+   ],
+   "populations": [
+    "Everyone"
+   ],
+   "careerTopics": [
+    "School & Training",
+    "Computer Skills"
+   ],
+   "locations": [
+    "Anywhere"
+   ],
+   "areas": [
+    "Nationwide"
+   ],
+   "online": true,
+   "incomeBased": false,
+   "referralNeeded": false,
+   "faithBased": false,
+   "checked": "10/21/2026",
+   "files": []
+  },
+  {
+   "id": 497,
+   "name": "Free Certifications Database",
+   "orgId": "329",
+   "org": "Free Certifications",
+   "orgUrl": "",
+   "description": "This website lists free online courses and certifications. Topics include IT, cybersecurity, databases, project management, and digital marketing.\n\n- Many listings are free courses, but some exams or certificates may cost money.\n- Some offers are for a limited time or have ended. Check with each provider before you start.",
+   "website": "free-certifications.com",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": "",
+   "needs": [
+    "Jobs & Education"
+   ],
+   "services": [
+    "Jobs & Education"
+   ],
+   "populations": [
+    "Everyone"
+   ],
+   "careerTopics": [
+    "School & Training",
+    "Computer Skills"
+   ],
+   "locations": [
+    "Anywhere"
+   ],
+   "areas": [
+    "Nationwide"
+   ],
+   "online": true,
+   "incomeBased": false,
+   "referralNeeded": false,
+   "faithBased": false,
+   "checked": "10/21/2026",
+   "files": []
+  },
+  {
+   "id": 498,
+   "name": "Per Scholas",
+   "orgId": "330",
+   "org": "Per Scholas",
+   "orgUrl": "",
+   "description": "Per Scholas offers free, full-time tech job training. Courses run about 5 to 15 weeks and prepare you for industry certifications.\n\n- **Courses include:** IT Support, Cybersecurity, AWS cloud, data analytics, Salesforce, and data center work.\n- **Cost:** Free training. Certification exams are also free.\n- **Where:** Many courses are remote. California classes are in Los Angeles and the San Francisco Bay Area. There is no Sacramento location.\n- Contact the admissions team to ask if you qualify.",
+   "website": "perscholas.org/courses",
+   "phone": "(718) 991-8400",
+   "email": "",
+   "address": "",
+   "hours": "",
+   "needs": [
+    "Jobs & Education"
+   ],
+   "services": [
+    "Jobs & Education"
+   ],
+   "populations": [
+    "Adults"
+   ],
+   "careerTopics": [
+    "School & Training",
+    "Computer Skills"
+   ],
+   "locations": [
+    "United States"
+   ],
+   "areas": [
+    "Nationwide"
+   ],
+   "online": true,
+   "incomeBased": false,
+   "referralNeeded": false,
+   "faithBased": false,
+   "checked": "10/21/2026",
+   "files": []
+  },
+  {
+   "id": 499,
+   "name": "California Career Surfer App",
+   "orgId": "218",
+   "org": "California Career Resource Network",
+   "orgUrl": "",
+   "description": "Career Surfer is a free phone app for exploring careers. You can look at more than 900 jobs and take a quick interest quiz to find good matches.\n\n- Free on the Apple App Store and Google Play.\n- A good choice if you don't have a computer.",
+   "website": "www.calcareercenter.org/informational/careerss",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": "",
+   "needs": [
+    "Jobs & Education"
+   ],
+   "services": [
+    "Jobs & Education"
+   ],
+   "populations": [
+    "Everyone"
+   ],
+   "careerTopics": [
+    "Explore Careers"
+   ],
+   "locations": [
+    "California"
+   ],
+   "areas": [
+    "California (statewide)"
+   ],
+   "online": true,
+   "incomeBased": false,
+   "referralNeeded": false,
+   "faithBased": false,
+   "checked": "10/21/2026",
+   "files": []
+  },
+  {
+   "id": 500,
+   "name": "My Next Move",
+   "orgId": "291",
+   "org": "U.S. Department of Labor",
+   "orgUrl": "www.apprenticeship.gov",
+   "description": "My Next Move helps you find careers that fit you. Take a short interest quiz (5 to 10 minutes), or search jobs by keyword or industry.\n\n- Each career shows tasks, skills, pay, and training needed.\n- Spanish version: www.miproximopaso.org\n- Veterans version: www.mynextmove.org/vets",
+   "website": "www.mynextmove.org",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": "",
+   "needs": [
+    "Jobs & Education"
+   ],
+   "services": [
+    "Jobs & Education"
+   ],
+   "populations": [
+    "Everyone"
+   ],
+   "careerTopics": [
+    "Explore Careers"
+   ],
+   "locations": [
+    "Anywhere"
+   ],
+   "areas": [
+    "Nationwide"
+   ],
+   "online": true,
+   "incomeBased": false,
+   "referralNeeded": false,
+   "faithBased": false,
+   "checked": "10/21/2026",
+   "files": []
+  },
+  {
+   "id": 502,
+   "name": "O*NET Green Topics",
+   "orgId": "291",
+   "org": "U.S. Department of Labor",
+   "orgUrl": "www.apprenticeship.gov",
+   "description": "Interested in work that helps the environment? Browse 72 \"green\" career topics, like clean energy, water, and agriculture. Each topic shows related jobs and training programs.",
+   "website": "www.onetonline.org/search/green_topics",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": "",
+   "needs": [
+    "Jobs & Education"
+   ],
+   "services": [
+    "Jobs & Education"
+   ],
+   "populations": [
+    "Everyone"
+   ],
+   "careerTopics": [
+    "Explore Careers"
+   ],
+   "locations": [
+    "Anywhere"
+   ],
+   "areas": [
+    "Nationwide"
+   ],
+   "online": true,
+   "incomeBased": false,
+   "referralNeeded": false,
+   "faithBased": false,
+   "checked": "10/21/2026",
+   "files": []
+  },
+  {
+   "id": 503,
+   "name": "Greater Sacramento Pathway Profiles",
+   "orgId": "331",
+   "org": "California Community Colleges Centers of Excellence",
+   "orgUrl": "",
+   "description": "These reports look at jobs in the Greater Sacramento region. Pick a field, like construction, transportation, or business. Each report shows local job demand, pay, and the skills employers want.",
+   "website": "coeccc.net/region/greater-sacramento",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": "",
+   "needs": [
+    "Jobs & Education"
+   ],
+   "services": [
+    "Jobs & Education"
+   ],
+   "populations": [
+    "Everyone"
+   ],
+   "careerTopics": [
+    "Explore Careers"
+   ],
+   "locations": [
+    "Greater Sacramento Area"
+   ],
+   "areas": [
+    "Sacramento Area"
+   ],
+   "online": true,
+   "incomeBased": false,
+   "referralNeeded": false,
+   "faithBased": false,
+   "checked": "10/21/2026",
+   "files": []
+  },
+  {
+   "id": 504,
+   "name": "Budget Calculator",
+   "orgId": "332",
+   "org": "Calculator.net",
+   "orgUrl": "",
+   "description": "This free online calculator helps you build a budget. Enter your income and monthly costs, like rent, car, and food. It shows where your money goes and where you could save. It is free to use.",
+   "website": "www.calculator.net/budget-calculator.html",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": "",
+   "needs": [
+    "Money & Benefits"
+   ],
+   "services": [
+    "Financial Literacy"
+   ],
+   "populations": [
+    "Everyone"
+   ],
+   "careerTopics": [],
+   "locations": [
+    "Anywhere"
+   ],
+   "areas": [
+    "Nationwide"
+   ],
+   "online": true,
+   "incomeBased": false,
+   "referralNeeded": false,
+   "faithBased": false,
+   "checked": "10/21/2026",
+   "files": []
+  },
+  {
+   "id": 505,
+   "name": "FreeBudget",
+   "orgId": "333",
+   "org": "FreeBudget",
+   "orgUrl": "",
+   "description": "FreeBudget is a free budgeting app. You can use it on your phone or computer. It helps you track spending, make a budget, and see your savings.\n\n- Free to use. You need to create an account. No credit card needed.\n- Linking your bank account costs a small monthly fee. Typing in your spending yourself is always free.",
+   "website": "www.freebudget.org",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": "",
+   "needs": [
+    "Money & Benefits"
+   ],
+   "services": [
+    "Financial Literacy"
+   ],
+   "populations": [
+    "Everyone"
+   ],
+   "careerTopics": [],
+   "locations": [
+    "Anywhere"
+   ],
+   "areas": [
+    "Nationwide"
+   ],
+   "online": true,
+   "incomeBased": false,
+   "referralNeeded": false,
+   "faithBased": false,
+   "checked": "10/21/2026",
+   "files": []
+  },
+  {
+   "id": 506,
+   "name": "Apprenticeships.me",
+   "orgId": "334",
+   "org": "Apprenticeships.me",
+   "orgUrl": "",
+   "description": "A free list of 80+ tech apprenticeship programs. Many are for career changers and people without a college degree. Click a program to learn more, then apply on that program's own website.\n\n- Many programs are paid. Some training is free.\n- Programs last from about 3 months to 2 years.\n- Some are remote. Others are in person in certain cities.\n- Each program sets its own rules, like age or background.",
+   "website": "apprenticeships.me",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": "",
+   "needs": [
+    "Jobs & Education"
+   ],
+   "services": [
+    "Jobs & Education"
+   ],
+   "populations": [
+    "Everyone"
+   ],
+   "careerTopics": [
+    "Internships & Work Experience",
+    "School & Training",
+    "Find Jobs"
+   ],
+   "locations": [
+    "Anywhere"
+   ],
+   "areas": [
+    "Nationwide"
+   ],
+   "online": true,
+   "incomeBased": false,
+   "referralNeeded": false,
+   "faithBased": false,
+   "checked": "10/21/2026",
+   "files": []
+  },
+  {
+   "id": 508,
+   "name": "IBM Apprenticeships",
+   "orgId": "336",
+   "org": "IBM",
+   "orgUrl": "",
+   "description": "Search IBM's job site for apprentice openings. IBM apprenticeships are paid tech jobs where you learn while you work. You can also sign up for job alerts so you hear about new openings.",
+   "website": "www.ibm.com/careers/search?q=apprentice",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": "",
+   "needs": [
+    "Jobs & Education"
+   ],
+   "services": [
+    "Jobs & Education"
+   ],
+   "populations": [
+    "Everyone"
+   ],
+   "careerTopics": [
+    "Internships & Work Experience",
+    "Find Jobs"
+   ],
+   "locations": [
+    "United States"
+   ],
+   "areas": [
+    "Nationwide"
+   ],
+   "online": true,
+   "incomeBased": false,
+   "referralNeeded": false,
+   "faithBased": false,
+   "checked": "10/21/2026",
+   "files": []
+  },
+  {
+   "id": 509,
+   "name": "Google Apprenticeships",
+   "orgId": "319",
+   "org": "Google",
+   "orgUrl": "",
+   "description": "Google offers work-and-study apprenticeships. You get real work experience and get paid while you learn. Check the page to see which programs are open and how to apply.",
+   "website": "www.google.com/about/careers/applications/buildyourfuture/apprenticeships",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": "",
+   "needs": [
+    "Jobs & Education"
+   ],
+   "services": [
+    "Jobs & Education"
+   ],
+   "populations": [
+    "Everyone"
+   ],
+   "careerTopics": [
+    "Internships & Work Experience",
+    "Find Jobs"
+   ],
+   "locations": [
+    "United States"
+   ],
+   "areas": [
+    "Nationwide"
+   ],
+   "online": true,
+   "incomeBased": false,
+   "referralNeeded": false,
+   "faithBased": false,
+   "checked": "10/21/2026",
+   "files": []
+  },
+  {
+   "id": 510,
+   "name": "Outreachy Internships",
+   "orgId": "337",
+   "org": "Outreachy",
+   "orgUrl": "",
+   "description": "Outreachy offers paid, remote internships in open-source software. It's for people who face bias or are underrepresented in tech where they live. You work with a mentor on coding, design, writing or data projects.\n\n- **$7,000** stipend for 3 months, 30 hours a week.\n- Fully remote. You don't have to move.\n- You must be 18 or older and free for the whole internship. No full-time job or other internship at the same time.\n- Two rounds a year. Applications usually open in February and August.",
+   "website": "www.outreachy.org/docs/applicant",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": "",
+   "needs": [
+    "Jobs & Education"
+   ],
+   "services": [
+    "Jobs & Education"
+   ],
+   "populations": [
+    "Everyone"
+   ],
+   "careerTopics": [
+    "Internships & Work Experience",
+    "Find Remote Jobs"
+   ],
+   "locations": [
+    "Anywhere"
+   ],
+   "areas": [
+    "Nationwide"
+   ],
+   "online": true,
+   "incomeBased": false,
+   "referralNeeded": false,
+   "faithBased": false,
+   "checked": "10/21/2026",
+   "files": []
+  },
+  {
+   "id": 511,
+   "name": "Talent for Good (Salesforce Apprenticeship)",
+   "orgId": "338",
+   "org": "Cloud for Good",
+   "orgUrl": "",
+   "description": "A paid Salesforce apprenticeship for people starting or changing careers. You are hired as a full-time employee. You get training, help studying for certifications, mentoring and real client work.\n\n- Pay starts at **$50,000** a year, then **$60,000** after training.\n- Health, dental and vision benefits from day one.\n- No college degree or work experience needed.\n- You must already have the Salesforce Administrator certification.\n- The company works remotely, but some client jobs may have location rules.",
+   "website": "cloud4good.com/talent-for-good-candidates",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": "",
+   "needs": [
+    "Jobs & Education"
+   ],
+   "services": [
+    "Jobs & Education"
+   ],
+   "populations": [
+    "Everyone"
+   ],
+   "careerTopics": [
+    "Internships & Work Experience",
+    "Find Remote Jobs"
+   ],
+   "locations": [
+    "United States"
+   ],
+   "areas": [
+    "Nationwide"
+   ],
+   "online": true,
+   "incomeBased": false,
+   "referralNeeded": false,
+   "faithBased": false,
+   "checked": "10/21/2026",
+   "files": []
+  },
+  {
+   "id": 513,
+   "name": "California Intern Network",
+   "orgId": "340",
+   "org": "California Intern Network",
+   "orgUrl": "",
+   "description": "Find paid, part-time internships in California for college students. Past employers include Caltrans, Sutter Health, Waste Management and the City of Sacramento.\n\n- You must be 18 or older.\n- You must be enrolled in college during the regular term: at least 6 semester units (9 quarter units) for undergrads, or 4 semester units (6 quarter units) for grad students.\n- Students from other countries need papers that allow them to work.",
+   "website": "calinterns.org",
+   "phone": "(916) 278-4994",
+   "email": "",
+   "address": "",
+   "hours": "",
+   "needs": [
+    "Jobs & Education"
+   ],
+   "services": [
+    "Jobs & Education"
+   ],
+   "populations": [
+    "Youth",
+    "Adults"
+   ],
+   "careerTopics": [
+    "Internships & Work Experience",
+    "Find Jobs"
+   ],
+   "locations": [
+    "California"
+   ],
+   "areas": [
+    "California (statewide)"
+   ],
+   "online": true,
+   "incomeBased": false,
+   "referralNeeded": false,
+   "faithBased": false,
+   "checked": "10/21/2026",
+   "files": []
+  },
+  {
+   "id": 514,
+   "name": "Handshake Internships",
+   "orgId": "341",
+   "org": "Handshake",
+   "orgUrl": "",
+   "description": "Handshake lists thousands of paid internships for current students and recent graduates. Each listing shows the pay, location and whether it's remote. Create a free account to apply and get job suggestions. There is also a phone app.",
+   "website": "joinhandshake.com/internships",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": "",
+   "needs": [
+    "Jobs & Education"
+   ],
+   "services": [
+    "Jobs & Education"
+   ],
+   "populations": [
+    "Youth",
+    "Adults"
+   ],
+   "careerTopics": [
+    "Internships & Work Experience",
+    "Find Jobs"
+   ],
+   "locations": [
+    "United States"
+   ],
+   "areas": [
+    "Nationwide"
+   ],
+   "online": true,
+   "incomeBased": false,
+   "referralNeeded": false,
+   "faithBased": false,
+   "checked": "10/21/2026",
+   "files": []
+  },
+  {
+   "id": 515,
+   "name": "Internships.com",
+   "orgId": "342",
+   "org": "Chegg",
+   "orgUrl": "",
+   "description": "Search thousands of internships for students and early-career job seekers. You can filter by field or company. Create a free profile and upload your resume to get matched. It also has resume and skill-building tools.\n\n- Free to start, no credit card needed.\n- Some features may cost money.",
+   "website": "www.internships.com",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": "",
+   "needs": [
+    "Jobs & Education"
+   ],
+   "services": [
+    "Jobs & Education"
+   ],
+   "populations": [
+    "Youth",
+    "Adults"
+   ],
+   "careerTopics": [
+    "Internships & Work Experience",
+    "Find Jobs"
+   ],
+   "locations": [
+    "United States"
+   ],
+   "areas": [
+    "Nationwide"
+   ],
+   "online": true,
+   "incomeBased": false,
+   "referralNeeded": false,
+   "faithBased": false,
+   "checked": "10/21/2026",
+   "files": []
+  },
+  {
+   "id": 516,
+   "name": "Apprenticeship.gov: For Career Seekers",
+   "orgId": "291",
+   "org": "U.S. Department of Labor",
+   "orgUrl": "www.apprenticeship.gov",
+   "description": "The official U.S. government site for Registered Apprenticeships. Use the Apprenticeship Job Finder to search openings, then apply directly to the employer or program.\n\n- You earn a paycheck from day one, with raises as your skills grow.\n- You get mentoring and classroom training.\n- You finish with an industry-recognized credential that is good across the country.\n- Need help? A local America's Job Center can help you apply.",
+   "website": "www.apprenticeship.gov/career-seekers",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": "",
+   "needs": [
+    "Jobs & Education"
+   ],
+   "services": [
+    "Jobs & Education"
+   ],
+   "populations": [
+    "Everyone"
+   ],
+   "careerTopics": [
+    "Internships & Work Experience",
+    "School & Training",
+    "Find Jobs"
+   ],
+   "locations": [
+    "United States"
+   ],
+   "areas": [
+    "Nationwide"
+   ],
+   "online": true,
+   "incomeBased": false,
+   "referralNeeded": false,
+   "faithBased": false,
+   "checked": "10/21/2026",
+   "files": []
+  },
+  {
+   "id": 517,
+   "name": "Apprenticeship.gov: Partner Finder",
+   "orgId": "291",
+   "org": "U.S. Department of Labor",
+   "orgUrl": "www.apprenticeship.gov",
+   "description": "Use this tool to find groups near you that run or support Registered Apprenticeships, such as employers (sponsors) and schools. It's a good way to find local apprenticeship providers to contact.",
+   "website": "www.apprenticeship.gov/partner-finder",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": "",
+   "needs": [
+    "Jobs & Education"
+   ],
+   "services": [
+    "Jobs & Education"
+   ],
+   "populations": [
+    "Everyone"
+   ],
+   "careerTopics": [
+    "Internships & Work Experience",
+    "School & Training"
+   ],
+   "locations": [
+    "United States"
+   ],
+   "areas": [
+    "Nationwide"
+   ],
+   "online": true,
+   "incomeBased": false,
+   "referralNeeded": false,
+   "faithBased": false,
+   "checked": "10/21/2026",
+   "files": []
+  },
+  {
+   "id": 519,
+   "name": "Sacramento Valley Manufacturing Apprenticeships",
+   "orgId": "344",
+   "org": "Sacramento Valley Manufacturing Alliance",
+   "orgUrl": "",
+   "description": "Get a paid manufacturing job and train while you work. These are Registered Apprenticeships (non-union) in the Sacramento area. Training covers CNC machining, mechatronics, industrial maintenance, quality control and welding.\n\n- You start at an entry-level wage that goes up as you learn.\n- No set length. You move up as you show skills, and past experience can count.\n- Low cost. Grants may cover some or all training.\n- Apply online at apprenticeship.sacvalleymfg.org or contact the Apprenticeship Manager, Tim Schaefer: tschaefer@sacvalleymfg.org, 916-207-7282.",
+   "website": "sacvalleymfg.org/svma-impact/apprenticeships-students-and-parents",
+   "phone": "(916) 508-0892",
+   "email": "info@sacvalleymfg.org",
+   "address": "3053 Freeport Blvd. #417, Sacramento, CA 95818",
+   "hours": "",
+   "needs": [
+    "Jobs & Education"
+   ],
+   "services": [
+    "Jobs & Education"
+   ],
+   "populations": [
+    "Everyone"
+   ],
+   "careerTopics": [
+    "Internships & Work Experience",
+    "School & Training",
+    "Find Jobs"
+   ],
+   "locations": [
+    "Greater Sacramento Area"
+   ],
+   "areas": [
+    "Sacramento Area"
+   ],
+   "online": false,
+   "incomeBased": false,
+   "referralNeeded": false,
+   "faithBased": false,
+   "checked": "10/21/2026",
+   "files": []
+  },
+  {
+   "id": 520,
+   "name": "ABC NorCal Apprenticeships",
+   "orgId": "345",
+   "org": "Associated Builders and Contractors – Northern California",
+   "orgUrl": "",
+   "description": "Non-union Registered Apprenticeships in the building trades. You get paid on-the-job training plus classes. Trades: carpentry, construction laborer, electrical, painting and plumbing.\n\n- No tuition. You buy your own tools.\n- No experience needed. With 1+ year of trade experience, you can ask to test into a higher level.\n- Steps may include a written test, orientation and drug test.\n- Classes are in Livermore. Plumbing and some carpentry and laborer classes are in Sacramento.\n- Applications are taken all year.",
+   "website": "www.abcnorcal.org/education-training/apprenticeship",
+   "phone": "(925) 474-1300",
+   "email": "",
+   "address": "4577 Las Positas Rd. Unit C, Livermore, CA 94551",
+   "hours": "",
+   "needs": [
+    "Jobs & Education"
+   ],
+   "services": [
+    "Jobs & Education"
+   ],
+   "populations": [
+    "Everyone"
+   ],
+   "careerTopics": [
+    "Internships & Work Experience",
+    "School & Training"
+   ],
+   "locations": [
+    "Northern CA"
+   ],
+   "areas": [
+    "Northern California"
+   ],
+   "online": false,
+   "incomeBased": false,
+   "referralNeeded": false,
+   "faithBased": false,
+   "checked": "10/21/2026",
+   "files": []
+  },
+  {
+   "id": 521,
+   "name": "SMUD Skilled Craft Apprenticeships",
+   "orgId": "346",
+   "org": "Sacramento Municipal Utility District (SMUD)",
+   "orgUrl": "",
+   "description": "SMUD, Sacramento's power company, hires paid apprentices in skilled trades. You get hired after a written test, a hands-on test or both. Some jobs need math like algebra or basic electrical knowledge.\n\n- Trades: electrician, cable splicer, high voltage electrician, lineworker, stationary engineer, heavy equipment operator, carpenter and vehicle mechanic.\n- Pay is about **$31 to $72 an hour**, depending on trade and level.\n- Search for openings on SMUD's job site.",
+   "website": "www.smud.org/Corporate/Careers-at-SMUD/Working-at-SMUD/Skilled-craft-job-details",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": "",
+   "needs": [
+    "Jobs & Education"
+   ],
+   "services": [
+    "Jobs & Education"
+   ],
+   "populations": [
+    "Everyone"
+   ],
+   "careerTopics": [
+    "Internships & Work Experience",
+    "Find Jobs"
+   ],
+   "locations": [
+    "Sacramento"
+   ],
+   "areas": [
+    "Sacramento Area"
+   ],
+   "online": false,
+   "incomeBased": false,
+   "referralNeeded": false,
+   "faithBased": false,
+   "checked": "10/21/2026",
+   "files": []
+  },
+  {
+   "id": 523,
+   "name": "Chabot-Las Positas Apprenticeships",
+   "orgId": "348",
+   "org": "Chabot-Las Positas Community College District",
+   "orgUrl": "",
+   "description": "The college district runs the classroom part of many Registered Apprenticeships. You are hired from day one, get raises as you learn, and earn college credit. Training is free for apprentices.\n\nPrograms include:\n\n- Construction: electrician, plumber, roofer, sheet metal, sprinkler fitter, construction crafts\n- Early childhood education teacher\n- Healthcare: community health worker, behavioral health, optician\n- Manufacturing and IT\n- Automotive and marine technician",
+   "website": "www.apprenticeship4you.com",
+   "phone": "",
+   "email": "apprenticeship@clpccd.org",
+   "address": "5860 Owens Drive, 3rd Floor, Pleasanton, CA 94588",
+   "hours": "",
+   "needs": [
+    "Jobs & Education"
+   ],
+   "services": [
+    "Jobs & Education"
+   ],
+   "populations": [
+    "Everyone"
+   ],
+   "careerTopics": [
+    "Internships & Work Experience",
+    "School & Training"
+   ],
+   "locations": [
+    "California"
+   ],
+   "areas": [
+    "California (statewide)"
+   ],
+   "online": false,
+   "incomeBased": false,
+   "referralNeeded": false,
+   "faithBased": false,
+   "checked": "10/21/2026",
+   "files": []
+  },
+  {
+   "id": 524,
+   "name": "Carpenters Apprenticeship: Northern California",
+   "orgId": "349",
+   "org": "Carpenters Training Committee for Northern California",
+   "orgUrl": "",
+   "description": "This is the union carpenters' apprenticeship for Northern California. It is part of the United Brotherhood of Carpenters (UBC). You get paid on-the-job training plus classes. Applications are open all year.\n\n- You must be 18, or 17 with a parent's OK.\n- You need a high school diploma, GED, or equal work experience.\n- Pick a training center (Fairfield, Pleasanton, Fresno or Morgan Hill) and a craft. Apply online or on paper.\n- You get a letter in about 7 to 10 days with your number on the waiting list. Being on the list does not promise you a spot or a job.\n- The list is cleared every two years, so you may need to apply again.\n\nTo learn about the national union, visit www.carpenters.org.",
+   "website": "www.ctcnc.org/applications.html",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": "",
+   "needs": [
+    "Jobs & Education"
+   ],
+   "services": [
+    "Jobs & Education"
+   ],
+   "populations": [
+    "Adults"
+   ],
+   "careerTopics": [
+    "Internships & Work Experience",
+    "School & Training"
+   ],
+   "locations": [
+    "Northern CA"
+   ],
+   "areas": [
+    "Northern California"
+   ],
+   "online": true,
+   "incomeBased": false,
+   "referralNeeded": false,
+   "faithBased": false,
+   "checked": "10/21/2026",
+   "files": []
+  },
+  {
+   "id": 525,
+   "name": "IBEW Electrical Apprenticeships",
+   "orgId": "350",
+   "org": "International Brotherhood of Electrical Workers (IBEW)",
+   "orgUrl": "",
+   "description": "The IBEW is the union for electricians. Its apprenticeships let you earn a paycheck while you learn the trade on the job and in class. To start, find the local union near you or fill out the \"Join\" interest form.\n\nNear us, the Sacramento Electrical Training Center (IBEW Local 340) runs the Inside Wireman apprenticeship. It serves 18 Northern California counties, including Sacramento, Redding and Chico.\n\n- You must be at least 18.\n- The work is physical: climbing, crawling and tight spaces.\n- You can't be colorblind, because wires are color coded.\n- Apply at 340jatc.org/apply-now",
+   "website": "ibew.org",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": "",
+   "needs": [
+    "Jobs & Education"
+   ],
+   "services": [
+    "Jobs & Education"
+   ],
+   "populations": [
+    "Adults"
+   ],
+   "careerTopics": [
+    "Internships & Work Experience",
+    "School & Training"
+   ],
+   "locations": [
+    "United States"
+   ],
+   "areas": [
+    "Nationwide"
+   ],
+   "online": true,
+   "incomeBased": false,
+   "referralNeeded": false,
+   "faithBased": false,
+   "checked": "10/21/2026",
+   "files": []
+  },
+  {
+   "id": 526,
+   "name": "UA Plumbing & Pipefitting Apprenticeships",
+   "orgId": "351",
+   "org": "United Association (UA)",
+   "orgUrl": "",
+   "description": "The United Association (UA) is the union for plumbers, pipefitters, sprinkler fitters, HVAC techs and welders. A UA apprenticeship lasts about five years. You get paid from day one, with raises as you go. You learn on the job and in class, and you finish without student loans.\n\n- Programs are registered with the U.S. Department of Labor.\n- To start, fill out the \"Join the UA\" form or find your local union on the site.",
+   "website": "ua.org/apprenticeship",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": "",
+   "needs": [
+    "Jobs & Education"
+   ],
+   "services": [
+    "Jobs & Education"
+   ],
+   "populations": [
+    "Adults"
+   ],
+   "careerTopics": [
+    "Internships & Work Experience",
+    "School & Training"
+   ],
+   "locations": [
+    "United States"
+   ],
+   "areas": [
+    "Nationwide"
+   ],
+   "online": true,
+   "incomeBased": false,
+   "referralNeeded": false,
+   "faithBased": false,
+   "checked": "10/21/2026",
+   "files": []
+  },
+  {
+   "id": 527,
+   "name": "LIUNA Laborers Apprenticeships",
+   "orgId": "352",
+   "org": "Laborers' International Union of North America (LIUNA)",
+   "orgUrl": "",
+   "description": "LIUNA is the union for construction laborers. It runs apprenticeship and pre-apprenticeship training at more than 70 training centers in the U.S. and Canada. Training is free for apprentices and pre-apprentices.\n\nTo get started, find your local union on the LIUNA site and ask about their apprenticeship.",
+   "website": "www.liuna.org/apprenticeship",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": "",
+   "needs": [
+    "Jobs & Education"
+   ],
+   "services": [
+    "Jobs & Education"
+   ],
+   "populations": [
+    "Adults"
+   ],
+   "careerTopics": [
+    "Internships & Work Experience",
+    "School & Training"
+   ],
+   "locations": [
+    "United States"
+   ],
+   "areas": [
+    "Nationwide"
+   ],
+   "online": true,
+   "incomeBased": false,
+   "referralNeeded": false,
+   "faithBased": false,
+   "checked": "10/21/2026",
+   "files": []
+  },
+  {
+   "id": 528,
+   "name": "SMART Sheet Metal Apprenticeships",
+   "orgId": "353",
+   "org": "International Association of Sheet Metal, Air, Rail and Transportation Workers (SMART)",
+   "orgUrl": "",
+   "description": "SMART is the union for sheet metal workers. It has 148 training centers that offer apprenticeships. Most sheet metal jobs come through local unions.\n\n- Find a training center near you: www.sheetmetal-iti.org/find-a-training-center\n- Or find your local union in the SMART Local Union Directory.",
+   "website": "www.smart-union.org",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": "",
+   "needs": [
+    "Jobs & Education"
+   ],
+   "services": [
+    "Jobs & Education"
+   ],
+   "populations": [
+    "Adults"
+   ],
+   "careerTopics": [
+    "Internships & Work Experience",
+    "School & Training"
+   ],
+   "locations": [
+    "United States"
+   ],
+   "areas": [
+    "Nationwide"
+   ],
+   "online": true,
+   "incomeBased": false,
+   "referralNeeded": false,
+   "faithBased": false,
+   "checked": "10/21/2026",
+   "files": []
+  },
+  {
+   "id": 529,
+   "name": "Elevator Constructor Apprenticeships (IUEC)",
+   "orgId": "354",
+   "org": "International Union of Elevator Constructors (IUEC)",
+   "orgUrl": "",
+   "description": "The IUEC is the union for people who install and fix elevators and escalators. In the U.S., its training program is called NEIEP.\n\nHow to apply:\n\n- You must be 17 to apply and 18 to start.\n- You need a high school diploma or GED by the time you are hired.\n- You must be allowed to work in the U.S.\n- Apply when a recruitment opens near you. Then take an aptitude test and do an interview.\n- See openings or sign up for alerts: www.neiep.org/elevator-apprenticeship-recruitment-opportunities\n\nQuestions about NEIEP? Call (800) 228-8220.",
+   "website": "iuec.org",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": "",
+   "needs": [
+    "Jobs & Education"
+   ],
+   "services": [
+    "Jobs & Education"
+   ],
+   "populations": [
+    "Adults"
+   ],
+   "careerTopics": [
+    "Internships & Work Experience",
+    "School & Training"
+   ],
+   "locations": [
+    "United States"
+   ],
+   "areas": [
+    "Nationwide"
+   ],
+   "online": true,
+   "incomeBased": false,
+   "referralNeeded": false,
+   "faithBased": false,
+   "checked": "10/21/2026",
+   "files": []
+  },
+  {
+   "id": 531,
+   "name": "Nextdoor: Market Your Services",
+   "orgId": "356",
+   "org": "Nextdoor",
+   "orgUrl": "",
+   "description": "Nextdoor is a free social app for your neighborhood. If you do odd jobs or run a small business, it can help you find local customers.\n\n- Make a free Business Page. Add your services, contact info, photos of your work and reviews.\n- Watch for neighbors asking for recommendations. Comment to offer your services.\n- Before you send someone a private message, comment on their post to say you messaged them. Many people don't check messages from people they don't know.\n\nCreate a Business Page: nextdoor.com/create-business",
+   "website": "www.nextdoor.com",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": "",
+   "needs": [
+    "Jobs & Education"
+   ],
+   "services": [
+    "Jobs & Education"
+   ],
+   "populations": [
+    "Adults"
+   ],
+   "careerTopics": [
+    "Find Jobs"
+   ],
+   "locations": [
+    "Anywhere"
+   ],
+   "areas": [
+    "Nationwide"
+   ],
+   "online": true,
+   "incomeBased": false,
+   "referralNeeded": false,
+   "faithBased": false,
+   "checked": "10/21/2026",
+   "files": []
+  },
+  {
+   "id": 532,
+   "name": "Penn Valley Peeps (Facebook Group)",
+   "orgId": "234",
+   "org": "Facebook",
+   "orgUrl": "",
+   "description": "A local Facebook group for Penn Valley. Neighbors often post asking for help with jobs and services.\n\n- Join the group and watch for posts asking for help.\n- Comment on the post to offer your services. Then send a private message with your details and pay rate.\n- Say in your comment that you sent a message. People often miss messages from people they don't know.\n\nYou need a Facebook account to join.",
+   "website": "www.facebook.com/groups/1406434059512237",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": "",
+   "needs": [
+    "Jobs & Education"
+   ],
+   "services": [
+    "Jobs & Education"
+   ],
+   "populations": [
+    "Adults"
+   ],
+   "careerTopics": [
+    "Find Jobs"
+   ],
+   "locations": [
+    "Nevada County"
+   ],
+   "areas": [
+    "Nevada County"
+   ],
+   "online": true,
+   "incomeBased": false,
+   "referralNeeded": false,
+   "faithBased": false,
+   "checked": "10/21/2026",
+   "files": []
+  },
+  {
+   "id": 533,
+   "name": "Nevada County Odd Jobs (Facebook Group)",
+   "orgId": "234",
+   "org": "Facebook",
+   "orgUrl": "",
+   "description": "A local Facebook group where people in Nevada County post odd jobs and look for help.\n\n- Join the group and watch for posts asking for help.\n- Comment on the post to offer your services. Then send a private message with your details and pay rate.\n- Say in your comment that you sent a message. People often miss messages from people they don't know.\n\nYou need a Facebook account to join.",
+   "website": "www.facebook.com/groups/571582782954487",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": "",
+   "needs": [
+    "Jobs & Education"
+   ],
+   "services": [
+    "Jobs & Education"
+   ],
+   "populations": [
+    "Adults"
+   ],
+   "careerTopics": [
+    "Find Jobs"
+   ],
+   "locations": [
+    "Nevada County"
+   ],
+   "areas": [
+    "Nevada County"
+   ],
+   "online": true,
+   "incomeBased": false,
+   "referralNeeded": false,
+   "faithBased": false,
+   "checked": "10/21/2026",
+   "files": []
+  },
+  {
+   "id": 534,
+   "name": "Google Business Profile",
+   "orgId": "319",
+   "org": "Google",
+   "orgUrl": "",
+   "description": "A Google Business Profile is free. It puts your business on Google Maps and in Google searches. You can add your hours, phone number, website and service area.\n\n- You need a Google account.\n- You don't need a storefront. If you go to your customers, you can list a service area instead of an address.\n- Google has to verify your business before you can edit the profile.\n- Online-only businesses can't have a profile.",
+   "website": "support.google.com/business/answer/7039811",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": "",
+   "needs": [
+    "Jobs & Education"
+   ],
+   "services": [
+    "Jobs & Education"
+   ],
+   "populations": [
+    "Adults"
+   ],
+   "careerTopics": [
+    "Find Jobs"
+   ],
+   "locations": [
+    "Anywhere"
+   ],
+   "areas": [
+    "Nationwide"
+   ],
+   "online": true,
+   "incomeBased": false,
+   "referralNeeded": false,
+   "faithBased": false,
+   "checked": "10/21/2026",
+   "files": []
+  },
+  {
+   "id": 535,
+   "name": "Google Sites: Free Website Builder",
+   "orgId": "319",
+   "org": "Google",
+   "orgUrl": "",
+   "description": "Google Sites lets you build a simple website for free with a Google account. Use it to show your work, list your services and share how to reach you. It pairs well with a Google Business Profile.\n\nYou can also connect your own web address (domain). You have to buy the domain from a domain company.",
+   "website": "sites.google.com",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": "",
+   "needs": [
+    "Jobs & Education"
+   ],
+   "services": [
+    "Jobs & Education"
+   ],
+   "populations": [
+    "Adults"
+   ],
+   "careerTopics": [
+    "Find Jobs"
+   ],
+   "locations": [
+    "Anywhere"
+   ],
+   "areas": [
+    "Nationwide"
+   ],
+   "online": true,
+   "incomeBased": false,
+   "referralNeeded": false,
+   "faithBased": false,
+   "checked": "10/21/2026",
+   "files": []
+  },
+  {
+   "id": 536,
+   "name": "Canva Websites",
+   "orgId": "357",
+   "org": "Canva",
+   "orgUrl": "",
+   "description": "Canva lets you build a simple website for free. Use it to show your work, list your services and share how to reach you.\n\n- Free sites get a web address that ends in my.canva.site.\n- You can have up to five free sites.\n- To use your own web address, you need a paid Canva plan.",
+   "website": "www.canva.com/create/websites",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": "",
+   "needs": [
+    "Jobs & Education"
+   ],
+   "services": [
+    "Jobs & Education"
+   ],
+   "populations": [
+    "Adults"
+   ],
+   "careerTopics": [
+    "Find Jobs"
+   ],
+   "locations": [
+    "Anywhere"
+   ],
+   "areas": [
+    "Nationwide"
+   ],
+   "online": true,
+   "incomeBased": false,
+   "referralNeeded": false,
+   "faithBased": false,
+   "checked": "10/21/2026",
+   "files": []
+  },
+  {
+   "id": 537,
+   "name": "Thumbtack",
+   "orgId": "358",
+   "org": "Thumbtack",
+   "orgUrl": "",
+   "description": "Thumbtack connects local customers with people who do home services, like repairs, cleaning, plumbing and electrical work. If you do this kind of work, you can make a free pro profile and get job leads.\n\n- Joining is free. There are no membership fees.\n- You pay for the leads you get. You set a budget that controls how many leads you get.\n- You talk with customers directly.",
+   "website": "www.thumbtack.com/pro",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": "",
+   "needs": [
+    "Jobs & Education"
+   ],
+   "services": [
+    "Jobs & Education"
+   ],
+   "populations": [
+    "Adults"
+   ],
+   "careerTopics": [
+    "Find Jobs"
+   ],
+   "locations": [
+    "Anywhere"
+   ],
+   "areas": [
+    "Nationwide"
+   ],
+   "online": true,
+   "incomeBased": false,
+   "referralNeeded": false,
+   "faithBased": false,
+   "checked": "10/21/2026",
+   "files": []
+  },
+  {
+   "id": 538,
+   "name": "FlexJobs",
+   "orgId": "359",
+   "org": "FlexJobs",
+   "orgUrl": "",
+   "description": "FlexJobs is a job site for remote, hybrid, part-time and freelance work. Staff check each job to screen out scams.\n\n**FlexJobs is not free.** You pay a subscription to see the jobs:\n\n- 14-day trial: $2.95, then $23.95 every 4 weeks\n- 3 months: $29.85\n- 1 year: $71.40\n\nPlans renew on their own unless you cancel.",
+   "website": "www.flexjobs.com",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": "",
+   "needs": [
+    "Jobs & Education"
+   ],
+   "services": [
+    "Jobs & Education"
+   ],
+   "populations": [
+    "Adults"
+   ],
+   "careerTopics": [
+    "Find Jobs"
+   ],
+   "locations": [
+    "Anywhere"
+   ],
+   "areas": [
+    "Nationwide"
+   ],
+   "online": true,
+   "incomeBased": false,
+   "referralNeeded": false,
+   "faithBased": false,
+   "checked": "10/21/2026",
+   "files": []
+  },
+  {
+   "id": 539,
+   "name": "Instawork",
+   "orgId": "360",
+   "org": "Instawork",
+   "orgUrl": "",
+   "description": "Instawork is a free app for finding hourly shifts. Businesses post shifts and you pick the ones you want. You see the pay before you book.\n\nCommon shifts:\n\n- Restaurants and events: servers, bartenders, dishwashers\n- Warehouse and general labor, including forklift\n- Retail, cleaning and delivery",
+   "website": "www.instawork.com",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": "",
+   "needs": [
+    "Jobs & Education"
+   ],
+   "services": [
+    "Jobs & Education"
+   ],
+   "populations": [
+    "Adults"
+   ],
+   "careerTopics": [
+    "Find Jobs"
+   ],
+   "locations": [
+    "Anywhere"
+   ],
+   "areas": [
+    "Nationwide"
+   ],
+   "online": true,
+   "incomeBased": false,
+   "referralNeeded": false,
+   "faithBased": false,
+   "checked": "10/21/2026",
+   "files": []
+  },
+  {
+   "id": 540,
+   "name": "Vocational Rehabilitation Services",
+   "orgId": "238",
+   "org": "Department of Rehabilitation",
+   "orgUrl": "www.dor.ca.gov",
+   "description": "The Department of Rehabilitation (DOR) helps Californians with disabilities get a job or grow in their career. You may qualify if you:\n\n- Have a disability\n- Get services from a Regional Center or Independent Living Center\n- Are blind or have low vision, or are deaf or hard of hearing\n- Are a student 16 or older with an IEP, a 504 plan or a barrier to work\n\nDOR can help with job training and tools, college and textbooks, assistive technology, childcare or transportation, connecting with employers, and benefits counseling (working while on SSI/SSDI).\n\nTo apply, call or visit a DOR office. Right now there is a waiting list for new applicants.",
+   "website": "dor.ca.gov/Home/GettingStarted",
+   "phone": "1-916-324-1313\n1-800-952-5544\n**TTY:** 1-844-729-2800",
+   "email": "",
+   "address": "",
+   "hours": "Offices: Mon–Fri, 8 AM–5 PM",
+   "needs": [
+    "Jobs & Education"
+   ],
+   "services": [
+    "Jobs & Education"
+   ],
+   "populations": [
+    "Aging & Disabilities",
+    "Youth"
+   ],
+   "careerTopics": [
+    "Employment & Disabilities",
+    "Help Paying for Training & Education"
+   ],
+   "locations": [
+    "California"
+   ],
+   "areas": [
+    "California (statewide)"
+   ],
+   "online": false,
+   "incomeBased": false,
+   "referralNeeded": false,
+   "faithBased": false,
+   "checked": "10/21/2026",
+   "files": [
+    {
+     "label": "DOR services flyer (PDF)",
+     "url": "/assets/files/resources/dor-services-flyer.pdf"
+    }
+   ]
+  },
+  {
+   "id": 541,
+   "name": "Apprenticeships & Internships Guide",
+   "orgId": "217",
+   "org": "Alliance for Workforce Development",
+   "orgUrl": "",
+   "description": "Learn the difference between registered apprenticeships, non-registered apprenticeships, and internships: pay, length, training, and what you earn at the end. The guide also lists where to find each one.\n\n- Tech apprenticeships and remote paid programs\n- AmeriCorps and conservation corps\n- Internship sites for students and graduates\n- How to get a registered apprenticeship, step by step\n- Non-union programs and unions with apprenticeships in the Sacramento area",
+   "website": "",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": "",
+   "needs": [
+    "Jobs & Education"
+   ],
+   "services": [
+    "Jobs & Education"
+   ],
+   "populations": [
+    "Everyone"
+   ],
+   "careerTopics": [
+    "Internships & Work Experience",
+    "School & Training",
+    "Job Resource Lists"
+   ],
+   "locations": [
+    "Anywhere"
+   ],
+   "areas": [
+    "Nationwide"
+   ],
+   "online": true,
+   "incomeBased": false,
+   "referralNeeded": false,
+   "faithBased": false,
+   "checked": "",
+   "files": [
+    {
+     "label": "Apprenticeships & Internships guide (PDF)",
+     "url": "/assets/files/resources/apprenticeships-and-internships-guide.pdf"
+    }
+   ]
+  },
+  {
+   "id": 542,
+   "name": "California Service Corps Guide",
+   "orgId": "217",
+   "org": "Alliance for Workforce Development",
+   "orgUrl": "",
+   "description": "Compare California's paid service programs side by side. Programs last from 2 months to 1 year. Stipends generally don't count as income for public benefits, so you may be able to keep CalFresh and Medi-Cal.\n\n- AmeriCorps State, California Climate Action Corps, College Corps, and Youth Service Corps\n- Who can apply, how enrollment works, and benefits like health insurance and education awards\n- Other AmeriCorps programs (Seniors, VISTA, NCCC) and conservation corps",
+   "website": "",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": "",
+   "needs": [
+    "Jobs & Education"
+   ],
+   "services": [
+    "Jobs & Education"
+   ],
+   "populations": [
+    "Everyone"
+   ],
+   "careerTopics": [
+    "Internships & Work Experience",
+    "Job Resource Lists"
+   ],
+   "locations": [
+    "California"
+   ],
+   "areas": [
+    "California (statewide)"
+   ],
+   "online": true,
+   "incomeBased": false,
+   "referralNeeded": false,
+   "faithBased": false,
+   "checked": "",
+   "files": [
+    {
+     "label": "California Service Corps guide (PDF)",
+     "url": "/assets/files/resources/california-service-corps-guide.pdf"
+    }
+   ]
+  },
+  {
+   "id": 543,
+   "name": "Disability Resources Guide",
+   "orgId": "217",
+   "org": "Alliance for Workforce Development",
+   "orgUrl": "",
+   "description": "A two-page list of free job help for people with disabilities.\n\n- Employment support and coaching\n- Job boards with disability-friendly employers\n- Funding for school and small businesses, including ABLE accounts\n- Small business help\n- Free classes and certifications",
+   "website": "",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": "",
+   "needs": [
+    "Jobs & Education"
+   ],
+   "services": [
+    "Jobs & Education"
+   ],
+   "populations": [
+    "Aging & Disabilities"
+   ],
+   "careerTopics": [
+    "Employment & Disabilities",
+    "Job Resource Lists"
+   ],
+   "locations": [
+    "Anywhere"
+   ],
+   "areas": [
+    "Nationwide"
+   ],
+   "online": true,
+   "incomeBased": false,
+   "referralNeeded": false,
+   "faithBased": false,
+   "checked": "",
+   "files": [
+    {
+     "label": "Disability Resources guide (PDF)",
+     "url": "/assets/files/resources/disability-resources-guide.pdf"
+    }
+   ]
+  },
+  {
+   "id": 544,
+   "name": "Free Digital Skill Building & Free Classes Guide",
+   "orgId": "217",
+   "org": "Alliance for Workforce Development",
+   "orgUrl": "",
+   "description": "A list of free ways to build computer skills and earn certificates online.\n\n- Basic computer and internet skills\n- Typing and 10-key practice\n- Google Workspace and Microsoft Office lessons\n- Free online learning platforms and free certifications in many fields\n\nAlready have skills? Ask us about certified skill testing you can show employers.",
+   "website": "",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": "",
+   "needs": [
+    "Jobs & Education"
+   ],
+   "services": [
+    "Jobs & Education"
+   ],
+   "populations": [
+    "Everyone"
+   ],
+   "careerTopics": [
+    "Computer Skills",
+    "School & Training",
+    "Job Resource Lists"
+   ],
+   "locations": [
+    "Anywhere"
+   ],
+   "areas": [
+    "Nationwide"
+   ],
+   "online": true,
+   "incomeBased": false,
+   "referralNeeded": false,
+   "faithBased": false,
+   "checked": "",
+   "files": [
+    {
+     "label": "Free Digital Skill Building guide (PDF)",
+     "url": "/assets/files/resources/free-digital-skill-building-guide.pdf"
+    }
+   ]
+  },
+  {
+   "id": 545,
+   "name": "Marketing Your Contract & Gig Work",
+   "orgId": "217",
+   "org": "Alliance for Workforce Development",
+   "orgUrl": "",
+   "description": "Tips for finding local customers if you do contract, gig, or odd jobs.\n\n- Use Nextdoor and local Facebook groups to find neighbors asking for help\n- Comment on the post before you send a private message, so people know to check their inbox\n- Set up a free Google Business Profile so you show up on Google Maps\n- Make a simple free website with Google Sites or Canva\n- Other apps to try: Thumbtack, FlexJobs, and Instawork",
+   "website": "",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": "",
+   "needs": [
+    "Jobs & Education"
+   ],
+   "services": [
+    "Jobs & Education"
+   ],
+   "populations": [
+    "Everyone"
+   ],
+   "careerTopics": [
+    "Find Jobs",
+    "Job Resource Lists"
+   ],
+   "locations": [
+    "Nevada County"
+   ],
+   "areas": [
+    "Nevada County"
+   ],
+   "online": true,
+   "incomeBased": false,
+   "referralNeeded": false,
+   "faithBased": false,
+   "checked": "",
+   "files": [
+    {
+     "label": "Marketing for Contract & Gig Work tips (PDF)",
+     "url": "/assets/files/resources/marketing-for-contract-gig-work.pdf"
+    }
+   ]
+  },
+  {
+   "id": 546,
+   "name": "Career Exploration Tools & Worksheet",
+   "orgId": "217",
+   "org": "Alliance for Workforce Development",
+   "orgUrl": "",
+   "description": "Free tools to explore, compare, and choose a career, plus a worksheet to plan your search.\n\n**5 steps to choosing a career**\n- Clarify your goals. Think about lifestyle, family, health, and money.\n- Identify your resources: strengths, support, local training, and how much training you're willing to do.\n- Explore your interests with tools like CA Career Zone, O*NET, and My Next Move.\n- Narrow it down. Keep a list of jobs you're considering and compare your top 3.\n- Make a realistic plan and check in with someone if it isn't working.\n\nThe worksheet helps you figure out the income you need, what you need from a job, and how each career compares on wages, growth, and training.",
+   "website": "",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": "",
+   "needs": [
+    "Jobs & Education"
+   ],
+   "services": [
+    "Jobs & Education"
+   ],
+   "populations": [
+    "Everyone"
+   ],
+   "careerTopics": [
+    "Explore Careers"
+   ],
+   "locations": [
+    "Anywhere"
+   ],
+   "areas": [
+    "Nationwide"
+   ],
+   "online": true,
+   "incomeBased": false,
+   "referralNeeded": false,
+   "faithBased": false,
+   "checked": "",
+   "files": [
+    {
+     "label": "Career Exploration resources & worksheet (PDF)",
+     "url": "/assets/files/resources/career-exploration-resources-and-worksheet.pdf"
+    }
+   ]
   }
  ]
 }
