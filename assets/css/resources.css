@@ -53,7 +53,8 @@
 .res-card__line ul { margin: .125rem 0 0; padding-left: 1.5rem; list-style: disc; }
 .res-card__line ul ul { list-style: circle; padding-left: 1.25rem; }
 .res-card__line em { font-style: italic; }
-.res-card__info .label { font-weight: 600; font-size: inherit; }
+/* Field labels: 16px semi-bold so they stand apart from bold words in the 14px text. */
+.res-card__row b, .res-card__info .label { font-weight: 600; font-size: 1rem; }
 .tags { margin: 0; padding: 0; list-style: none; display: flex; flex-wrap: wrap; gap: .375rem; }
 .tags li { margin: 0; }
 .tag { font-weight: 600; padding: 3px 12px; border-radius: 99px; color: var(--tag-place-text); }
@@ -128,7 +129,7 @@
 /* Organization page */
 .org-details { background: #fff; border: 1px solid #C9C3B3; border-radius: 10px; padding: .75rem 1rem; margin: 1rem 0 0; display: flex; flex-direction: column; gap: .25rem; }
 .org-details p { margin: 0; overflow-wrap: anywhere; }
-.org-details .label { font-weight: 600; font-size: inherit; }
+.org-details .label { font-weight: 600; font-size: 1rem; }
 .org-back { margin: 1.5rem 0 0; font-weight: 600; }
 #res-app > section:first-child { margin-top: 1.5rem; }
 

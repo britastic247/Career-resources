@@ -777,6 +777,17 @@
    "email": "",
    "address": "2830 G St., Suite 210, Sacramento, CA 95816",
    "hours": ""
+  },
+  "296": {
+   "name": "Partners In Care Hospice",
+   "slug": "partners-in-care-hospice",
+   "count": 1,
+   "description": "",
+   "website": "pichospice.com",
+   "phone": "(530) 885-9948",
+   "email": "",
+   "address": "",
+   "hours": ""
   }
  },
  "resources": [
@@ -3765,7 +3776,7 @@
    "orgId": "134",
    "org": "Agencies on Aging (AAA)",
    "orgUrl": "https://www.c4a.info/programs-services",
-   "description": "Enhanced Info &amp; Assistance, health, wellness, fall prevention education.",
+   "description": "Enhanced Info & Assistance, health, wellness, fall prevention education.",
    "website": "www.agencyonaging4.org",
    "phone": "(916)486-1876\n(800)211-4545",
    "email": "",
@@ -8635,7 +8646,7 @@
    "orgId": "272",
    "org": "U.S. Department of Veterans Affairs (VA)",
    "orgUrl": "www.va.gov",
-   "description": "If you have a service-connected disability that limits your ability to work or prevents you from working, Veteran Readiness and Employment (formerly called Vocational Rehabilitation and Employment) can help. This program—also known as Chapter 31 or VR&amp;E—helps you explore employment options and address education or training needs. In some cases, your family members may also qualify for certain benefits. Explore VR&amp;E support-and-services tracks for help learning new skills, finding a new job, starting a business, getting educational counseling, or returning to your former job. Apply online, by mail, or in person.",
+   "description": "If you have a service-connected disability that limits your ability to work or prevents you from working, Veteran Readiness and Employment (formerly called Vocational Rehabilitation and Employment) can help. This program—also known as Chapter 31 or VR&E—helps you explore employment options and address education or training needs. In some cases, your family members may also qualify for certain benefits. Explore VR&E support-and-services tracks for help learning new skills, finding a new job, starting a business, getting educational counseling, or returning to your former job. Apply online, by mail, or in person.",
    "website": "www.va.gov/careers-employment/vocational-rehabilitation",
    "phone": "",
    "email": "",
@@ -8825,7 +8836,7 @@
    "orgId": "272",
    "org": "U.S. Department of Veterans Affairs (VA)",
    "orgUrl": "www.va.gov",
-   "description": "'- [Air Force Aid Society](https://afas.org/resources/) provides no-interest loans and grants to Air Force and Space Force Veterans and their families when unexpected financial emergencies arise. [1-703-972-2604](tel:17039722604)  [ea@afas-hq.org](mailto:ea@afas-hq.org) [www.afas.org](http://www.afas.org)\n- [AmericaServes D’Aniello Institute for Veterans and Military Families](https://ivmf.syracuse.edu/programs/community-services/americaserves/locations/) helps Veterans and service members access direct local resources in 15 states. [1-833-843-4863](tel:18338434863)\n- [Coalition to Salute America’s Heroes](https://saluteheroes.org/get-help/emergency-financial-aid/) provides post 9/11 disabled Veterans with emergency financial aid to cover urgent expenses.\n[1-888-447-2588](tel:18884472588), ext. 110 [RequestAid@saluteheroes.org](mailto:RequestAid@saluteheroes.org)\n\n[https://saluteheroes.org/get-help/emergency-financial-aid](https://saluteheroes.org/get-help/emergency-financial-aid)\n- [Disabled Veterans National Foundation Homeless to Housing Program](https://www.dvnf.org/homeless-to-housing/) assists Veterans in their transition from homelessness to permanent housing. [1-877-426-2838](tel:18774262838)\n\n[https://www.dvnf.org/homeless-to-housing/](https://www.dvnf.org/homeless-to-housing/)\n\n- [Operation First Response](https://www.operationfirstresponse.org/assistance-request/) provides assistance to active duty first responders with essential living expenses. [1-888-289-0280](tel:18882890280)  [info@operationfirstresponse.org](mailto:info@operationfirstresponse.org)\n\n[https://www.operationfirstresponse.org/assistance-request/](https://www.operationfirstresponse.org/assistance-request/)\n- [Operation Homefront](https://operationhomefront.org/our-programs/) offers financial and housing assistance to Veterans and their families.  [1-877-264-3968](tel:18772643968) [https://operationhomefront.org/our-programs/](https://operationhomefront.org/our-programs/)\n- [Semper Fi &amp; America's Fund](https://thefund.org/our-programs/service-member-family-support-program/) provides financial assistance and tailored support to Veterans and their families to help with the expenses incurred during initial hospitalization and throughout recovery. [1-760-725-3680](tel:17607253680)\n\n[https://thefund.org/financial-family-assistance/](https://thefund.org/financial-family-assistance/)\n- [USA Cares](https://usacares.org/programs/) assists post 9/11 Veterans and their families facing temporary financial hardships because of a service-related incident or medical hardship. [1-800-773-0387](tel:18007730387) [info@usacares.org](mailto:info@usacares.org) [https://usacares.org/programs/](https://usacares.org/programs/)",
+   "description": "- [Air Force Aid Society](https://afas.org/resources/) provides no-interest loans and grants to Air Force and Space Force Veterans and their families when unexpected financial emergencies arise. [1-703-972-2604](tel:17039722604) [ea@afas-hq.org](mailto:ea@afas-hq.org) http://www.afas.org\n- [AmericaServes D’Aniello Institute for Veterans and Military Families](https://ivmf.syracuse.edu/programs/community-services/americaserves/locations/) helps Veterans and service members access direct local resources in 15 states. [1-833-843-4863](tel:18338434863)\n- [Coalition to Salute America’s Heroes](https://saluteheroes.org/get-help/emergency-financial-aid/) provides post 9/11 disabled Veterans with emergency financial aid to cover urgent expenses. [1-888-447-2588](tel:18884472588), ext. 110 [RequestAid@saluteheroes.org](mailto:RequestAid@saluteheroes.org) https://saluteheroes.org/get-help/emergency-financial-aid\n\n- [Disabled Veterans National Foundation Homeless to Housing Program](https://www.dvnf.org/homeless-to-housing/) assists Veterans in their transition from homelessness to permanent housing. [1-877-426-2838](tel:18774262838) https://www.dvnf.org/homeless-to-housing/\n\n- [Operation First Response](https://www.operationfirstresponse.org/assistance-request/) provides assistance to active duty first responders with essential living expenses. [1-888-289-0280](tel:18882890280) [info@operationfirstresponse.org](mailto:info@operationfirstresponse.org) https://www.operationfirstresponse.org/assistance-request/\n\n- [Operation Homefront](https://operationhomefront.org/our-programs/) offers financial and housing assistance to Veterans and their families. [1-877-264-3968](tel:18772643968) https://operationhomefront.org/our-programs/\n- [Semper Fi &amp; America's Fund](https://thefund.org/our-programs/service-member-family-support-program/) provides financial assistance and tailored support to Veterans and their families to help with the expenses incurred during initial hospitalization and throughout recovery. [1-760-725-3680](tel:17607253680) https://thefund.org/financial-family-assistance/\n\n- [USA Cares](https://usacares.org/programs/) assists post 9/11 Veterans and their families facing temporary financial hardships because of a service-related incident or medical hardship. [1-800-773-0387](tel:18007730387) [info@usacares.org](mailto:info@usacares.org) https://usacares.org/programs/",
    "website": "www.mirecc.va.gov/visn19/finvet/direct-financial-assistance.asp",
    "phone": "",
    "email": "",
@@ -10218,7 +10229,7 @@
    "orgId": "166",
    "org": "Legal Aid at Work",
    "orgUrl": "www.legalaidatwork.org",
-   "description": "Helps workers understand and assert their workplace rights and advocate for employment laws and systems that empower low-paid workers and marginalized communities. The website has a lot of self-help information which is available to anyone.\n\nAdditional services are available for CA residents that are **any** of the following:\n- Low income\n\n-60+ years of age (regardless of income)\n\n- Have a developmental disability (regardless of income); such as (but not limited to autism, epilepsy, cerebral palsy, TBI, spina bifida, muscular dystrophy, intellectual disabilities.\n\n++Has the following programs for low-income, CA workers:++\n\n- Community legal clinics\n- Disability &amp; Health Justice Program\n- Gender Equity and LGBTQ Rights\n- National Origin and Immigrants' Rights\n- Racial Economic Justice\n- Unemployment Insurance\n- Wage Protection\n- Project SURVIVE (for survivors of domestic violence, sexual assault, and stalking)\n- Family Paid Leave",
+   "description": "Helps workers understand and assert their workplace rights and advocate for employment laws and systems that empower low-paid workers and marginalized communities. The website has a lot of self-help information which is available to anyone.\n\nAdditional services are available for CA residents that are **any** of the following:\n- Low income\n- 60+ years of age (regardless of income)\n- Have a developmental disability (regardless of income); such as (but not limited to autism, epilepsy, cerebral palsy, TBI, spina bifida, muscular dystrophy, intellectual disabilities.\n\n**Has the following programs for low-income, CA workers:**\n\n- Community legal clinics\n- Disability & Health Justice Program\n- Gender Equity and LGBTQ Rights\n- National Origin and Immigrants' Rights\n- Racial Economic Justice\n- Unemployment Insurance\n- Wage Protection\n- Project SURVIVE (for survivors of domestic violence, sexual assault, and stalking)\n- Family Paid Leave",
    "website": "www.legalaidatwork.org",
    "phone": "Leave voicemail if possible!\nGeneral Line: 415-864-8848\nLanguage Rights Helpline: 1-800-864-1664 (English, Spanish, Mandarin, Cantonese)\nWorkers' Rights Clinic (Northern CA): (916) 905-5857\nWork and Family Helpline: 800-880-8047\nProject SURVIVE (DVSA) Helpline: 888-864-8335\nRacial Economic Justice Helpline: 415-864-8848",
    "email": "",
@@ -10839,6 +10850,41 @@
    "referralNeeded": false,
    "faithBased": false,
    "checked": "10/20/2026",
+   "files": []
+  },
+  {
+   "id": 443,
+   "name": "Senior Care Education",
+   "orgId": "296",
+   "org": "Partners In Care Hospice",
+   "orgUrl": "pichospice.com",
+   "description": "Based out of Auburn. Provides non-medical in-home care in Northern CA, as well as individual and community education about senior care services.",
+   "website": "",
+   "phone": "24/7 Hotline: (530) 885-9948",
+   "email": "",
+   "address": "",
+   "hours": "",
+   "needs": [],
+   "services": [],
+   "populations": [
+    "Aging & Disabilities"
+   ],
+   "careerTopics": [],
+   "locations": [
+    "Nevada County",
+    "Placer County",
+    "Greater Sacramento Area"
+   ],
+   "areas": [
+    "Nevada County",
+    "Placer County",
+    "Sacramento Area"
+   ],
+   "online": false,
+   "incomeBased": false,
+   "referralNeeded": false,
+   "faithBased": false,
+   "checked": "10/21/2026",
    "files": []
   }
  ]

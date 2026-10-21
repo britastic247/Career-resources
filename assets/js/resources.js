@@ -156,7 +156,9 @@
   }
   function addRich(node, text, textFn) { addPieces(node, parseInline(text), textFn); }
   // Contact fields (phone, address, hours): keeps line breaks and formatting; phones become links when asked.
+  function multiLine(text) { return (text || "").split("\n").filter(function (l) { return l.trim(); }).length > 1; }
   function addInfo(node, text, phones) {
+    if (multiLine(text)) { var box = el("div", "res-card__stack"); node.appendChild(box); node = box; }
     var fn = phones ? addPhones : null, first = true;
     parseDesc(text).forEach(function (b) {
       if (b.type === "ul") {
@@ -597,7 +599,7 @@
         else stack.push({ text: b.lines.reduce(function (acc, t, k) { return acc.concat(k ? [{ text: "\n" }] : [], pdfRuns(t)); }, []), style: "desc" });
       });
       function row(label, value, link, rich) {
-        stack.push({ text: [{ text: label + ": ", bold: true }].concat(link ? [{ text: value, link: link, color: NAVY, decoration: "underline" }] : rich ? infoRuns(value) : [{ text: value }]), style: "info" });
+        stack.push({ text: [{ text: label + ": ", bold: true }].concat(link ? [{ text: value, link: link, color: NAVY, decoration: "underline" }] : rich ? (multiLine(value) ? [{ text: "\n" }] : []).concat(infoRuns(value)) : [{ text: value }]), style: "info" });
       }
       if (r.phone) row("Phone", r.phone, null, true);
       if (r.website) row("Website", pretty(r.website), href(r.website));
