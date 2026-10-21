@@ -1,0 +1,5 @@
+# Netlify settings for career-resources.com
+# Plain static site: no build step, files are served from the repository root.
+[build]
+  publish = "."
+  command = ""
