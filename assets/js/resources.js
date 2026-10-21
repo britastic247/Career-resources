@@ -75,20 +75,49 @@
     }
     node.appendChild(document.createTextNode(text.slice(last)));
   }
-  // Description: keeps line breaks, turns [text](url) into links and **text** into bold.
-  var RICH_RE = /\[([^\]]+)\]\((https?:\/\/[^)\s]+)\)|\*\*([^*]+)\*\*/g;
-  function addRich(node, text) {
-    var last = 0, m;
-    RICH_RE.lastIndex = 0;
-    while ((m = RICH_RE.exec(text))) {
-      node.appendChild(document.createTextNode(text.slice(last, m.index)));
-      if (m[1]) { var a = el("a", null, m[1]); a.href = m[2]; node.appendChild(a); }
-      else node.appendChild(el("strong", null, m[3]));
-      last = m.index + m[0].length;
+  /* Description format (shared by the website and the database editor).
+     Paragraphs are split by a blank line. "- " starts a bullet; two spaces then "- " is a sub-bullet.
+     A line that is only **text** is a bold heading. Inline: **bold**, *italic*, ***both***,
+     bare web addresses become links, and [text](url) links are still read. */
+  function fixUrl(u) { return /^(https?:|mailto:|tel:)/i.test(u) ? u : "https://" + u; }
+  function prettyUrl(u) { return u.replace(/^https?:\/\//i, "").replace(/\/$/, ""); }
+  var URL_SRC = "(?:https?:\\/\\/|www\\.)[^\\s<>\\[\\]]+";
+  var INLINE_SRC = "\\[([^\\]]+)\\]\\(((?:https?:\\/\\/|www\\.|mailto:|tel:)[^)\\s]+)\\)" +
+    "|\\*\\*\\*(?=\\S)(.+?)\\*\\*\\*|\\*\\*(?=\\S)(.+?)\\*\\*|\\*(?=[^\\s*])(.+?)\\*|(" + URL_SRC + ")";
+  function trimUrl(u) {
+    var tail = "";
+    while (/[.,;:!?'")\]]$/.test(u)) {
+      var c = u.slice(-1);
+      if (c === ")" && u.split("(").length > u.split(")").length - 1) break;   // keep a balanced ")"
+      tail = c + tail; u = u.slice(0, -1);
     }
-    node.appendChild(document.createTextNode(text.slice(last)));
+    return [u, tail];
   }
-  // Splits a description into blocks: paragraphs, bold headings, and bullet lists.
+  // Returns a list of pieces: {t:"text", text} | {t:"b"|"i"|"bi", kids:[...]} | {t:"a", text, href}
+  function parseInline(s) {
+    var out = [], last = 0, m, re = new RegExp(INLINE_SRC, "g");
+    s = s || "";
+    while ((m = re.exec(s))) {
+      if (m.index > last) out.push({ t: "text", text: s.slice(last, m.index) });
+      if (m[1]) out.push({ t: "a", text: /^https?:\/\//i.test(m[1]) ? prettyUrl(m[1]) : m[1], href: fixUrl(m[2]) });
+      else if (m[3]) out.push({ t: "bi", kids: parseInline(m[3]) });
+      else if (m[4]) out.push({ t: "b", kids: parseInline(m[4]) });
+      else if (m[5]) out.push({ t: "i", kids: parseInline(m[5]) });
+      else {
+        var parts = trimUrl(m[6]);
+        if (parts[0].length > 4) out.push({ t: "a", text: prettyUrl(parts[0]), href: fixUrl(parts[0]) });
+        else out.push({ t: "text", text: parts[0] });
+        if (parts[1]) out.push({ t: "text", text: parts[1] });
+      }
+      last = re.lastIndex;
+    }
+    if (last < s.length) out.push({ t: "text", text: s.slice(last) });
+    return out;
+  }
+  // Text without any formatting marks (for search, previews and grid cells).
+  function plainPieces(ps) { return ps.map(function (p) { return p.kids ? plainPieces(p.kids) : p.text; }).join(""); }
+  function plainInline(s) { return plainPieces(parseInline(s)); }
+  // Splits a description into blocks: paragraphs, bold headings, and bullet lists (with one level of sub-bullets).
   function parseDesc(text) {
     var blocks = [];
     (text || "").split(/\n\s*\n/).forEach(function (chunk) {
@@ -96,8 +125,8 @@
       chunk.split("\n").forEach(function (raw) {
         var line = raw.trim();
         if (!line) return;
-        var item = line.match(/^-\s+(.*)$/);
-        var nested = item && /^\s{2,}-/.test(raw);
+        var item = line.match(/^[-•]\s+(.*)$/);
+        var nested = item && /^\s{2,}[-•]/.test(raw);
         if (nested && cur && cur.type === "ul" && cur.items.length) {
           cur.items[cur.items.length - 1].sub.push(item[1]);
         } else if (item) {
@@ -114,10 +143,61 @@
     });
     return blocks;
   }
+  function addPieces(node, ps, textFn) {
+    ps.forEach(function (p) {
+      if (p.t === "text") { if (textFn) textFn(node, p.text); else node.appendChild(document.createTextNode(p.text)); }
+      else if (p.t === "a") { var a = el("a", null, p.text); a.href = p.href; node.appendChild(a); }
+      else {
+        var w = el(p.t === "i" ? "em" : "strong");
+        if (p.t === "bi") { var em = el("em"); w.appendChild(em); addPieces(em, p.kids, textFn); } else addPieces(w, p.kids, textFn);
+        node.appendChild(w);
+      }
+    });
+  }
+  function addRich(node, text, textFn) { addPieces(node, parseInline(text), textFn); }
+  // Contact fields (phone, address, hours): keeps line breaks and formatting; phones become links when asked.
+  function addInfo(node, text, phones) {
+    var fn = phones ? addPhones : null, first = true;
+    parseDesc(text).forEach(function (b) {
+      if (b.type === "ul") {
+        var ul = el("ul");
+        b.items.forEach(function (it) {
+          var li = el("li"); addRich(li, it.text, fn);
+          if (it.sub.length) { var sub = el("ul"); it.sub.forEach(function (t) { var sli = el("li"); addRich(sli, t, fn); sub.appendChild(sli); }); li.appendChild(sub); }
+          ul.appendChild(li);
+        });
+        node.appendChild(ul); first = true; return;
+      }
+      var lines = b.type === "h" ? ["**" + b.text + "**"] : b.lines;
+      lines.forEach(function (t) { if (!first) node.appendChild(el("br")); addRich(node, t, fn); first = false; });
+    });
+  }
+  // pdfmake runs for a contact field: one line per line, bullets shown as "•".
+  function infoRuns(text) {
+    var out = [];
+    parseDesc(text).forEach(function (b) {
+      var lines = b.type === "ul" ? [] : b.type === "h" ? ["**" + b.text + "**"] : b.lines;
+      if (b.type === "ul") b.items.forEach(function (it) { lines.push("• " + it.text); it.sub.forEach(function (t) { lines.push("    ◦ " + t); }); });
+      lines.forEach(function (t) { if (out.length) out.push({ text: "\n" }); out = out.concat(pdfRuns(t)); });
+    });
+    return out;
+  }
+  // pdfmake text runs for one line of a description.
+  function pdfRuns(text) {
+    var out = [];
+    (function walk(ps, f) {
+      ps.forEach(function (p) {
+        if (p.t === "text") out.push({ text: p.text, bold: f.b, italics: f.i });
+        else if (p.t === "a") out.push({ text: p.text, link: p.href, color: "#042549", decoration: "underline", bold: f.b, italics: f.i });
+        else walk(p.kids, { b: f.b || p.t !== "i", i: f.i || p.t !== "b" });
+      });
+    })(parseInline(text), { b: false, i: false });
+    return out.length ? out : [{ text: "" }];
+  }
   function renderDesc(text) {
     var box = el("div", "res-card__desc");
     parseDesc(text).forEach(function (b) {
-      if (b.type === "h") box.appendChild(el("p", "res-card__desc-head", b.text));
+      if (b.type === "h") { var hp = el("p", "res-card__desc-head"); addRich(hp, b.text); box.appendChild(hp); }
       else if (b.type === "ul") {
         var ul = el("ul");
         b.items.forEach(function (it) {
@@ -131,7 +211,6 @@
     });
     return box;
   }
-  function plain(text) { return (text || "").replace(/\n[ \t]*\n+/g, "\n").replace(/\[([^\]]+)\]\((https?:\/\/[^)\s]+)\)/g, "$1 ($2)").replace(/\*\*([^*]+)\*\*/g, "$1"); }
   function tagRow(label, rest, items, cls) {
     var row = el("div", "res-card__row");
     var lead = el("span");
@@ -185,7 +264,7 @@
   /* ---------- filtering ---------- */
   function haystack(r) {
     if (r._hay == null) {
-      r._hay = [r.name, r.org, r.description, r.phone, r.email, r.address, r.hours, r.website]
+      r._hay = [r.name, r.org, plainInline(r.description || ""), r.phone, r.email, r.address, r.hours, r.website]
         .concat(r.needs, r.services, r.populations, r.careerTopics, r.locations, placeTags(r), (r.files || []).map(function (f) { return f.label; }))
         .join(" ").toLowerCase();
     }
@@ -265,16 +344,16 @@
     if (r.description) art.appendChild(renderDesc(r.description));
 
     var info = el("div", "res-card__info");
-    function line(label, fill) { var p = el("p"); p.appendChild(el("span", "label", label + ": ")); fill(p); info.appendChild(p); }
-    if (r.phone) line("Phone", function (p) { addPhones(p, r.phone); });
+    function line(label, fill) { var p = el("div", "res-card__line"); p.appendChild(el("span", "label", label + ": ")); fill(p); info.appendChild(p); }
+    if (r.phone) line("Phone", function (p) { addInfo(p, r.phone, true); });
     if (r.website) line("Website", function (p) { var a2 = el("a", null, pretty(r.website)); a2.href = href(r.website); p.appendChild(a2); });
     if (r.email) line("Email", function (p) {
       var m = r.email.match(/[^\s@]+@[^\s@]+\.[a-z]{2,}/i);
       if (m) { var a3 = el("a", null, m[0]); a3.href = "mailto:" + m[0]; p.appendChild(a3); p.appendChild(document.createTextNode(r.email.replace(m[0], ""))); }
       else p.appendChild(document.createTextNode(r.email));
     });
-    if (r.address) line("Address", function (p) { p.appendChild(document.createTextNode(r.address)); });
-    if (r.hours) line("Hours", function (p) { addPhones(p, r.hours); });
+    if (r.address) line("Address", function (p) { addInfo(p, r.address, false); });
+    if (r.hours) line("Hours", function (p) { addInfo(p, r.hours, true); });
     if (r.files && r.files.length) line("Handouts", function (p) {
       r.files.forEach(function (f, i) {
         if (i) p.appendChild(document.createTextNode(" · "));
@@ -511,20 +590,20 @@
       if (r.faithBased) flags.push("Faith-based program");
       if (flags.length) stack.push({ text: flags.join("  ·  "), style: "flag" });
       if (r.description) parseDesc(r.description).forEach(function (b) {
-        if (b.type === "h") stack.push({ text: b.text, style: "descHead" });
+        if (b.type === "h") stack.push({ text: pdfRuns(b.text), style: "descHead" });
         else if (b.type === "ul") stack.push({ ul: b.items.map(function (it) {
-          return it.sub.length ? { stack: [plain(it.text), { ul: it.sub.map(plain), type: "circle", margin: [0, 1, 0, 0] }] } : { text: plain(it.text) };
+          return it.sub.length ? { stack: [{ text: pdfRuns(it.text) }, { ul: it.sub.map(function (t) { return { text: pdfRuns(t) }; }), type: "circle", margin: [0, 1, 0, 0] }] } : { text: pdfRuns(it.text) };
         }), style: "descList" });
-        else stack.push({ text: b.lines.map(plain).join("\n"), style: "desc" });
+        else stack.push({ text: b.lines.reduce(function (acc, t, k) { return acc.concat(k ? [{ text: "\n" }] : [], pdfRuns(t)); }, []), style: "desc" });
       });
-      function row(label, value, link) {
-        stack.push({ text: [{ text: label + ": ", bold: true }, link ? { text: value, link: link, color: NAVY, decoration: "underline" } : { text: value }], style: "info" });
+      function row(label, value, link, rich) {
+        stack.push({ text: [{ text: label + ": ", bold: true }].concat(link ? [{ text: value, link: link, color: NAVY, decoration: "underline" }] : rich ? infoRuns(value) : [{ text: value }]), style: "info" });
       }
-      if (r.phone) row("Phone", r.phone);
+      if (r.phone) row("Phone", r.phone, null, true);
       if (r.website) row("Website", pretty(r.website), href(r.website));
       if (r.email) row("Email", r.email);
-      if (r.address) row("Address", r.address);
-      if (r.hours) row("Hours", r.hours);
+      if (r.address) row("Address", r.address, null, true);
+      if (r.hours) row("Hours", r.hours, null, true);
       (r.files || []).forEach(function (f) { var u = new URL(fileUrl(f.url), location.href).href; row("Handout", f.label, u); });
       var short = (r.description || "").length < 1400;        // only very long entries may split across pages
       body.push({ stack: stack, unbreakable: short, margin: [0, i ? 12 : 0, 0, 12] });
@@ -533,7 +612,7 @@
     return {
       pageSize: "LETTER",
       pageMargins: [48, 64, 48, 56],
-      info: { title: "Resource List – Career Resources", author: "Alliance for Workforce Development (AFWD)" },
+      info: { title: "Resource List – Career Resources", author: "Career Resources, Grass Valley" },
       header: function () {
         return { margin: [48, 26, 48, 0], columns: [
           { text: "Career Resources", bold: true, color: NAVY, fontSize: 12 },
@@ -542,7 +621,7 @@
       },
       footer: function (page, pages) {
         return { margin: [48, 18, 48, 0], columns: [
-          { text: "AFWD Grass Valley · 988 McCourtney Rd, Grass Valley, CA 95949 · (530) 328-1953 · career-resources.com", fontSize: 8, color: GREY },
+          { text: "Grass Valley Office · 988 McCourtney Rd, Grass Valley, CA 95949 · (530) 328-1953 · career-resources.com", fontSize: 8, color: GREY },
           { text: "Page " + page + " of " + pages, alignment: "right", fontSize: 8, color: GREY, width: 70 }
         ] };
       },

@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-20",
+ "updated": "2026-10-21",
  "needGroups": [
   "Clothing & Household Items",
   "Crisis & Safety",
@@ -1785,7 +1785,7 @@
     "Jobs & Education"
    ],
    "services": [
-    "Career Resources"
+    "Jobs & Education"
    ],
    "populations": [
     "Aging & Disabilities",
@@ -2691,7 +2691,7 @@
    ],
    "services": [
     "Financial Support",
-    "Career Resources"
+    "Jobs & Education"
    ],
    "populations": [
     "Children & Family"
@@ -4977,7 +4977,7 @@
    ],
    "services": [
     "Legal",
-    "Career Resources"
+    "Jobs & Education"
    ],
    "populations": [
     "Adults"
@@ -5014,7 +5014,7 @@
     "Jobs & Education"
    ],
    "services": [
-    "Career Resources"
+    "Jobs & Education"
    ],
    "populations": [
     "Everyone"
@@ -5051,7 +5051,7 @@
     "Jobs & Education"
    ],
    "services": [
-    "Career Resources"
+    "Jobs & Education"
    ],
    "populations": [
     "Everyone"
@@ -5088,7 +5088,7 @@
     "Jobs & Education"
    ],
    "services": [
-    "Career Resources"
+    "Jobs & Education"
    ],
    "populations": [
     "Everyone"
@@ -5126,7 +5126,7 @@
     "Jobs & Education"
    ],
    "services": [
-    "Career Resources"
+    "Jobs & Education"
    ],
    "populations": [
     "Everyone"
@@ -5164,7 +5164,7 @@
     "Jobs & Education"
    ],
    "services": [
-    "Career Resources"
+    "Jobs & Education"
    ],
    "populations": [
     "Everyone"
@@ -5380,7 +5380,7 @@
     "Money & Benefits"
    ],
    "services": [
-    "Career Resources",
+    "Jobs & Education",
     "Unemployment"
    ],
    "populations": [
@@ -5420,7 +5420,7 @@
    ],
    "services": [
     "Legal",
-    "Career Resources"
+    "Jobs & Education"
    ],
    "populations": [
     "Aging & Disabilities"
@@ -5459,7 +5459,7 @@
    ],
    "services": [
     "Legal",
-    "Career Resources"
+    "Jobs & Education"
    ],
    "populations": [
     "LGBTQ+"
@@ -5498,7 +5498,7 @@
    ],
    "services": [
     "Legal",
-    "Career Resources"
+    "Jobs & Education"
    ],
    "populations": [
     "Immigrants"
@@ -5537,7 +5537,7 @@
    ],
    "services": [
     "Legal",
-    "Career Resources"
+    "Jobs & Education"
    ],
    "populations": [
     "DVSA+"
@@ -5576,7 +5576,7 @@
    ],
    "services": [
     "Legal",
-    "Career Resources"
+    "Jobs & Education"
    ],
    "populations": [
     "Adults"
@@ -5617,7 +5617,7 @@
    "services": [
     "Legal",
     "Unemployment",
-    "Career Resources"
+    "Jobs & Education"
    ],
    "populations": [
     "Everyone"
@@ -5657,7 +5657,7 @@
    ],
    "services": [
     "Legal",
-    "Career Resources"
+    "Jobs & Education"
    ],
    "populations": [
     "Everyone"
@@ -5696,7 +5696,7 @@
    ],
    "services": [
     "Legal",
-    "Career Resources"
+    "Jobs & Education"
    ],
    "populations": [
     "Children & Family"
@@ -5735,7 +5735,7 @@
    ],
    "services": [
     "Legal",
-    "Career Resources"
+    "Jobs & Education"
    ],
    "populations": [
     "Everyone"
@@ -5775,7 +5775,7 @@
    "services": [
     "Financial Support",
     "Unemployment",
-    "Career Resources"
+    "Jobs & Education"
    ],
    "populations": [
     "Everyone"
@@ -5921,7 +5921,7 @@
     "Jobs & Education"
    ],
    "services": [
-    "Career Resources"
+    "Jobs & Education"
    ],
    "populations": [
     "Adults"
@@ -5960,7 +5960,7 @@
     "Jobs & Education"
    ],
    "services": [
-    "Career Resources"
+    "Jobs & Education"
    ],
    "populations": [
     "Adults"
@@ -6002,7 +6002,7 @@
     "Jobs & Education"
    ],
    "services": [
-    "Career Resources"
+    "Jobs & Education"
    ],
    "populations": [
     "Adults"
@@ -6150,7 +6150,7 @@
     "Money & Benefits"
    ],
    "services": [
-    "Career Resources",
+    "Jobs & Education",
     "Unemployment"
    ],
    "populations": [
@@ -6189,7 +6189,7 @@
     "Jobs & Education"
    ],
    "services": [
-    "Career Resources"
+    "Jobs & Education"
    ],
    "populations": [
     "Everyone"
@@ -6226,7 +6226,7 @@
     "Jobs & Education"
    ],
    "services": [
-    "Career Resources"
+    "Jobs & Education"
    ],
    "populations": [
     "Veterans"
@@ -6265,7 +6265,7 @@
     "Jobs & Education"
    ],
    "services": [
-    "Career Resources"
+    "Jobs & Education"
    ],
    "populations": [
     "Youth"
@@ -6310,7 +6310,7 @@
     "Jobs & Education"
    ],
    "services": [
-    "Career Resources"
+    "Jobs & Education"
    ],
    "populations": [
     "Everyone"
@@ -6347,7 +6347,7 @@
     "Jobs & Education"
    ],
    "services": [
-    "Career Resources"
+    "Jobs & Education"
    ],
    "populations": [
     "Everyone"
@@ -6388,7 +6388,7 @@
    "services": [
     "Financial Support",
     "Unemployment",
-    "Career Resources"
+    "Jobs & Education"
    ],
    "populations": [
     "Everyone"
@@ -6425,7 +6425,7 @@
     "Jobs & Education"
    ],
    "services": [
-    "Career Resources"
+    "Jobs & Education"
    ],
    "populations": [
     "Everyone"
@@ -6540,7 +6540,7 @@
    "services": [
     "Financial Support",
     "Unemployment",
-    "Career Resources"
+    "Jobs & Education"
    ],
    "populations": [
     "Everyone"
@@ -6614,7 +6614,7 @@
     "Jobs & Education"
    ],
    "services": [
-    "Career Resources"
+    "Jobs & Education"
    ],
    "populations": [
     "Everyone"
@@ -6651,7 +6651,7 @@
     "Jobs & Education"
    ],
    "services": [
-    "Career Resources"
+    "Jobs & Education"
    ],
    "populations": [
     "Adults"
@@ -6693,7 +6693,7 @@
     "Jobs & Education"
    ],
    "services": [
-    "Career Resources"
+    "Jobs & Education"
    ],
    "populations": [
     "Aging & Disabilities"
@@ -6840,7 +6840,7 @@
     "Jobs & Education"
    ],
    "services": [
-    "Career Resources"
+    "Jobs & Education"
    ],
    "populations": [
     "Aging & Disabilities"
@@ -6877,7 +6877,7 @@
     "Jobs & Education"
    ],
    "services": [
-    "Career Resources"
+    "Jobs & Education"
    ],
    "populations": [
     "Aging & Disabilities"
@@ -6914,7 +6914,7 @@
     "Jobs & Education"
    ],
    "services": [
-    "Career Resources"
+    "Jobs & Education"
    ],
    "populations": [
     "Aging & Disabilities"
@@ -7130,7 +7130,7 @@
     "Jobs & Education"
    ],
    "services": [
-    "Career Resources"
+    "Jobs & Education"
    ],
    "populations": [
     "Everyone"
@@ -7167,7 +7167,7 @@
     "Jobs & Education"
    ],
    "services": [
-    "Career Resources"
+    "Jobs & Education"
    ],
    "populations": [
     "Everyone"
@@ -7204,7 +7204,7 @@
     "Jobs & Education"
    ],
    "services": [
-    "Career Resources"
+    "Jobs & Education"
    ],
    "populations": [
     "Everyone"
@@ -7242,7 +7242,7 @@
     "Jobs & Education"
    ],
    "services": [
-    "Career Resources"
+    "Jobs & Education"
    ],
    "populations": [
     "Everyone"
@@ -7279,7 +7279,7 @@
     "Jobs & Education"
    ],
    "services": [
-    "Career Resources"
+    "Jobs & Education"
    ],
    "populations": [
     "Adults"
@@ -7317,7 +7317,7 @@
     "Jobs & Education"
    ],
    "services": [
-    "Career Resources"
+    "Jobs & Education"
    ],
    "populations": [
     "Everyone"
@@ -7355,7 +7355,7 @@
     "Jobs & Education"
    ],
    "services": [
-    "Career Resources"
+    "Jobs & Education"
    ],
    "populations": [
     "Everyone"
@@ -7394,7 +7394,7 @@
     "Jobs & Education"
    ],
    "services": [
-    "Career Resources",
+    "Jobs & Education",
     "Misc Material Items"
    ],
    "populations": [
@@ -7432,7 +7432,7 @@
     "Jobs & Education"
    ],
    "services": [
-    "Career Resources"
+    "Jobs & Education"
    ],
    "populations": [
     "Everyone"
@@ -7576,7 +7576,7 @@
     "Jobs & Education"
    ],
    "services": [
-    "Career Resources"
+    "Jobs & Education"
    ],
    "populations": [
     "Aging & Disabilities"
@@ -7619,7 +7619,7 @@
     "Resource Directories"
    ],
    "services": [
-    "Career Resources",
+    "Jobs & Education",
     "Resource Directory"
    ],
    "populations": [
@@ -7657,7 +7657,7 @@
     "Jobs & Education"
    ],
    "services": [
-    "Career Resources"
+    "Jobs & Education"
    ],
    "populations": [
     "Aging & Disabilities"
@@ -7694,7 +7694,7 @@
     "Jobs & Education"
    ],
    "services": [
-    "Career Resources"
+    "Jobs & Education"
    ],
    "populations": [
     "Veterans",
@@ -7732,7 +7732,7 @@
     "Jobs & Education"
    ],
    "services": [
-    "Career Resources"
+    "Jobs & Education"
    ],
    "populations": [
     "Veterans",
@@ -7770,7 +7770,7 @@
     "Jobs & Education"
    ],
    "services": [
-    "Career Resources"
+    "Jobs & Education"
    ],
    "populations": [
     "Veterans",
@@ -7846,7 +7846,7 @@
    ],
    "services": [
     "Financial Support",
-    "Career Resources"
+    "Jobs & Education"
    ],
    "populations": [
     "Aging & Disabilities"
@@ -7885,7 +7885,7 @@
    ],
    "services": [
     "Financial Support",
-    "Career Resources"
+    "Jobs & Education"
    ],
    "populations": [
     "Aging & Disabilities"
@@ -7924,7 +7924,7 @@
    ],
    "services": [
     "Financial Support",
-    "Career Resources"
+    "Jobs & Education"
    ],
    "populations": [
     "Aging & Disabilities"
@@ -7962,7 +7962,7 @@
     "Jobs & Education"
    ],
    "services": [
-    "Career Resources"
+    "Jobs & Education"
    ],
    "populations": [
     "Aging & Disabilities",
@@ -8001,7 +8001,7 @@
     "Jobs & Education"
    ],
    "services": [
-    "Career Resources"
+    "Jobs & Education"
    ],
    "populations": [
     "Aging & Disabilities",
@@ -8039,7 +8039,7 @@
     "Jobs & Education"
    ],
    "services": [
-    "Career Resources"
+    "Jobs & Education"
    ],
    "populations": [
     "Aging & Disabilities"
@@ -8080,7 +8080,7 @@
    ],
    "services": [
     "Resource Directory",
-    "Career Resources"
+    "Jobs & Education"
    ],
    "populations": [
     "Aging & Disabilities"
@@ -8267,7 +8267,7 @@
     "Jobs & Education"
    ],
    "services": [
-    "Career Resources"
+    "Jobs & Education"
    ],
    "populations": [
     "Veterans"
@@ -8486,7 +8486,7 @@
     "Jobs & Education"
    ],
    "services": [
-    "Career Resources"
+    "Jobs & Education"
    ],
    "populations": [
     "Military Spouses"
@@ -8528,7 +8528,7 @@
     "Jobs & Education"
    ],
    "services": [
-    "Career Resources"
+    "Jobs & Education"
    ],
    "populations": [
     "Military Spouses"
@@ -8565,7 +8565,7 @@
     "Jobs & Education"
    ],
    "services": [
-    "Career Resources"
+    "Jobs & Education"
    ],
    "populations": [
     "Veterans",
@@ -8608,7 +8608,7 @@
     "Jobs & Education"
    ],
    "services": [
-    "Career Resources"
+    "Jobs & Education"
    ],
    "populations": [
     "Everyone"
@@ -8645,7 +8645,7 @@
     "Jobs & Education"
    ],
    "services": [
-    "Career Resources"
+    "Jobs & Education"
    ],
    "populations": [
     "Veterans",
@@ -8685,7 +8685,7 @@
     "Jobs & Education"
    ],
    "services": [
-    "Career Resources"
+    "Jobs & Education"
    ],
    "populations": [
     "Aging & Disabilities"
@@ -8723,7 +8723,7 @@
     "Jobs & Education"
    ],
    "services": [
-    "Career Resources"
+    "Jobs & Education"
    ],
    "populations": [
     "Veterans"
@@ -8761,7 +8761,7 @@
     "Jobs & Education"
    ],
    "services": [
-    "Career Resources"
+    "Jobs & Education"
    ],
    "populations": [
     "Justice-Involved"
@@ -8910,7 +8910,7 @@
     "Jobs & Education"
    ],
    "services": [
-    "Career Resources"
+    "Jobs & Education"
    ],
    "populations": [
     "Veterans"
@@ -8947,7 +8947,7 @@
     "Jobs & Education"
    ],
    "services": [
-    "Career Resources"
+    "Jobs & Education"
    ],
    "populations": [
     "Everyone"
@@ -8990,7 +8990,7 @@
    "services": [
     "Misc Material Items",
     "Housing & Shelter",
-    "Career Resources",
+    "Jobs & Education",
     "Physical Health & Dental",
     "Mental Health"
    ],
@@ -9034,7 +9034,7 @@
     "Jobs & Education"
    ],
    "services": [
-    "Career Resources"
+    "Jobs & Education"
    ],
    "populations": [
     "Veterans"
@@ -9071,7 +9071,7 @@
     "Jobs & Education"
    ],
    "services": [
-    "Career Resources"
+    "Jobs & Education"
    ],
    "populations": [
     "Veterans",
@@ -9114,7 +9114,7 @@
     "Jobs & Education"
    ],
    "services": [
-    "Career Resources"
+    "Jobs & Education"
    ],
    "populations": [
     "Justice-Involved",
@@ -9157,7 +9157,7 @@
     "Jobs & Education"
    ],
    "services": [
-    "Career Resources"
+    "Jobs & Education"
    ],
    "populations": [
     "Veterans",
@@ -9195,7 +9195,7 @@
     "Jobs & Education"
    ],
    "services": [
-    "Career Resources"
+    "Jobs & Education"
    ],
    "populations": [
     "Adults"
@@ -9278,7 +9278,7 @@
     "Jobs & Education"
    ],
    "services": [
-    "Career Resources"
+    "Jobs & Education"
    ],
    "populations": [
     "Adults"
@@ -9315,7 +9315,7 @@
     "Jobs & Education"
    ],
    "services": [
-    "Career Resources"
+    "Jobs & Education"
    ],
    "populations": [
     "Adults"
@@ -9353,7 +9353,7 @@
     "Jobs & Education"
    ],
    "services": [
-    "Career Resources"
+    "Jobs & Education"
    ],
    "populations": [
     "Adults"
@@ -9396,7 +9396,7 @@
     "Jobs & Education"
    ],
    "services": [
-    "Career Resources"
+    "Jobs & Education"
    ],
    "populations": [
     "Adults"
@@ -9434,7 +9434,7 @@
     "Jobs & Education"
    ],
    "services": [
-    "Career Resources"
+    "Jobs & Education"
    ],
    "populations": [
     "Everyone"
@@ -9476,7 +9476,7 @@
     "Jobs & Education"
    ],
    "services": [
-    "Career Resources"
+    "Jobs & Education"
    ],
    "populations": [
     "Everyone"
@@ -9514,7 +9514,7 @@
     "Jobs & Education"
    ],
    "services": [
-    "Career Resources"
+    "Jobs & Education"
    ],
    "populations": [
     "Everyone"
@@ -9557,7 +9557,7 @@
     "Jobs & Education"
    ],
    "services": [
-    "Career Resources"
+    "Jobs & Education"
    ],
    "populations": [
     "Veterans"
@@ -9595,7 +9595,7 @@
     "Jobs & Education"
    ],
    "services": [
-    "Career Resources"
+    "Jobs & Education"
    ],
    "populations": [
     "Everyone"
@@ -9637,7 +9637,7 @@
     "Jobs & Education"
    ],
    "services": [
-    "Career Resources"
+    "Jobs & Education"
    ],
    "populations": [
     "Veterans"
@@ -9675,7 +9675,7 @@
     "Jobs & Education"
    ],
    "services": [
-    "Career Resources"
+    "Jobs & Education"
    ],
    "populations": [
     "Everyone"
@@ -9712,7 +9712,7 @@
     "Jobs & Education"
    ],
    "services": [
-    "Career Resources"
+    "Jobs & Education"
    ],
    "populations": [
     "Justice-Involved"
@@ -9751,7 +9751,7 @@
     "Jobs & Education"
    ],
    "services": [
-    "Career Resources"
+    "Jobs & Education"
    ],
    "populations": [
     "Justice-Involved"
@@ -9788,7 +9788,7 @@
     "Jobs & Education"
    ],
    "services": [
-    "Career Resources"
+    "Jobs & Education"
    ],
    "populations": [
     "Justice-Involved"
@@ -9825,7 +9825,7 @@
     "Jobs & Education"
    ],
    "services": [
-    "Career Resources"
+    "Jobs & Education"
    ],
    "populations": [
     "Everyone"
@@ -9862,7 +9862,7 @@
     "Jobs & Education"
    ],
    "services": [
-    "Career Resources"
+    "Jobs & Education"
    ],
    "populations": [
     "Children & Family"
@@ -9908,7 +9908,7 @@
     "Jobs & Education"
    ],
    "services": [
-    "Career Resources"
+    "Jobs & Education"
    ],
    "populations": [
     "Everyone"
@@ -10015,7 +10015,7 @@
     "Jobs & Education"
    ],
    "services": [
-    "Career Resources"
+    "Jobs & Education"
    ],
    "populations": [
     "Everyone"
@@ -10230,7 +10230,7 @@
    ],
    "services": [
     "Legal",
-    "Career Resources"
+    "Jobs & Education"
    ],
    "populations": [
     "Everyone"
@@ -10407,7 +10407,7 @@
     "Jobs & Education"
    ],
    "services": [
-    "Career Resources"
+    "Jobs & Education"
    ],
    "populations": [
     "Veterans"
@@ -10444,7 +10444,7 @@
     "Jobs & Education"
    ],
    "services": [
-    "Career Resources"
+    "Jobs & Education"
    ],
    "populations": [
     "Adults"
@@ -10481,7 +10481,7 @@
     "Jobs & Education"
    ],
    "services": [
-    "Career Resources"
+    "Jobs & Education"
    ],
    "populations": [
     "Veterans"
@@ -10518,7 +10518,7 @@
     "Jobs & Education"
    ],
    "services": [
-    "Career Resources"
+    "Jobs & Education"
    ],
    "populations": [
     "Everyone"
@@ -10555,7 +10555,7 @@
     "Jobs & Education"
    ],
    "services": [
-    "Career Resources"
+    "Jobs & Education"
    ],
    "populations": [
     "Adults"
@@ -10593,7 +10593,7 @@
     "Jobs & Education"
    ],
    "services": [
-    "Career Resources"
+    "Jobs & Education"
    ],
    "populations": [
     "Adults"
@@ -10631,7 +10631,7 @@
     "Jobs & Education"
    ],
    "services": [
-    "Career Resources"
+    "Jobs & Education"
    ],
    "populations": [
     "Adults"
@@ -10742,7 +10742,7 @@
     "Jobs & Education"
    ],
    "services": [
-    "Career Resources",
+    "Jobs & Education",
     "Housing & Shelter"
    ],
    "populations": [
@@ -10817,7 +10817,7 @@
     "Jobs & Education"
    ],
    "services": [
-    "Career Resources"
+    "Jobs & Education"
    ],
    "populations": [
     "Justice-Involved"

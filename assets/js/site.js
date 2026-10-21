@@ -231,4 +231,14 @@
     document.addEventListener("click", function (e) { if (!item.contains(e.target)) set(false); });
     item.addEventListener("keydown", function (e) { if (e.key === "Escape" && item.classList.contains("is-open")) { set(false); t.focus(); } });
   });
+
+  /* ---------- 5. Email links (address isn't written in the page, to cut down on spam) ---------- */
+  document.addEventListener("click", function (e) {
+    var a = e.target.closest && e.target.closest("a[data-m]");
+    if (!a) return;
+    e.preventDefault();
+    var addr = ""; try { addr = atob(a.getAttribute("data-m")); } catch (err) { return; }
+    var subj = a.getAttribute("data-subject");
+    window.location.href = "mailto:" + addr + (subj ? "?subject=" + encodeURIComponent(subj) : "");
+  });
 })();
