@@ -430,3 +430,9 @@ h2[id], h3[id], h4[id], section[id] { scroll-margin-top: 4.5rem; }
 .toggle--dark button:hover { background: rgba(245, 243, 238, .15); }
 .toggle--dark button[aria-pressed="true"]:hover { background: var(--white); }
 .explore :focus-visible { outline-color: #FFD27A; }
+
+/* Cover Letters page: "under construction" notice */
+.construction { background: #FFF4D6; border-left: 4px solid var(--focus); color: var(--text); padding: .875rem 1rem; border-radius: 0 var(--radius) var(--radius) 0; margin: 1.5rem 0 0; }
+/* Home quick links with four cards: 2 across on tablets, 4 across on wide screens */
+@media (min-width: 760px) { .card-grid--4 { grid-template-columns: repeat(2, 1fr); } }
+@media (min-width: 1100px) { .card-grid--4 { grid-template-columns: repeat(4, 1fr); } }
