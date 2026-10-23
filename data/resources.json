@@ -1127,8 +1127,8 @@
    "website": "www.afwd.org",
    "phone": "",
    "email": "",
-   "address": "988 McCourtney Rd\nGrass Valley",
-   "hours": "M - F, 8 AM - 5 PM; closed 12:30 - 1:30 PM for lunch"
+   "address": "",
+   "hours": ""
   },
   "291": {
    "name": "U.S. Department of Labor",
@@ -16181,7 +16181,7 @@
    "orgId": "217",
    "org": "Alliance for Workforce Development",
    "orgUrl": "www.afwd.org",
-   "description": "A list of free ways to build computer skills and earn certificates online.\n\n- Basic computer and internet skills\n- Typing and 10-key practice\n- Google Workspace and Microsoft Office lessons\n- Free online learning platforms and free certifications in many fields\n\nAlready have skills? Ask us about certified skill testing you can show employers.",
+   "description": "A list of free ways to build computer skills and earn certificates online.\n\n- Basic computer and internet skills\n- Typing and 10-key practice\n- Google Workspace and Microsoft Office lessons\n- Free online learning platforms and free certifications in many fields",
    "website": "",
    "phone": "",
    "email": "",

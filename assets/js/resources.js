@@ -614,7 +614,7 @@
     return {
       pageSize: "LETTER",
       pageMargins: [48, 64, 48, 56],
-      info: { title: "Resource List – Career Resources", author: "Career Resources, Grass Valley" },
+      info: { title: "Resource List – Career Resources", author: "Career Resources" },
       header: function () {
         return { margin: [48, 26, 48, 0], columns: [
           { text: "Career Resources", bold: true, color: NAVY, fontSize: 12 },
@@ -623,7 +623,7 @@
       },
       footer: function (page, pages) {
         return { margin: [48, 18, 48, 0], columns: [
-          { text: "Grass Valley Office · 988 McCourtney Rd, Grass Valley, CA 95949 · (530) 328-1953 · career-resources.com", fontSize: 8, color: GREY },
+          { text: "career-resources.com", fontSize: 8, color: GREY },
           { text: "Page " + page + " of " + pages, alignment: "right", fontSize: 8, color: GREY, width: 70 }
         ] };
       },
@@ -735,6 +735,6 @@
     .catch(function () {
       countEl.textContent = "Sorry, the resource list didn't load.";
       list.textContent = "";
-      list.appendChild(el("p", "res-empty", "Please refresh the page. If it still doesn't load, call or visit the Grass Valley office."));
+      list.appendChild(el("p", "res-empty", "Please refresh the page or try again later."));
     });
 })();

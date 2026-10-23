@@ -250,6 +250,7 @@ tbody th { font-weight: 700; }
 @media (min-width: 760px) { .footer-grid { grid-template-columns: 1.2fr 1fr; } }
 .site-footer address { font-style: normal; }
 .site-footer .eo { border-top: 1px solid rgba(245,243,238,.35); margin-top: 1.5rem; padding-top: 1rem; }
+.site-footer .eo:first-child { border-top: 0; margin-top: 0; padding-top: 0; }
 
 /* ---------- Helpers ---------- */
 .visually-hidden {
