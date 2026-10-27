@@ -443,19 +443,29 @@ h2[id], h3[id], h4[id], section[id] { scroll-margin-top: 4.5rem; }
 .glance--3 .glance__col, .glance--boxed .glance__col { background: var(--white); border: 1px solid #D8D4CA; border-radius: var(--radius-lg); padding: 1.25rem; }
 .glance--3 h3, .glance--boxed h3 { margin-bottom: .25rem; }
 .glance dd.block { display: block; margin: .15em 0 0; }
-.glance dd.block ul { margin: 0; padding-left: 1.25rem; }
-.guide-links { padding-left: 1.25rem; }
+.glance dd.block ul { margin: 0; padding-left: 2rem; }
+.guide-links { padding-left: 2.5rem; }
 .guide-links li { margin: .4em 0; }
 .tag-list { list-style: none; padding: 0; display: flex; flex-wrap: wrap; gap: .5rem; }
 .tag-list li { margin: 0; background: var(--pale-green); border-radius: 999px; padding: .3rem .8rem; }
 .guide-cards { list-style: none; padding: 0; display: grid; gap: 1rem; grid-template-columns: 1fr; }
 @media (min-width: 760px) { .guide-cards { grid-template-columns: repeat(2, 1fr); } }
 .guide-cards > li { margin: 0; background: var(--white); border: 1px solid #D8D4CA; border-radius: var(--radius-lg); padding: 1rem 1.25rem; }
-.guide-cards h4 { margin: 0 0 .35rem; }
+.guide-cards h3, .guide-cards h4 { margin: 0 0 .35rem; }
 .guide-cards p { margin: 0; }
 
 .glance--boxed .glance__col h3 + dl { margin-top: .5rem; }
-.guide-cards > li > ul { margin: .5rem 0 0; padding-left: 1.25rem; }
+.guide-cards > li > ul { margin: .5rem 0 0; padding-left: 2rem; }
 .terms dt { font-weight: 700; margin-top: 1rem; }
 .terms dd { margin: .25rem 0 0; }
 .steps li { margin: .5em 0; }
+
+@media (min-width: 760px) { .guide-cards--single { grid-template-columns: 1fr; } }
+.split-2-1 { display: grid; gap: 1.5rem; grid-template-columns: 1fr; align-items: start; }
+@media (min-width: 900px) { .split-2-1 { grid-template-columns: 2fr 1fr; } }
+.split-2-1 .guide-cards { margin-top: 0; align-items: start; }
+.terms-box { background: var(--pale-green); border-radius: var(--radius-lg); padding: 1.25rem; }
+.terms-box h3 { margin-top: 0; }
+.terms-box .terms dt:first-of-type { margin-top: .5rem; }
+.worksheet-link { margin-top: 1.25rem; }
+.guide-cards > li.span-all { grid-column: 1 / -1; }
