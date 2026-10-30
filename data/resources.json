@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-23",
+ "updated": "2026-10-30",
  "needGroups": [
   "Clothing & Household Items",
   "Crisis & Safety",
@@ -1056,7 +1056,7 @@
   "202": {
    "name": "California Employment Development Department (EDD)",
    "slug": "california-employment-development-department-edd",
-   "count": 6,
+   "count": 8,
    "description": "The state agency for unemployment benefits, CalJOBS, and job training programs.",
    "website": "www.edd.ca.gov",
    "phone": "**Unemployment (UI):** (800)300-5616\n**UI self-service (24/7):** (866)333-4606\n**TTY:** (800)815-9387",
@@ -2588,6 +2588,17 @@
    "count": 1,
    "description": "",
    "website": "www.anthropic.com",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": ""
+  },
+  "472": {
+   "name": "State of California",
+   "slug": "state-of-california",
+   "count": 1,
+   "description": "",
+   "website": "",
    "phone": "",
    "email": "",
    "address": "",
@@ -17131,6 +17142,132 @@
     {
      "label": "Labor market impacts of AI - Report",
      "url": "https://cdn.sanity.io/files/4zrzovbb/website/2b5bbaf2c1eb81dbf6e6fb813c1a24e35a64d376.pdf"
+    }
+   ]
+  },
+  {
+   "id": 574,
+   "name": "Work for California",
+   "orgId": "472",
+   "org": "State of California",
+   "orgUrl": "",
+   "description": "Work for California is a resource for anyone looking to apply for jobs with the State of California. Their tutorial videos will guide you through every step of the process, and you can listen to tips from state recruiters for the best way to approach your state job application, statement of qualifications and job interview. Visit the https://workforcalifornia.ca.gov/events page for virtual and in-person career fairs.",
+   "website": "workforcalifornia.ca.gov",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": "",
+   "needs": [
+    "Jobs & Education"
+   ],
+   "services": [
+    "Jobs & Education"
+   ],
+   "populations": [
+    "Everyone"
+   ],
+   "careerTopics": [
+    "Applying to Jobs",
+    "Government Jobs"
+   ],
+   "locations": [
+    "California"
+   ],
+   "areas": [
+    "California (statewide)"
+   ],
+   "online": true,
+   "incomeBased": false,
+   "referralNeeded": false,
+   "faithBased": false,
+   "checked": "10/30/2026",
+   "files": []
+  },
+  {
+   "id": 575,
+   "name": "EDD Workshops",
+   "orgId": "202",
+   "org": "California Employment Development Department (EDD)",
+   "orgUrl": "www.edd.ca.gov",
+   "description": "A list of upcoming workshops, both in-person and virtual, for job seekers. Available in English and Spanish.\n\nTopics include:\n\n- State employment\n- Job search\n- Interviewing\n- Resumes & applying to jobs\n- Financial literacy\n- Veterans services\n- Job fairs\n- WIOA (Workforce Innovation and Opportunity Act) Orientation\n- Labor market information\n- Career exploration",
+   "website": "edd.ca.gov/en/jobs_and_training/Job_Fairs_and_Workshops",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": "",
+   "needs": [
+    "Jobs & Education",
+    "Money & Benefits"
+   ],
+   "services": [
+    "Jobs & Education",
+    "Unemployment"
+   ],
+   "populations": [
+    "Everyone"
+   ],
+   "careerTopics": [
+    "Applying to Jobs",
+    "Government Jobs"
+   ],
+   "locations": [
+    "California"
+   ],
+   "areas": [
+    "California (statewide)"
+   ],
+   "online": true,
+   "incomeBased": false,
+   "referralNeeded": false,
+   "faithBased": false,
+   "checked": "10/30/2026",
+   "files": []
+  },
+  {
+   "id": 576,
+   "name": "California Training Benefits - While on UI",
+   "orgId": "202",
+   "org": "California Employment Development Department (EDD)",
+   "orgUrl": "www.edd.ca.gov",
+   "description": "\"California Training Benefits (CTB) allow Unemployment Insurance (UI) claimants to further their education, upgrade their skills, or learn a new trade by attending an Employment Development Department (EDD) approved school or training program while they receive UI benefits.\n\nApproved CTB participants are exempt from the usual UI claim requirements to be available for work, to seek work, and to accept suitable work during their attendance in an EDD approved training program.\n\nUI claimants who inquire about attending a school or training program before receiving their 16th week of regular UI benefit payments may also be eligible for additional weeks of benefits on a training extension.\" (up to 52 weeks).",
+   "website": "edd.ca.gov/ctb",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": "",
+   "needs": [
+    "Jobs & Education",
+    "Money & Benefits"
+   ],
+   "services": [
+    "Jobs & Education",
+    "Financial Support"
+   ],
+   "populations": [
+    "Everyone"
+   ],
+   "careerTopics": [
+    "Unemployment & Work Benefits"
+   ],
+   "locations": [
+    "California"
+   ],
+   "areas": [
+    "California (statewide)"
+   ],
+   "online": false,
+   "incomeBased": false,
+   "referralNeeded": false,
+   "faithBased": false,
+   "checked": "10/30/2026",
+   "files": [
+    {
+     "label": "California Training Benefits (CTB) Fact Sheet",
+     "url": "https://edd.ca.gov/siteassets/files/pdf_pub_ctr/de8714u.pdf"
+    },
+    {
+     "label": "Tips for Qualifying for CTB",
+     "url": "https://edd.ca.gov/siteassets/files/pdf_pub_ctr/de2332.pdf"
     }
    ]
   }
