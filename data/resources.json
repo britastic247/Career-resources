@@ -1122,7 +1122,7 @@
   "217": {
    "name": "Alliance for Workforce Development",
    "slug": "alliance-for-workforce-development",
-   "count": 7,
+   "count": 8,
    "description": "Runs America's Job Centers that help job seekers and employers, including youth programs.",
    "website": "www.afwd.org",
    "phone": "",
@@ -2497,7 +2497,7 @@
   "365": {
    "name": "Butte County Office of Education (BCOE)",
    "slug": "butte-county-office-of-education-bcoe",
-   "count": 2,
+   "count": 3,
    "description": "Runs the statewide Back 2 Work transitional employment program.",
    "website": "back2work.bcoe.org",
    "phone": "",
@@ -2600,6 +2600,17 @@
    "description": "",
    "website": "",
    "phone": "",
+   "email": "",
+   "address": "",
+   "hours": ""
+  },
+  "473": {
+   "name": "Elijah House Foundation",
+   "slug": "elijah-house-foundation",
+   "count": 1,
+   "description": "",
+   "website": "www.elijahhousefoundation.org",
+   "phone": "5308159558",
    "email": "",
    "address": "",
    "hours": ""
@@ -17268,6 +17279,129 @@
     {
      "label": "Tips for Qualifying for CTB",
      "url": "https://edd.ca.gov/siteassets/files/pdf_pub_ctr/de2332.pdf"
+    }
+   ]
+  },
+  {
+   "id": 577,
+   "name": "Caltrans Work Crew Program",
+   "orgId": "473",
+   "org": "Elijah House Foundation",
+   "orgUrl": "www.elijahhousefoundation.org",
+   "description": "Has Caltrans work crews in several counties. Not much more information is on the webpage. Recommend calling them for more information.",
+   "website": "www.elijahhousefoundation.org/work-crew-program-2",
+   "phone": "(530) 815-9558",
+   "email": "",
+   "address": "",
+   "hours": "",
+   "needs": [
+    "Jobs & Education"
+   ],
+   "services": [
+    "Jobs & Education"
+   ],
+   "populations": [
+    "Everyone"
+   ],
+   "careerTopics": [
+    "Internships & Work Experience"
+   ],
+   "locations": [
+    "Butte County",
+    "Yuba County",
+    "Tehama County",
+    "Sutter County"
+   ],
+   "areas": [
+    "Butte County",
+    "California (statewide)",
+    "Yuba-Sutter Area"
+   ],
+   "online": false,
+   "incomeBased": false,
+   "referralNeeded": false,
+   "faithBased": false,
+   "checked": "10/30/2026",
+   "files": []
+  },
+  {
+   "id": 578,
+   "name": "Caltrans Program",
+   "orgId": "365",
+   "org": "Butte County Office of Education (BCOE)",
+   "orgUrl": "back2work.bcoe.org",
+   "description": "Regional admins of the Caltrans work crew program, and they deliver some of the Caltrans job application assistance to the local program participants.",
+   "website": "back2work.bcoe.org",
+   "phone": "9163798182",
+   "email": "",
+   "address": "",
+   "hours": "",
+   "needs": [
+    "Jobs & Education"
+   ],
+   "services": [
+    "Jobs & Education"
+   ],
+   "populations": [
+    "Everyone"
+   ],
+   "careerTopics": [
+    "Internships & Work Experience",
+    "Applying to Jobs",
+    "Government Jobs"
+   ],
+   "locations": [
+    "Greater Sacramento Area"
+   ],
+   "areas": [
+    "Sacramento Area"
+   ],
+   "online": false,
+   "incomeBased": false,
+   "referralNeeded": false,
+   "faithBased": false,
+   "checked": "10/30/2026",
+   "files": []
+  },
+  {
+   "id": 579,
+   "name": "Paradise RISE",
+   "orgId": "217",
+   "org": "Alliance for Workforce Development",
+   "orgUrl": "www.afwd.org",
+   "description": "A workforce training and economic recovery program supporting individuals throughout Butte County and surrounding areas. Paradise RISE will help **up to 500 individuals** gain skills and certifications in high-demand fields, at **no cost**, to support our communities' recovery after the Camp Fire.\n\nTraining must take place in Butte County but participants may be residents of neighboring counties. Apply through link!",
+   "website": "rise.afwd.org",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": "",
+   "needs": [
+    "Jobs & Education"
+   ],
+   "services": [
+    "Jobs & Education"
+   ],
+   "populations": [
+    "Everyone"
+   ],
+   "careerTopics": [
+    "Help Paying for Training & Education"
+   ],
+   "locations": [
+    "Butte County"
+   ],
+   "areas": [
+    "Butte County"
+   ],
+   "online": false,
+   "incomeBased": false,
+   "referralNeeded": false,
+   "faithBased": false,
+   "checked": "10/30/2026",
+   "files": [
+    {
+     "label": "Paradise RISE Flyer",
+     "url": "C:\\Users\\BrittanyGelbart\\OneDrive - NRCD\\AFWD - Brittany Gelbart\\Printouts - What Customers See\\Handouts\\AFWD Services\\afwd-cdbg rise flyer 9.14.pdf"
     }
    ]
   }
