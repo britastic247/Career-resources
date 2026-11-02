@@ -36,7 +36,7 @@
 
   var everything = [], byId = {}, orgs = {}, all = [];
   var SHARED = null;   // ids from a share link: the page shows just these
-  var state = { q: "", need: "", who: "", where: "", noIncome: false, noFaith: false, noReferral: false, per: 10, page: 1 };
+  var state = { q: "", need: "", who: "", where: "", localOnly: false, noIncome: false, noFaith: false, noReferral: false, per: 10, page: 1 };
 
   /* ---------- helpers ---------- */
   function el(tag, cls, text) {
@@ -55,6 +55,11 @@
     s.setAttribute("aria-hidden", "true"); s.setAttribute("focusable", "false");
     ICONS[key].paths.forEach(function (d) { var p = document.createElementNS(NS, "path"); p.setAttribute("d", d); s.appendChild(p); });
     return s;
+  }
+  function newTab(a) {   // outside links open in a new tab and say so to screen readers
+    a.target = "_blank"; a.rel = "noopener";
+    a.appendChild(el("span", "visually-hidden", " (opens in a new tab)"));
+    return a;
   }
   function href(url) { return /^https?:\/\//i.test(url) ? url : "https://" + url; }
   function pretty(url) { return url.replace(/^https?:\/\//i, "").replace(/^www\./i, "").replace(/\/$/, ""); }
@@ -146,7 +151,7 @@
   function addPieces(node, ps, textFn) {
     ps.forEach(function (p) {
       if (p.t === "text") { if (textFn) textFn(node, p.text); else node.appendChild(document.createTextNode(p.text)); }
-      else if (p.t === "a") { var a = el("a", null, p.text); a.href = p.href; node.appendChild(a); }
+      else if (p.t === "a") { var a = el("a", null, p.text); a.href = p.href; if (/^https?:/i.test(p.href)) newTab(a); node.appendChild(a); }
       else {
         var w = el(p.t === "i" ? "em" : "strong");
         if (p.t === "bi") { var em = el("em"); w.appendChild(em); addPieces(em, p.kids, textFn); } else addPieces(w, p.kids, textFn);
@@ -286,6 +291,7 @@
       var ok = r.online || r.areas.indexOf(state.where) >= 0;
       var minRank = RANK[state.where] || 0; // a local area accepts every broad area; a broad area accepts broader ones
       r.areas.forEach(function (a) { if (RANK[a] && RANK[a] >= minRank) ok = true; });
+      if (state.localOnly && r.areas.indexOf(state.where) < 0) ok = false; // only programs tagged with this exact place
       if (!ok) return false;
     }
     return true;
@@ -348,7 +354,7 @@
     var info = el("div", "res-card__info");
     function line(label, fill) { var p = el("div", "res-card__line"); p.appendChild(el("span", "label", label + ": ")); fill(p); info.appendChild(p); }
     if (r.phone) line("Phone", function (p) { addInfo(p, r.phone, true); });
-    if (r.website) line("Website", function (p) { var a2 = el("a", null, pretty(r.website)); a2.href = href(r.website); p.appendChild(a2); });
+    if (r.website) line("Website", function (p) { var a2 = el("a", null, pretty(r.website)); a2.href = href(r.website); p.appendChild(newTab(a2)); });
     if (r.email) line("Email", function (p) {
       var m = r.email.match(/[^\s@]+@[^\s@]+\.[a-z]{2,}/i);
       if (m) { var a3 = el("a", null, m[0]); a3.href = "mailto:" + m[0]; p.appendChild(a3); p.appendChild(document.createTextNode(r.email.replace(m[0], ""))); }
@@ -359,7 +365,7 @@
     if (r.files && r.files.length) line("Handouts", function (p) {
       r.files.forEach(function (f, i) {
         if (i) p.appendChild(document.createTextNode(" · "));
-        var a4 = el("a", null, f.label); a4.href = fileUrl(f.url); p.appendChild(a4);
+        var a4 = el("a", null, f.label); a4.href = fileUrl(f.url); p.appendChild(newTab(a4));
       });
     });
     if (info.childNodes.length) art.appendChild(info);
@@ -433,6 +439,7 @@
     if (form) {
       state.q = form.q.value.trim();
       state.need = form.need.value; state.who = form.who.value; state.where = form.where.value;
+      state.localOnly = form.localOnly.checked;
       state.noIncome = form.noIncome.checked; state.noFaith = form.noFaith.checked; state.noReferral = form.noReferral.checked;
     }
     if (perSel) state.per = parseInt(perSel.value, 10) || 10;
@@ -441,9 +448,17 @@
     if (form) {
       form.q.value = state.q;
       form.need.value = state.need; form.who.value = state.who; form.where.value = state.where;
+      form.localOnly.checked = state.localOnly;
       form.noIncome.checked = state.noIncome; form.noFaith.checked = state.noFaith; form.noReferral.checked = state.noReferral;
     }
     if (perSel) perSel.value = String(state.per);
+    syncLocal();
+  }
+  function syncLocal() {   // the "only this place" box shows once a place is picked
+    var wrap = document.getElementById("res-local");
+    if (!wrap || !form) return;
+    wrap.hidden = !form.where.value;
+    if (form.where.value) wrap.querySelector(".res-local__place").textContent = form.where.value;
   }
   function saveUrl() {
     var q = new URLSearchParams();
@@ -452,6 +467,7 @@
     if (state.need) q.set("need", state.need);
     if (state.who) q.set("who", state.who);
     if (state.where) q.set("where", state.where);
+    if (state.where && state.localOnly) q.set("local-only", "1");
     if (state.noIncome) q.set("hide-income", "1");
     if (state.noFaith) q.set("hide-faith", "1");
     if (state.noReferral) q.set("hide-referral", "1");
@@ -466,6 +482,7 @@
     if (q.get("need")) state.need = q.get("need");
     if (q.get("who")) state.who = q.get("who");
     if (q.get("where") && q.get("where") !== "all") state.where = q.get("where");
+    state.localOnly = q.get("local-only") === "1";
     state.noIncome = q.get("hide-income") === "1"; state.noFaith = q.get("hide-faith") === "1"; state.noReferral = q.get("hide-referral") === "1";
     if ([10, 20, 50].indexOf(parseInt(q.get("per"), 10)) >= 0) state.per = parseInt(q.get("per"), 10);
     if (parseInt(q.get("page"), 10) > 1) state.page = parseInt(q.get("page"), 10);
@@ -718,7 +735,7 @@
     writeForm(); readForm();
     buildTray();
     if (form) {
-      form.addEventListener("change", function (e) { if (e.target === form.q) return; readForm(); state.page = 1; render(false); });
+      form.addEventListener("change", function (e) { if (e.target === form.q) return; syncLocal(); readForm(); state.page = 1; render(false); });
       form.addEventListener("submit", function (e) { e.preventDefault(); });
       var timer;
       form.q.addEventListener("input", function () { clearTimeout(timer); timer = setTimeout(function () { readForm(); state.page = 1; render(false); }, 300); });
