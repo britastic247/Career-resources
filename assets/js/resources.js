@@ -702,7 +702,7 @@
     everything.forEach(function (r) { byId[r.id] = r; });
     all = JOBS ? everything.filter(function (r) { return r.needs.indexOf(JOBS_GROUP) >= 0; })
         : ORG ? everything.filter(function (r) { return r.orgId === ORG_ID; })
-        : everything;
+        : everything.filter(function (r) { return !(r.needs.length === 1 && r.needs[0] === JOBS_GROUP); });   // jobs-only resources live on the Jobs & Education page
     if (form) {
       if (JOBS) {
         var tp = {}; all.forEach(function (r) { r.careerTopics.forEach(function (t) { tp[t] = 1; }); });

@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30",
+ "updated": "2026-11-02",
  "needGroups": [
   "Clothing & Household Items",
   "Crisis & Safety",
@@ -16,6 +16,7 @@
   "Substance Use",
   "Technology",
   "Transportation",
+  "Unemployment",
   "Victim Services"
  ],
  "orgs": {
@@ -1122,7 +1123,7 @@
   "217": {
    "name": "Alliance for Workforce Development",
    "slug": "alliance-for-workforce-development",
-   "count": 8,
+   "count": 9,
    "description": "Runs America's Job Centers that help job seekers and employers, including youth programs.",
    "website": "www.afwd.org",
    "phone": "",
@@ -2611,6 +2612,50 @@
    "description": "",
    "website": "www.elijahhousefoundation.org",
    "phone": "5308159558",
+   "email": "",
+   "address": "",
+   "hours": ""
+  },
+  "475": {
+   "name": "Lenny's Jobs",
+   "slug": "lennys-jobs",
+   "count": 1,
+   "description": "",
+   "website": "www.lennysjobs.com",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": ""
+  },
+  "476": {
+   "name": "Roseville Adult School",
+   "slug": "roseville-adult-school",
+   "count": 1,
+   "description": "",
+   "website": "rosevilleadult.rjuhsd.us",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": ""
+  },
+  "477": {
+   "name": "National Veterans Transition Services, Inc.",
+   "slug": "national-veterans-transition-services-inc",
+   "count": 1,
+   "description": "",
+   "website": "www.nvtsi.org",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": ""
+  },
+  "478": {
+   "name": "Employment Training Panel (ETP)",
+   "slug": "employment-training-panel-etp",
+   "count": 1,
+   "description": "ETP pays employers back at a flat rate for training their current workers, and it also funds training that helps unemployed workers get back into jobs. An employer gets paid only after a worker finishes the training and stays in a job that uses those skills, at a required wage, for a set time (usually 90 days). The program focuses on businesses that compete with out-of-state or global companies, and it gives extra help to small businesses and employers in areas with high unemployment.",
+   "website": "etp.ca.gov",
+   "phone": "",
    "email": "",
    "address": "",
    "hours": ""
@@ -4537,7 +4582,10 @@
     "Help Paying for Training & Education"
    ],
    "locations": [
-    "Nevada City"
+    "Nevada City",
+    "Nevada County",
+    "Grass Valley",
+    "Penn Valley"
    ],
    "areas": [
     "Nevada County"
@@ -7213,7 +7261,7 @@
    "hours": "",
    "needs": [
     "Jobs & Education",
-    "Money & Benefits"
+    "Unemployment"
    ],
    "services": [
     "Jobs & Education",
@@ -7226,10 +7274,36 @@
     "Find Jobs"
    ],
    "locations": [
-    "California"
+    "California",
+    "Auburn",
+    "Colfax",
+    "Colusa County",
+    "Grass Valley",
+    "Greater Sacramento Area",
+    "Marysville",
+    "Nevada City",
+    "North San Juan",
+    "Nevada County",
+    "Northern CA",
+    "Placer County",
+    "Penn Valley",
+    "Placerville",
+    "Sacramento",
+    "Sierra County",
+    "Tahoe Area",
+    "Tehama County",
+    "Yuba City",
+    "Truckee Area",
+    "Yuba County"
    ],
    "areas": [
-    "California (statewide)"
+    "California (statewide)",
+    "Nevada County",
+    "Northern California",
+    "Placer County",
+    "Sacramento Area",
+    "Sierra County",
+    "Yuba-Sutter Area"
    ],
    "online": true,
    "incomeBased": false,
@@ -7448,7 +7522,7 @@
    "needs": [
     "Jobs & Education",
     "Legal Help",
-    "Money & Benefits"
+    "Unemployment"
    ],
    "services": [
     "Legal",
@@ -7606,7 +7680,8 @@
    "hours": "**Customer service:** M - F, 8 AM - 5 PM\n**Self-service line:** 24/7",
    "needs": [
     "Jobs & Education",
-    "Money & Benefits"
+    "Money & Benefits",
+    "Unemployment"
    ],
    "services": [
     "Financial Support",
@@ -7983,7 +8058,7 @@
    "hours": "",
    "needs": [
     "Jobs & Education",
-    "Money & Benefits"
+    "Unemployment"
    ],
    "services": [
     "Jobs & Education",
@@ -8219,7 +8294,8 @@
    "hours": "",
    "needs": [
     "Jobs & Education",
-    "Money & Benefits"
+    "Money & Benefits",
+    "Unemployment"
    ],
    "services": [
     "Financial Support",
@@ -8371,7 +8447,8 @@
    "hours": "",
    "needs": [
     "Jobs & Education",
-    "Money & Benefits"
+    "Money & Benefits",
+    "Unemployment"
    ],
    "services": [
     "Financial Support",
@@ -8410,8 +8487,8 @@
    "address": "",
    "hours": "M - F, 6 AM - 2 PM",
    "needs": [
-    "Money & Benefits",
-    "Other"
+    "Other",
+    "Unemployment"
    ],
    "services": [
     "Misc",
@@ -9718,12 +9795,10 @@
    "address": "",
    "hours": "M - F, 6 AM - 5 PM",
    "needs": [
-    "Jobs & Education",
     "Money & Benefits"
    ],
    "services": [
-    "Financial Support",
-    "Jobs & Education"
+    "Financial Support"
    ],
    "populations": [
     "Aging & Disabilities"
@@ -11901,7 +11976,9 @@
     "School & Training"
    ],
    "locations": [
-    "Grass Valley"
+    "Grass Valley",
+    "Nevada County",
+    "Nevada City"
    ],
    "areas": [
     "Nevada County"
@@ -15345,7 +15422,7 @@
    "incomeBased": false,
    "referralNeeded": false,
    "faithBased": false,
-   "checked": "10/21/2026",
+   "checked": "11/02/2026",
    "files": []
   },
   {
@@ -16691,10 +16768,14 @@
     "Internships & Work Experience"
    ],
    "locations": [
-    "California"
+    "California",
+    "Greater Sacramento Area",
+    "Butte County"
    ],
    "areas": [
-    "California (statewide)"
+    "Butte County",
+    "California (statewide)",
+    "Sacramento Area"
    ],
    "online": false,
    "incomeBased": false,
@@ -16731,10 +16812,14 @@
     "Internships & Work Experience"
    ],
    "locations": [
-    "California"
+    "California",
+    "Greater Sacramento Area",
+    "Butte County"
    ],
    "areas": [
-    "California (statewide)"
+    "Butte County",
+    "California (statewide)",
+    "Sacramento Area"
    ],
    "online": false,
    "incomeBased": false,
@@ -16770,10 +16855,14 @@
     "Internships & Work Experience"
    ],
    "locations": [
-    "California"
+    "California",
+    "Greater Sacramento Area",
+    "Butte County"
    ],
    "areas": [
-    "California (statewide)"
+    "Butte County",
+    "California (statewide)",
+    "Sacramento Area"
    ],
    "online": false,
    "incomeBased": false,
@@ -16808,10 +16897,14 @@
     "Internships & Work Experience"
    ],
    "locations": [
-    "California"
+    "California",
+    "Greater Sacramento Area",
+    "Butte County"
    ],
    "areas": [
-    "California (statewide)"
+    "Butte County",
+    "California (statewide)",
+    "Sacramento Area"
    ],
    "online": false,
    "incomeBased": false,
@@ -17208,7 +17301,7 @@
    "hours": "",
    "needs": [
     "Jobs & Education",
-    "Money & Benefits"
+    "Unemployment"
    ],
    "services": [
     "Jobs & Education",
@@ -17404,6 +17497,221 @@
      "url": "C:\\Users\\BrittanyGelbart\\OneDrive - NRCD\\AFWD - Brittany Gelbart\\Printouts - What Customers See\\Handouts\\AFWD Services\\afwd-cdbg rise flyer 9.14.pdf"
     }
    ]
+  },
+  {
+   "id": 581,
+   "name": "Lenny's Job Board",
+   "orgId": "475",
+   "org": "Lenny's Jobs",
+   "orgUrl": "www.lennysjobs.com",
+   "description": "Find all types of roles at tech companies all over the world:\n\n- Internships and entry-level, and above\n- In person and remote\n\nNo login or payment is required. The job board links the visitor directly to the original job listing.",
+   "website": "www.lennysjobs.com",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": "",
+   "needs": [
+    "Jobs & Education"
+   ],
+   "services": [
+    "Jobs & Education"
+   ],
+   "populations": [
+    "Everyone"
+   ],
+   "careerTopics": [
+    "Find Jobs",
+    "Find Remote Jobs"
+   ],
+   "locations": [
+    "Anywhere"
+   ],
+   "areas": [
+    "Nationwide"
+   ],
+   "online": true,
+   "incomeBased": false,
+   "referralNeeded": false,
+   "faithBased": false,
+   "checked": "11/02/2026",
+   "files": []
+  },
+  {
+   "id": 582,
+   "name": "Water Distribution Operator Certification Program",
+   "orgId": "476",
+   "org": "Roseville Adult School",
+   "orgUrl": "rosevilleadult.rjuhsd.us",
+   "description": "A 16-week program designed to prepare students for California State Water Resources Control Board Grade D1/D2 and T1/T2 certifications. May provide direct pathways to apply for local internships. Program is free; textbooks start at $100.\n\nJoin a information session to learn more about the program and careers in water distribution and other fields within the Roseville Utilities Department.",
+   "website": "https://rosevilleadult.rjuhsd.us/academics/water-distribution",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": "",
+   "needs": [
+    "Jobs & Education"
+   ],
+   "services": [
+    "Jobs & Education"
+   ],
+   "populations": [
+    "Adults"
+   ],
+   "careerTopics": [
+    "School & Training"
+   ],
+   "locations": [
+    "Roseville"
+   ],
+   "areas": [
+    "Placer County"
+   ],
+   "online": false,
+   "incomeBased": false,
+   "referralNeeded": false,
+   "faithBased": false,
+   "checked": "11/02/2026",
+   "files": []
+  },
+  {
+   "id": 583,
+   "name": "REBOOT Workshop & Operation Skillbridge",
+   "orgId": "477",
+   "org": "National Veterans Transition Services, Inc.",
+   "orgUrl": "www.nvtsi.org",
+   "description": "The first step in the program; A 3 week workshop that provides basic employment readiness skills. Once completed, can apply for Operation Skillbridge.\n\nOperation Skillbridge provides free job skills in many areas. Upon completion, the program helps the participant get placed with a participating employer.\n\n**Job Skills**\n\n- [Accounting (Coursera)](https://www.tfaforms.com/4906733)\n- [Adaptive Leadership (Coursera)](https://www.tfaforms.com/4906733)\n- [Business Development Representative](https://drive.google.com/file/d/1B2nHIpVUoC88D7ceqMrjFhb8UXnfMQuZ/view)\n- [Business Intelligence Analyst](https://ccslearningacademy.com/veteran-training-career-resources)\n- [CompTIA Security](https://ccslearningacademy.com/veteran-training-career-resources)\n- [Construction & Development Projects (Coursera)](https://www.tfaforms.com/4906733)\n- [Conversant with Computers (Coursera)](https://www.tfaforms.com/4906733)\n- [COURSERA-Online Learning Platform](https://www.tfaforms.com/4906733)\n- [Cybersecurity (Coursera)](https://www.tfaforms.com/4906733)\n- [Data Analytics (Coursera)](https://www.tfaforms.com/4906733)\n- [Digital Literacy (Coursera)](https://www.tfaforms.com/4906733)\n- [Emergency Medical Technician (EMT) (Coursera)](https://www.tfaforms.com/4906733)\n- [Entrepreneur/DVBE Certiﬁcation](https://www.nvtsi.org/ov/)\n- [Health IT (Coursera)](https://www.tfaforms.com/4906733)\n- [Heavy Equipment](https://heavyequipmentcollege.com/campuses/california-campus/)\n- [IT Support (Coursera)](https://www.tfaforms.com/4906733)\n- [Lean Six Sigma (Coursera)](https://www.tfaforms.com/4906733)\n- [Manufacturing](https://wfw.org/)\n- [OJT Career Success (Coursera)](https://www.tfaforms.com/4906733)\n- [Project Management (Coursera)](https://www.tfaforms.com/4906733)\n- [Resiliency & Adaptability (Coursera)](https://www.tfaforms.com/4906733)\n- [Sales (Coursera)](https://www.tfaforms.com/4906733)\n- [Security & Law Enforcement (Coursera)](https://www.tfaforms.com/4906733)\n- [Supply Chain (Logistics) (Coursera)](https://www.tfaforms.com/4906733)\n- [Trucking](https://troopstotruckers.com/)\n- [Utilities/Energy](https://www.sdge.com/energy-innovation-center/education-training)",
+   "website": "https://www.nvtsi.org/operationskillbridge/",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": "",
+   "needs": [
+    "Jobs & Education"
+   ],
+   "services": [
+    "Jobs & Education"
+   ],
+   "populations": [
+    "Veterans",
+    "Military Spouses"
+   ],
+   "careerTopics": [
+    "School & Training",
+    "Find Jobs"
+   ],
+   "locations": [
+    "California"
+   ],
+   "areas": [
+    "California (statewide)"
+   ],
+   "online": false,
+   "incomeBased": false,
+   "referralNeeded": false,
+   "faithBased": false,
+   "checked": "11/02/2026",
+   "files": []
+  },
+  {
+   "id": 584,
+   "name": "Employment Training Panel (ETP) List",
+   "orgId": "478",
+   "org": "Employment Training Panel (ETP)",
+   "orgUrl": "etp.ca.gov",
+   "description": "Lists of training providers for the ETP program. May be able to find employers that are willing to take on new employees if the training is paid for.",
+   "website": "https://etp.ca.gov/planning-your-training/training-opportunities",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": "",
+   "needs": [
+    "Jobs & Education"
+   ],
+   "services": [
+    "Jobs & Education"
+   ],
+   "populations": [
+    "Adults"
+   ],
+   "careerTopics": [
+    "Help Paying for Training & Education",
+    "Find Jobs"
+   ],
+   "locations": [
+    "California"
+   ],
+   "areas": [
+    "California (statewide)"
+   ],
+   "online": false,
+   "incomeBased": false,
+   "referralNeeded": false,
+   "faithBased": false,
+   "checked": "",
+   "files": [
+    {
+     "label": "ETP List Nevada County",
+     "url": "C:\\Users\\BrittanyGelbart\\OneDrive - NRCD\\AFWD - Brittany Gelbart\\Claude projects\\Career Resources Website Project\\etp-list_nevadacounty.xlsx"
+    },
+    {
+     "label": "ETP List Statewide",
+     "url": "C:\\Users\\BrittanyGelbart\\OneDrive - NRCD\\AFWD - Brittany Gelbart\\Claude projects\\Career Resources Website Project\\etp-list_Statewide.xlsx"
+    },
+    {
+     "label": "ETP List - ALL Northern CA",
+     "url": "https://etp.ca.gov/wp-content/uploads/sites/70/2025/09/TrainingOpsRepor-multi-2026-09-25.pdf"
+    }
+   ]
+  },
+  {
+   "id": 585,
+   "name": "North State Jobs",
+   "orgId": "217",
+   "org": "Alliance for Workforce Development",
+   "orgUrl": "www.afwd.org",
+   "description": "Local job postings for Northern California counties, run by the Alliance for Workforce Development. Business Service Representatives work with employers to get information about their open positions, and they regularly check on them to make sure they are still hiring.\n\n**Counties include:**\n\n- Butte\n- Lassen\n- Modoc\n- Nevada\n- Plumas\n- Sierra",
+   "website": "www.northstatejobs.com",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": "",
+   "needs": [
+    "Jobs & Education"
+   ],
+   "services": [
+    "Jobs & Education"
+   ],
+   "populations": [
+    "Everyone"
+   ],
+   "careerTopics": [
+    "Find Jobs"
+   ],
+   "locations": [
+    "Butte County",
+    "Nevada City",
+    "Colfax",
+    "Grass Valley",
+    "Chico",
+    "Nevada County",
+    "Penn Valley",
+    "Truckee Area",
+    "Sierra County",
+    "Tehama County"
+   ],
+   "areas": [
+    "Butte County",
+    "California (statewide)",
+    "Nevada County",
+    "Placer County",
+    "Sierra County"
+   ],
+   "online": true,
+   "incomeBased": false,
+   "referralNeeded": false,
+   "faithBased": false,
+   "checked": "11/02/2026",
+   "files": []
   }
  ]
 }
