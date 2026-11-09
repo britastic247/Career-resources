@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02",
+ "updated": "2026-11-09",
  "needGroups": [
   "Clothing & Household Items",
   "Crisis & Safety",
@@ -2656,6 +2656,72 @@
    "description": "ETP pays employers back at a flat rate for training their current workers, and it also funds training that helps unemployed workers get back into jobs. An employer gets paid only after a worker finishes the training and stays in a job that uses those skills, at a required wage, for a set time (usually 90 days). The program focuses on businesses that compete with out-of-state or global companies, and it gives extra help to small businesses and employers in areas with high unemployment.",
    "website": "etp.ca.gov",
    "phone": "",
+   "email": "",
+   "address": "",
+   "hours": ""
+  },
+  "479": {
+   "name": "The Urban Association for Forestry and Fire Professionals Inc.",
+   "slug": "the-urban-association-for-forestry-and-fire-professionals-inc",
+   "count": 1,
+   "description": "",
+   "website": "www.forestryfirerp.org",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": ""
+  },
+  "480": {
+   "name": "California Student Aid Commission",
+   "slug": "california-student-aid-commission",
+   "count": 3,
+   "description": "",
+   "website": "www.csac.ca.gov",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": ""
+  },
+  "481": {
+   "name": "Federal Student Aid",
+   "slug": "federal-student-aid",
+   "count": 1,
+   "description": "",
+   "website": "studentaid.gov",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": ""
+  },
+  "482": {
+   "name": "Wireless Infrastructure Association",
+   "slug": "wireless-infrastructure-association",
+   "count": 2,
+   "description": "",
+   "website": "wia.org",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": ""
+  },
+  "474": {
+   "name": "Meta",
+   "slug": "meta",
+   "count": 1,
+   "description": "Facebook",
+   "website": "www.meta.com",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": ""
+  },
+  "483": {
+   "name": "California Human Development",
+   "slug": "california-human-development",
+   "count": 1,
+   "description": "A non-profit agency that provides supportive services and technical education for California's farmworkers and low-income communities.",
+   "website": "californiahumandevelopment.org",
+   "phone": "916.371.8220",
    "email": "",
    "address": "",
    "hours": ""
@@ -17711,6 +17777,425 @@
    "referralNeeded": false,
    "faithBased": false,
    "checked": "11/02/2026",
+   "files": []
+  },
+  {
+   "id": 587,
+   "name": "Forestry and Fire Recruitment Program",
+   "orgId": "479",
+   "org": "The Urban Association for Forestry and Fire Professionals Inc.",
+   "orgUrl": "www.forestryfirerp.org",
+   "description": "Recruits, trains, and connects participants with employment in fire fighting and related jobs. Mostly for justice-involved, but accepts participants from all experiences and backgrounds. Submit the online application to apply. Although training occurs at either San Bernardino or Oakland, there are employment partners across CA.\n\n**Basic Eligibility**\n\n- 18+\n- Authorized to work in US\n- No charges of arson, sex crimes, or *violent crimes (*reviewed on case-by-case basis)\n- No open or pending cases\n- Must be willing to travel and/or relocate for employment\n- Able to participate in strenuous outdoor activities\n- Must have reliable transportation & stable housing",
+   "website": "www.forestryfirerp.org/get-involved",
+   "phone": "",
+   "email": "info@forestryfirerp.org",
+   "address": "",
+   "hours": "",
+   "needs": [
+    "Jobs & Education"
+   ],
+   "services": [
+    "Jobs & Education"
+   ],
+   "populations": [
+    "Justice-Involved"
+   ],
+   "careerTopics": [
+    "Help Paying for Training & Education"
+   ],
+   "locations": [
+    "California"
+   ],
+   "areas": [
+    "California (statewide)"
+   ],
+   "online": false,
+   "incomeBased": false,
+   "referralNeeded": false,
+   "faithBased": false,
+   "checked": "11/03/2026",
+   "files": []
+  },
+  {
+   "id": 588,
+   "name": "Workforce Pell Grant Program",
+   "orgId": "480",
+   "org": "California Student Aid Commission",
+   "orgUrl": "www.csac.ca.gov",
+   "description": "A new type of federal financial aid that pays for short-term training programs, such as career technical education, certificate, and apprenticeship programs. Students apply through FAFSA once they find an eligible program. It's a very new grant so there isn't currently a list of approved programs so check this website for more news! *NOT the same as Cal Grant C. Unknown whether a student can receive both at the same time - possibly!*\n\n**Programs**\n\n- Between 150 - 599 clock hours and run 8 - 14 weeks\n- Supports specific occupations (see attached list)\n- Be approved by the State of California (currently reviewing applications of programs)\n\n**Student Eligibility**\n\n- Enroll in a short‑term training program approved by the State of California.\n- Cannot be currently enrolled in a bachelor’s or higher‑level degree program (graduates with a bachelor's degree OK)\n- Must have a high school diploma, GED, or equivalent.\n- Must be a U.S. citizen or [eligible non‑citizen](https://studentaid.gov/understand-aid/eligibility/requirements/non-us-citizens).\n- Meet federal requirements for Pell, as determined by the [FAFSA](https://studentaid.gov/h/apply-for-aid/fafsa).",
+   "website": "https://www.csac.ca.gov/workforce-pell",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": "",
+   "needs": [
+    "Jobs & Education"
+   ],
+   "services": [
+    "Jobs & Education"
+   ],
+   "populations": [
+    "Everyone"
+   ],
+   "careerTopics": [
+    "Help Paying for Training & Education"
+   ],
+   "locations": [
+    "California"
+   ],
+   "areas": [
+    "California (statewide)"
+   ],
+   "online": false,
+   "incomeBased": false,
+   "referralNeeded": false,
+   "faithBased": false,
+   "checked": "11/04/2026",
+   "files": [
+    {
+     "label": "2026-2027 Workforce Pell Occupational List",
+     "url": "https://www.csac.ca.gov/sites/default/files/2026-10/2026-27-wfp-occupational-list_ada.pdf"
+    },
+    {
+     "label": "About the Workforce Pell Grant Program",
+     "url": "https://www.csac.ca.gov/sites/default/files/2026-07/workforce-pell-program-faq.pdf"
+    }
+   ]
+  },
+  {
+   "id": 589,
+   "name": "Federal Supplemental Educational Opportunity Grant (FSEOG)",
+   "orgId": "481",
+   "org": "Federal Student Aid",
+   "orgUrl": "studentaid.gov",
+   "description": "A financial aid grant for undergraduate students with exceptional financial need, can provide up to $4,000 a year of financial aid (depends upon financial need). Awards are dependent upon the school; each school has their own limit of FSEOG awards. When that limit has been met for the year, no more awards can be given, so apply ASAP for that financial aid year.\n\n**How to apply**\n\nComplete FAFSA!",
+   "website": "https://studentaid.gov/understand-aid/types/grants/fseog",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": "",
+   "needs": [
+    "Jobs & Education"
+   ],
+   "services": [
+    "Jobs & Education"
+   ],
+   "populations": [
+    "Adults"
+   ],
+   "careerTopics": [
+    "Help Paying for Training & Education"
+   ],
+   "locations": [
+    "United States"
+   ],
+   "areas": [
+    "Nationwide"
+   ],
+   "online": false,
+   "incomeBased": true,
+   "referralNeeded": false,
+   "faithBased": false,
+   "checked": "11/04/2026",
+   "files": []
+  },
+  {
+   "id": 590,
+   "name": "Find scholarships",
+   "orgId": "480",
+   "org": "California Student Aid Commission",
+   "orgUrl": "www.csac.ca.gov",
+   "description": "A list of suggested scholarship finder websites. Other scholarship websites may require payment for access, which could be a scam. Use these trusted sites instead.\n\nBigFuture scholarship search: https://bigfuture.collegeboard.org/scholarship-search\n\nCareerOneStop Scholarship Finder: https://www.careeronestop.org/Toolkit/Training/find-scholarships.aspx\n\nAppily search and planning tool: https://www.appily.com/scholarships\n\nBold.org scholarship search tool: https://bold.org/scholarships\n\nSallie Mae scholarship search: https://www.sallie.com/scholarships",
+   "website": "",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": "",
+   "needs": [
+    "Jobs & Education"
+   ],
+   "services": [
+    "Jobs & Education"
+   ],
+   "populations": [
+    "Everyone"
+   ],
+   "careerTopics": [
+    "Help Paying for Training & Education"
+   ],
+   "locations": [
+    "Anywhere"
+   ],
+   "areas": [
+    "Nationwide"
+   ],
+   "online": true,
+   "incomeBased": false,
+   "referralNeeded": false,
+   "faithBased": false,
+   "checked": "11/04/2026",
+   "files": []
+  },
+  {
+   "id": 591,
+   "name": "Financial Aid 101 Video",
+   "orgId": "480",
+   "org": "California Student Aid Commission",
+   "orgUrl": "www.csac.ca.gov",
+   "description": "A very helpful video covering the basic different types of financial aid, eligibility, and how to apply.",
+   "website": "https://youtu.be/WA2OdoPEEow?si=I1dWeBnxdSu_pVYW",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": "",
+   "needs": [
+    "Jobs & Education"
+   ],
+   "services": [
+    "Jobs & Education"
+   ],
+   "populations": [
+    "Everyone"
+   ],
+   "careerTopics": [
+    "Help Paying for Training & Education"
+   ],
+   "locations": [
+    "California"
+   ],
+   "areas": [
+    "California (statewide)"
+   ],
+   "online": true,
+   "incomeBased": false,
+   "referralNeeded": false,
+   "faithBased": false,
+   "checked": "11/04/2026",
+   "files": []
+  },
+  {
+   "id": 592,
+   "name": "Telecommunications Career Pathways",
+   "orgId": "482",
+   "org": "Wireless Infrastructure Association",
+   "orgUrl": "wia.org",
+   "description": "An online tool that assists in exploring telecommunications career pathways.\n\n- Interactive job data: Explore the telecommunications job market by occupation, state, and metro area.\n- Career pathways: Common roles and occupational mapping, from entry level to senior.\n- Training library: Courses and credentialing programs.\n- Apprenticeships: Explore 16 telecommunications apprenticeships (TIRAP) - Telecommunications Industry Registered Apprenticeship Program",
+   "website": "careerpathways.wia.org",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": "",
+   "needs": [
+    "Jobs & Education"
+   ],
+   "services": [
+    "Jobs & Education"
+   ],
+   "populations": [
+    "Everyone"
+   ],
+   "careerTopics": [
+    "Explore Careers"
+   ],
+   "locations": [
+    "United States"
+   ],
+   "areas": [
+    "Nationwide"
+   ],
+   "online": true,
+   "incomeBased": false,
+   "referralNeeded": false,
+   "faithBased": false,
+   "checked": "11/06/2026",
+   "files": []
+  },
+  {
+   "id": 593,
+   "name": "Telecommunications Industry Registered Apprenticeship Program (TIRAP)",
+   "orgId": "482",
+   "org": "Wireless Infrastructure Association",
+   "orgUrl": "wia.org",
+   "description": "Provides technical assistance, training resources, support, and access to incentive funding for their registered Employer Sponsors.\n\n**Job seekers:** Visit https://www.tirap.org/telecom-occupations/#form , explore occupations/apprenticeships, and submit an interest form. There is no listed information about locations.",
+   "website": "www.tirap.org",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": "",
+   "needs": [
+    "Jobs & Education"
+   ],
+   "services": [
+    "Jobs & Education"
+   ],
+   "populations": [
+    "Adults"
+   ],
+   "careerTopics": [
+    "Internships & Work Experience",
+    "Help Paying for Training & Education"
+   ],
+   "locations": [
+    "United States"
+   ],
+   "areas": [
+    "Nationwide"
+   ],
+   "online": false,
+   "incomeBased": false,
+   "referralNeeded": false,
+   "faithBased": false,
+   "checked": "11/06/2026",
+   "files": []
+  },
+  {
+   "id": 594,
+   "name": "Construction Ready Pathway - America's Workforce Academy",
+   "orgId": "474",
+   "org": "Meta",
+   "orgUrl": "www.meta.com",
+   "description": "This pathway provides comprehensive training in general construction trades, including electrical, mechanical, plumbing systems, and more.\n\n**Job seekers:** Select \"Learn more and sign up for updates\" to submit the interest form.",
+   "website": "www.abc.org/AWA",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": "",
+   "needs": [
+    "Jobs & Education"
+   ],
+   "services": [
+    "Jobs & Education"
+   ],
+   "populations": [
+    "Adults"
+   ],
+   "careerTopics": [
+    "School & Training",
+    "Help Paying for Training & Education"
+   ],
+   "locations": [
+    "United States"
+   ],
+   "areas": [
+    "Nationwide"
+   ],
+   "online": false,
+   "incomeBased": false,
+   "referralNeeded": false,
+   "faithBased": false,
+   "checked": "",
+   "files": []
+  },
+  {
+   "id": 595,
+   "name": "Coursebond",
+   "orgId": "",
+   "org": "",
+   "orgUrl": "",
+   "description": "Online courses and certificates - many of them are free, including:\n\n- Google Data Analytics Certificate\n- Google IT Support Certificate\n- Google Project Management Certificate\n- Google Cloud Cybersecurity Certificate\n- Data Analyst Bootcamp\n- Foundations of IT Support - Google IT Support Certificate\n- Google Digital Marketing & E-commerce Certificate\n- ....and a LOT more classes.",
+   "website": "coursebond.com",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": "",
+   "needs": [
+    "Jobs & Education"
+   ],
+   "services": [
+    "Jobs & Education"
+   ],
+   "populations": [
+    "Everyone"
+   ],
+   "careerTopics": [
+    "School & Training"
+   ],
+   "locations": [
+    "Anywhere"
+   ],
+   "areas": [
+    "Nationwide"
+   ],
+   "online": false,
+   "incomeBased": false,
+   "referralNeeded": false,
+   "faithBased": false,
+   "checked": "11/06/2026",
+   "files": []
+  },
+  {
+   "id": 596,
+   "name": "Free Code Camp.org",
+   "orgId": "",
+   "org": "",
+   "orgUrl": "",
+   "description": "100% online, free certifications and certification exam prep:\n\n*Classes and Free Code Camp certifications are free; certifications from other organizations may require a fee.\n\n- Responsive web design\n- JavaScript\n- Front-End Development Libraries\n- Python\n- Relational Databases\n- Back-end Development and APIs\n- Certified Full-Stack Developer\n- Claude Certified Architect\n- NVIDIA-Certified Associate AI Infrastructure and Operations\n- Google Cloud Associate\n- ...and many more",
+   "website": "www.freecodecamp.org",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": "",
+   "needs": [
+    "Jobs & Education"
+   ],
+   "services": [
+    "Jobs & Education"
+   ],
+   "populations": [
+    "Everyone"
+   ],
+   "careerTopics": [
+    "School & Training"
+   ],
+   "locations": [
+    "Anywhere"
+   ],
+   "areas": [
+    "Nationwide"
+   ],
+   "online": true,
+   "incomeBased": false,
+   "referralNeeded": false,
+   "faithBased": false,
+   "checked": "11/06/2026",
+   "files": []
+  },
+  {
+   "id": 597,
+   "name": "Truck Driving Program",
+   "orgId": "483",
+   "org": "California Human Development",
+   "orgUrl": "californiahumandevelopment.org",
+   "description": "Students earn a Commercial Class A Driver License. Available at the Woodland, Marysville, and Willows locations. Classes scheduled Monday - Friday, daytime; weekend classes may be available. The cost of the program\n\n**Eligibility**\n\n- Meet basic educational center admission requirements\n- Have held a valid US Driver's License for at least 1 year\n- Sign a Motor Vehicle Release Authorization Form\n- Have an acceptable driving record\n- Pass a Department of Transportation medical examination and drug and alcohol tests",
+   "website": "californiahuman",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": "",
+   "needs": [
+    "Jobs & Education"
+   ],
+   "services": [
+    "Jobs & Education"
+   ],
+   "populations": [
+    "Adults"
+   ],
+   "careerTopics": [
+    "School & Training",
+    "Help Paying for Training & Education"
+   ],
+   "locations": [
+    "Northern CA"
+   ],
+   "areas": [
+    "Northern California"
+   ],
+   "online": false,
+   "incomeBased": true,
+   "referralNeeded": false,
+   "faithBased": false,
+   "checked": "",
    "files": []
   }
  ]
