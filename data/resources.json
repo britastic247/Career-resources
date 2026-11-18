@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09",
+ "updated": "2026-11-18",
  "needGroups": [
   "Clothing & Household Items",
   "Crisis & Safety",
@@ -1388,7 +1388,7 @@
    "name": "California Public Utilities Commission (CPUC)",
    "slug": "california-public-utilities-commission-cpuc",
    "count": 2,
-   "description": "State agency that oversees utilities. Lists bill help and discount programs.",
+   "description": "State agency that oversees utilities. Lists bill help and discount programs.\nView program handouts: www.cpuc.ca.gov/about-cpuc/transparency-and-reporting/fact-sheets\nView financial aid programs: www.cpuc.ca.gov/consumer-support/financial-assistance-savings-and-discounts",
    "website": "www.cpuc.ca.gov",
    "phone": "(800)649-7570",
    "email": "",
@@ -2722,6 +2722,28 @@
    "description": "A non-profit agency that provides supportive services and technical education for California's farmworkers and low-income communities.",
    "website": "californiahumandevelopment.org",
    "phone": "916.371.8220",
+   "email": "",
+   "address": "",
+   "hours": ""
+  },
+  "484": {
+   "name": "Sophia's Mission",
+   "slug": "sophias-mission",
+   "count": 1,
+   "description": "",
+   "website": "sophiasmissionus.org",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": ""
+  },
+  "485": {
+   "name": "Virtual Design and Construction Institute (VDCI)",
+   "slug": "virtual-design-and-construction-institute-vdci",
+   "count": 1,
+   "description": "VDCI is an accredited online institution dedicated to advancing careers in architecture, construction, and interior design. They provide expert-led, project-based learning that helps professionals master the tools and technologies shaping today’s design and construction industries.",
+   "website": "vdci.edu",
+   "phone": "",
    "email": "",
    "address": "",
    "hours": ""
@@ -18196,6 +18218,128 @@
    "referralNeeded": false,
    "faithBased": false,
    "checked": "",
+   "files": []
+  },
+  {
+   "id": 598,
+   "name": "Sophia's Mission Job Board",
+   "orgId": "484",
+   "org": "Sophia's Mission",
+   "orgUrl": "sophiasmissionus.org",
+   "description": "Free job board: Second-chance and disability inclusive employers. Also has a free AI job coach. A good place to find truly remote employers.",
+   "website": "https://sophiasmissionus.org/jobs",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": "",
+   "needs": [
+    "Jobs & Education"
+   ],
+   "services": [
+    "Jobs & Education"
+   ],
+   "populations": [
+    "Aging & Disabilities",
+    "Justice-Involved",
+    "Everyone"
+   ],
+   "careerTopics": [
+    "Find Remote Jobs",
+    "Find Jobs"
+   ],
+   "locations": [
+    "Anywhere"
+   ],
+   "areas": [
+    "Nationwide"
+   ],
+   "online": true,
+   "incomeBased": false,
+   "referralNeeded": false,
+   "faithBased": false,
+   "checked": "11/16/2026",
+   "files": []
+  },
+  {
+   "id": 600,
+   "name": "California Alternate Rates for Energy Program (CARE) &  Family Electric Rate Assistance Program (FERA)",
+   "orgId": "",
+   "org": "",
+   "orgUrl": "",
+   "description": "CARE provides a 30-35 percent discount on your monthly electric bill and a 20 percent discount on your natural gas bill. You can qualify for CARE by either meeting income limits or if enrolled in certain public assistance programs.\n\nFERA: For families whose income slightly exceeds CARE limits. Applies an 18% discount on electricity bills.",
+   "website": "https://www.cpuc.ca.gov/industries-and-topics/electrical-energy/electric-costs/care-fera-program",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": "",
+   "needs": [
+    "Money & Benefits"
+   ],
+   "services": [
+    "Financial Support"
+   ],
+   "populations": [
+    "Adults"
+   ],
+   "careerTopics": [],
+   "locations": [
+    "California"
+   ],
+   "areas": [
+    "California (statewide)"
+   ],
+   "online": false,
+   "incomeBased": true,
+   "referralNeeded": false,
+   "faithBased": false,
+   "checked": "11/17/2026",
+   "files": [
+    {
+     "label": "CARE FERA Program English",
+     "url": "assets\\files\\resources\\CARE_FERA_062823.pdf"
+    },
+    {
+     "label": "CARE FERA Program Spanish",
+     "url": "assets\\files\\resources\\CARE_FERA_Spanish_070723.pdf"
+    }
+   ]
+  },
+  {
+   "id": 602,
+   "name": "VA Approved VDCI Programs",
+   "orgId": "485",
+   "org": "Virtual Design and Construction Institute (VDCI)",
+   "orgUrl": "vdci.edu",
+   "description": "",
+   "website": "https://vdci.edu/veterans",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": "",
+   "needs": [
+    "Jobs & Education"
+   ],
+   "services": [
+    "Jobs & Education"
+   ],
+   "populations": [
+    "Veterans",
+    "Military Spouses"
+   ],
+   "careerTopics": [
+    "School & Training"
+   ],
+   "locations": [
+    "United States"
+   ],
+   "areas": [
+    "Nationwide"
+   ],
+   "online": false,
+   "incomeBased": false,
+   "referralNeeded": false,
+   "faithBased": false,
+   "checked": "11/17/2026",
    "files": []
   }
  ]
