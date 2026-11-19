@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18",
+ "updated": "2026-11-19",
  "needGroups": [
   "Clothing & Household Items",
   "Crisis & Safety",
@@ -2743,6 +2743,50 @@
    "count": 1,
    "description": "VDCI is an accredited online institution dedicated to advancing careers in architecture, construction, and interior design. They provide expert-led, project-based learning that helps professionals master the tools and technologies shaping today’s design and construction industries.",
    "website": "vdci.edu",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": ""
+  },
+  "486": {
+   "name": "Vetrepreneur.com",
+   "slug": "vetrepreneur-com",
+   "count": 1,
+   "description": "",
+   "website": "vetrepreneur.com",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": ""
+  },
+  "487": {
+   "name": "Military Friendly",
+   "slug": "military-friendly",
+   "count": 1,
+   "description": "",
+   "website": "www.militaryfriendly.com",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": ""
+  },
+  "488": {
+   "name": "University of the People",
+   "slug": "university-of-the-people",
+   "count": 1,
+   "description": "Tuition-free, online, accredited degree programs.",
+   "website": "www.uopeople.edu",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": ""
+  },
+  "489": {
+   "name": "Vets Hired",
+   "slug": "vets-hired",
+   "count": 1,
+   "description": "",
+   "website": "vetshired.us",
    "phone": "",
    "email": "",
    "address": "",
@@ -10655,7 +10699,8 @@
    "careerTopics": [
     "Explore Careers",
     "School & Training",
-    "Help Paying for Training & Education"
+    "Help Paying for Training & Education",
+    "Business Ownership"
    ],
    "locations": [
     "United States"
@@ -13216,7 +13261,8 @@
     "Adults"
    ],
    "careerTopics": [
-    "School & Training"
+    "School & Training",
+    "Business Ownership"
    ],
    "locations": [
     "United States"
@@ -13332,7 +13378,8 @@
     "Adults"
    ],
    "careerTopics": [
-    "School & Training"
+    "School & Training",
+    "Business Ownership"
    ],
    "locations": [
     "United States"
@@ -13372,7 +13419,8 @@
    ],
    "careerTopics": [
     "Employment & Disabilities",
-    "School & Training"
+    "School & Training",
+    "Business Ownership"
    ],
    "locations": [
     "United States"
@@ -15877,7 +15925,8 @@
     "Adults"
    ],
    "careerTopics": [
-    "Find Jobs"
+    "Find Jobs",
+    "Business Ownership"
    ],
    "locations": [
     "Anywhere"
@@ -15988,7 +16037,8 @@
     "Adults"
    ],
    "careerTopics": [
-    "Find Jobs"
+    "Find Jobs",
+    "Business Ownership"
    ],
    "locations": [
     "Anywhere"
@@ -16025,7 +16075,8 @@
     "Adults"
    ],
    "careerTopics": [
-    "Find Jobs"
+    "Find Jobs",
+    "Business Ownership"
    ],
    "locations": [
     "Anywhere"
@@ -16429,7 +16480,8 @@
    ],
    "careerTopics": [
     "Find Jobs",
-    "Job Resource Lists"
+    "Job Resource Lists",
+    "Business Ownership"
    ],
    "locations": [
     "Nevada County"
@@ -18340,6 +18392,157 @@
    "referralNeeded": false,
    "faithBased": false,
    "checked": "11/17/2026",
+   "files": []
+  },
+  {
+   "id": 603,
+   "name": "Franchise Coaching",
+   "orgId": "486",
+   "org": "Vetrepreneur.com",
+   "orgUrl": "vetrepreneur.com",
+   "description": "Veterans and their families can receive free step-by-step help deciding whether they should own a franchise, which one is the right fit, and the steps to ownership and success.\n\nA coach can help you answer these questions:\n\n- Is franchise ownership right for me?\n- Do I need business or industry experience to own a franchise?\n- Why is franchise coaching free?\n- Who is eligible for Vetrepreneur Franchise Coaching?\n- How does the free coaching process work?\n- What happens during my Discovery Call?\n- How will you help me find the right franchise?\n- What types of franchise opportunities are available?",
+   "website": "https://vetrepreneur.com/franchise-coaching/",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": "",
+   "needs": [
+    "Jobs & Education"
+   ],
+   "services": [
+    "Jobs & Education"
+   ],
+   "populations": [
+    "Veterans",
+    "Military Spouses"
+   ],
+   "careerTopics": [
+    "Business Ownership"
+   ],
+   "locations": [
+    "Anywhere"
+   ],
+   "areas": [
+    "Nationwide"
+   ],
+   "online": false,
+   "incomeBased": false,
+   "referralNeeded": false,
+   "faithBased": false,
+   "checked": "",
+   "files": []
+  },
+  {
+   "id": 604,
+   "name": "Military Friendly Employers List",
+   "orgId": "487",
+   "org": "Military Friendly",
+   "orgUrl": "www.militaryfriendly.com",
+   "description": "Military Friendly® is the standard that measures an organization’s commitment, effort, and success in creating sustainable and meaningful benefits for the military community. Over 1,500 organizations compete annually for Military Friendly® designation.",
+   "website": "https://www.militaryfriendly.com/employers/",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": "",
+   "needs": [
+    "Jobs & Education"
+   ],
+   "services": [
+    "Jobs & Education"
+   ],
+   "populations": [
+    "Military Spouses",
+    "Veterans"
+   ],
+   "careerTopics": [
+    "Find Jobs"
+   ],
+   "locations": [
+    "Anywhere"
+   ],
+   "areas": [
+    "Nationwide"
+   ],
+   "online": true,
+   "incomeBased": false,
+   "referralNeeded": false,
+   "faithBased": false,
+   "checked": "11/19/2026",
+   "files": []
+  },
+  {
+   "id": 605,
+   "name": "University of the People",
+   "orgId": "488",
+   "org": "University of the People",
+   "orgUrl": "www.uopeople.edu",
+   "description": "Tuition-free online university. Some costs are required to cover application and assessment fees, for which scholarships are available.\n\nAcademic programs include certificates, associate's degrees, bachelor's degrees, and master's degrees.\n\n**Certificates**\n\n- IBM Skills Build certificates in cybersecurity, data analytics, and artificial intelligence.\n- Game Design\n\n**Degrees**\n\n- Business administration: Specializations in accounting, management, marketing, economics, finance, communications\n- IT\n- Education\n- Computer science\n- Health science\n- General studies: With concentrations in organizational management, project management",
+   "website": "www.uopeople.edu",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": "",
+   "needs": [
+    "Jobs & Education"
+   ],
+   "services": [
+    "Jobs & Education"
+   ],
+   "populations": [
+    "Adults"
+   ],
+   "careerTopics": [
+    "School & Training"
+   ],
+   "locations": [
+    "Anywhere"
+   ],
+   "areas": [
+    "Nationwide"
+   ],
+   "online": true,
+   "incomeBased": false,
+   "referralNeeded": false,
+   "faithBased": false,
+   "checked": "11/19/2026",
+   "files": []
+  },
+  {
+   "id": 606,
+   "name": "Virtual Career Fairs for Vets",
+   "orgId": "489",
+   "org": "Vets Hired",
+   "orgUrl": "vetshired.us",
+   "description": "Find upcoming virtual events for military networking and career fairs.",
+   "website": "vetshired.us/virtual-events",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": "",
+   "needs": [
+    "Jobs & Education"
+   ],
+   "services": [
+    "Jobs & Education"
+   ],
+   "populations": [
+    "Military Spouses",
+    "Veterans"
+   ],
+   "careerTopics": [
+    "Find Jobs"
+   ],
+   "locations": [
+    "National"
+   ],
+   "areas": [
+    "Nationwide"
+   ],
+   "online": true,
+   "incomeBased": false,
+   "referralNeeded": false,
+   "faithBased": false,
+   "checked": "11/19/2026",
    "files": []
   }
  ]
