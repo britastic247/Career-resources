@@ -2791,6 +2791,83 @@
    "email": "",
    "address": "",
    "hours": ""
+  },
+  "490": {
+   "name": "Capital Staffing",
+   "slug": "capital-staffing",
+   "count": 1,
+   "description": "Greater Sacramento Area staffing agency.",
+   "website": "capitalstaffing.com",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": ""
+  },
+  "491": {
+   "name": "Pacific Staffing",
+   "slug": "pacific-staffing",
+   "count": 1,
+   "description": "A regional staffing agency.",
+   "website": "pacificstaffing.com",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": ""
+  },
+  "492": {
+   "name": "Roth Staffing Company",
+   "slug": "roth-staffing-company",
+   "count": 1,
+   "description": "",
+   "website": "",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": ""
+  },
+  "493": {
+   "name": "NW Staffing Resources",
+   "slug": "nw-staffing-resources",
+   "count": 1,
+   "description": "",
+   "website": "nwstaffing.com",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": ""
+  },
+  "494": {
+   "name": "PrideStaff",
+   "slug": "pridestaff",
+   "count": 1,
+   "description": "",
+   "website": "pridestaff.com",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": ""
+  },
+  "495": {
+   "name": "Aerotek",
+   "slug": "aerotek",
+   "count": 1,
+   "description": "",
+   "website": "aerotek.com",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": ""
+  },
+  "496": {
+   "name": "Adecco Staffing",
+   "slug": "adecco-staffing",
+   "count": 1,
+   "description": "",
+   "website": "adecco.com",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": ""
   }
  },
  "resources": [
@@ -9824,7 +9901,7 @@
     "Military Spouses"
    ],
    "careerTopics": [
-    "Find Jobs"
+    "Staffing Agency"
    ],
    "locations": [
     "Northern CA"
@@ -18539,6 +18616,261 @@
     "Nationwide"
    ],
    "online": true,
+   "incomeBased": false,
+   "referralNeeded": false,
+   "faithBased": false,
+   "checked": "11/19/2026",
+   "files": []
+  },
+  {
+   "id": 607,
+   "name": "Capital Staffing",
+   "orgId": "490",
+   "org": "Capital Staffing",
+   "orgUrl": "capitalstaffing.com",
+   "description": "Regional staffing agency with full-time, part-time, temporary, freelance, internship, and permanent positions. Both in-person and remote positions.\n\nHas employment partners all over the country and throughout Sacramento region in:\n\n- Accounting\n- Finance\n- Manufacturing\n- Healthcare\n- General labor\n- Human resources\n- Purchasing\n- Logistics\n- Delivery\n- Shipping\n- Dispatch\n- ...and more",
+   "website": "https://capitalstaffing.com/jobs",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": "",
+   "needs": [
+    "Jobs & Education"
+   ],
+   "services": [
+    "Jobs & Education"
+   ],
+   "populations": [
+    "Everyone"
+   ],
+   "careerTopics": [
+    "Staffing Agency"
+   ],
+   "locations": [
+    "Greater Sacramento Area"
+   ],
+   "areas": [
+    "Sacramento Area"
+   ],
+   "online": false,
+   "incomeBased": false,
+   "referralNeeded": false,
+   "faithBased": false,
+   "checked": "11/19/2026",
+   "files": []
+  },
+  {
+   "id": 608,
+   "name": "Pacific Staffing",
+   "orgId": "491",
+   "org": "Pacific Staffing",
+   "orgUrl": "pacificstaffing.com",
+   "description": "A staffing agency in Northern California.\n\n**Role Types**\n\n- Temporary and permanent\n- Temp to permanent\n- Direct hiring\n- Executive searches\n\n**Positions**\n\n- Administration\n- Customer service\n- Labor\n- IT/Computers\n- Finance\n- Human resources\n- Sales",
+   "website": "",
+   "phone": "(916) 925-2300",
+   "email": "",
+   "address": "",
+   "hours": "",
+   "needs": [
+    "Jobs & Education"
+   ],
+   "services": [
+    "Jobs & Education"
+   ],
+   "populations": [
+    "Adults"
+   ],
+   "careerTopics": [
+    "Staffing Agency"
+   ],
+   "locations": [
+    "Northern CA"
+   ],
+   "areas": [
+    "Northern California"
+   ],
+   "online": false,
+   "incomeBased": false,
+   "referralNeeded": false,
+   "faithBased": false,
+   "checked": "11/19/2026",
+   "files": []
+  },
+  {
+   "id": 609,
+   "name": "Ultimate Staffing",
+   "orgId": "492",
+   "org": "Roth Staffing Company",
+   "orgUrl": "",
+   "description": "Staffing agency filling direct-hiring positions as well as temporary and temp-to-hire. Has both in-person and remote opportunities.\n\nPositions are all over the country, but they have staffing offices in Sacramento and Roseville.\n\n- Office\n- Administration\n- Customer service\n- Human resources\n- Manufacturing/production\n\nRoseville, CA Office: https://www.ultimatestaffing.com/locations/view/roseville/\n\nSacramento, CA Office: https://www.ultimatestaffing.com/locations/view/sacramento/",
+   "website": "https://careers.ultimatestaffing.com/",
+   "phone": "Roseville: (916) 786-3336\n\nSacramento: (916) 286-0900",
+   "email": "",
+   "address": "",
+   "hours": "",
+   "needs": [
+    "Jobs & Education"
+   ],
+   "services": [
+    "Jobs & Education"
+   ],
+   "populations": [
+    "Adults"
+   ],
+   "careerTopics": [
+    "Staffing Agency"
+   ],
+   "locations": [
+    "United States"
+   ],
+   "areas": [
+    "Nationwide"
+   ],
+   "online": false,
+   "incomeBased": false,
+   "referralNeeded": false,
+   "faithBased": false,
+   "checked": "11/19/2026",
+   "files": []
+  },
+  {
+   "id": 610,
+   "name": "NW Staffing Resources",
+   "orgId": "493",
+   "org": "NW Staffing Resources",
+   "orgUrl": "nwstaffing.com",
+   "description": "",
+   "website": "https://jobs.nwstaffing.com/",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": "",
+   "needs": [
+    "Jobs & Education"
+   ],
+   "services": [
+    "Jobs & Education"
+   ],
+   "populations": [
+    "Adults"
+   ],
+   "careerTopics": [
+    "Staffing Agency"
+   ],
+   "locations": [],
+   "areas": [],
+   "online": false,
+   "incomeBased": false,
+   "referralNeeded": false,
+   "faithBased": false,
+   "checked": "11/19/2026",
+   "files": []
+  },
+  {
+   "id": 611,
+   "name": "PrideStaff",
+   "orgId": "494",
+   "org": "PrideStaff",
+   "orgUrl": "pridestaff.com",
+   "description": "National staffing agency with offices in Roseville, Sacramento, and Reno. Find location: https://www.pridestaff.com/locations/\n\n- Accounting/Finance\n- Administration\n- Customer Service/Call Center\n- Healthcare/Medical Office\n- Insurance\n- Legal\n- Management\n- Manufacturing\n- Sales/Marketing\n- Skilled Trades\n- Warehouse/Distribution/Logistics",
+   "website": "https://jobs.pridestaff.com",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": "",
+   "needs": [
+    "Jobs & Education"
+   ],
+   "services": [
+    "Jobs & Education"
+   ],
+   "populations": [
+    "Adults"
+   ],
+   "careerTopics": [
+    "Staffing Agency"
+   ],
+   "locations": [
+    "United States"
+   ],
+   "areas": [
+    "Nationwide"
+   ],
+   "online": false,
+   "incomeBased": false,
+   "referralNeeded": false,
+   "faithBased": false,
+   "checked": "11/19/2026",
+   "files": []
+  },
+  {
+   "id": 612,
+   "name": "Aerotek",
+   "orgId": "495",
+   "org": "Aerotek",
+   "orgUrl": "aerotek.com",
+   "description": "Global staffing agency with offices in Sacramento and Reno. Has both remote and on-site jobs; permanent and temp work.\n\n**Occupation Categories**\n\n- Aviation and airport operations\n- Construction\n- Distribution\n- Logistics\n- Facilities\n- Maintenance\n- Manufacturing and production",
+   "website": "https://www.aerotek.com/en/career-opportunities",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": "",
+   "needs": [
+    "Jobs & Education"
+   ],
+   "services": [
+    "Jobs & Education"
+   ],
+   "populations": [
+    "Adults"
+   ],
+   "careerTopics": [
+    "Staffing Agency"
+   ],
+   "locations": [
+    "Anywhere"
+   ],
+   "areas": [
+    "Nationwide"
+   ],
+   "online": false,
+   "incomeBased": false,
+   "referralNeeded": false,
+   "faithBased": false,
+   "checked": "11/19/2026",
+   "files": []
+  },
+  {
+   "id": 613,
+   "name": "Adecco Staffing",
+   "orgId": "496",
+   "org": "Adecco Staffing",
+   "orgUrl": "adecco.com",
+   "description": "Staffing agency with a branch in Sacramento. Has both in-person and remote jobs.\n\n**Occupation Categories**\n\n- Healthcare & biology\n- Accounting & finance\n- Information technology\n- Warehousing\n- Business operations & management\n- Call center & customer service\n- Office, clerical, and administrative\n- Industrial & manufacturing\n- Education, human resources, and training\n- Engineering\n- Transportation",
+   "website": "https://www.adecco.com/en-us/job-search",
+   "phone": "",
+   "email": "",
+   "address": "",
+   "hours": "",
+   "needs": [
+    "Jobs & Education"
+   ],
+   "services": [
+    "Jobs & Education"
+   ],
+   "populations": [
+    "Adults"
+   ],
+   "careerTopics": [
+    "Staffing Agency"
+   ],
+   "locations": [
+    "Anywhere"
+   ],
+   "areas": [
+    "Nationwide"
+   ],
+   "online": false,
    "incomeBased": false,
    "referralNeeded": false,
    "faithBased": false,
